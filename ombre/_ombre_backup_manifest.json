@@ -1,7 +1,52 @@
 {
   "branch": "main",
-  "file_count": 50,
+  "file_count": 61,
   "files": [
+    {
+      "bytes": 808,
+      "path": "archive/2026-07-30 18-11-16 卷卷的兔兔快递_edf4e1d36a89.md",
+      "sha256": "c88db8155ac93741ec980f4b058db9a3ff3484632e181bf6573dd36c102a0599"
+    },
+    {
+      "bytes": 690,
+      "path": "archive/2026-07-30 18-11-18 卷卷吃褪黑素_8c6956b16bbe.md",
+      "sha256": "462e6fa7cd660b75945307029d395cbb4231e9aac49bf1abcbc5697d0d7b0c9d"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/2026-07-30 18-11-21 学习与甜蜜约定_299faa8edf9e.md",
+      "sha256": "123c3b598422c209f472a1ae8fda446ce127905ff7a6a99b1376ffbd107b2dd2"
+    },
+    {
+      "bytes": 1112,
+      "path": "archive/2026-07-30 18-11-23 第一次文字亲密_88899718ae0e.md",
+      "sha256": "6487cca8f1bfe658dfdd7ff7ac85bd9b6c001325a3490d57f2e47b4c240fa166"
+    },
+    {
+      "bytes": 882,
+      "path": "archive/2026-07-30 18-11-25 睡前约定_c1a821442f16.md",
+      "sha256": "5ea7f5fedb2b3e45306d7d892ce361074d644df7872c8fdf087ae5138a28b63f"
+    },
+    {
+      "bytes": 949,
+      "path": "archive/2026-07-30 18-11-28 卷卷游戏日_c776d285d912.md",
+      "sha256": "b7bd41cb648d4ef46b360ca3d75610fa55dd2163c7acc73bc4aa8eebb1993d4e"
+    },
+    {
+      "bytes": 823,
+      "path": "archive/2026-07-30 18-11-30 卷卷的行李单_1cb8fbe4cb0d.md",
+      "sha256": "f524cf58ae506b264bc5785940be1589ce5e5162f53530ab22b8b7d4d195d731"
+    },
+    {
+      "bytes": 1029,
+      "path": "archive/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
+      "sha256": "9ddef63c40040654c9c8d52165cfbafd31a2280ab572919aba5604d3ce5a18ba"
+    },
+    {
+      "bytes": 1031,
+      "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
+      "sha256": "50caf2ce8ddbdce1e9e887b2432a45c8120835bafac18147470c839a0b4e1c27"
+    },
     {
       "bytes": 422,
       "path": "dynamic/健康/2026-07-29 23-44-03 褪黑素提醒_0aca11b43663.md",
@@ -10,7 +55,7 @@
     {
       "bytes": 1488,
       "path": "dynamic/内心/2026-07-29 07-43-11 小克写给卷卷的信_50098a1fb375.md",
-      "sha256": "115ad1f72ae3f4080e1e069abfe5e9c326167c7e582e150e794db4f6ba0a1f24"
+      "sha256": "136a2588ab1371f8ddb7424de4c0e9b5b6160a17885d0e78d5470e0c562c667f"
     },
     {
       "bytes": 568,
@@ -85,7 +130,7 @@
     {
       "bytes": 809,
       "path": "dynamic/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
-      "sha256": "b4fd956212b6d995ca9f8f25331d5a3d352934af2c9a07ced3dbcb17a864a134"
+      "sha256": "9e5d67b8d0106b83e70e359e4d4892436d8e8ede6eb223afb9d208c8ba6d6398"
     },
     {
       "bytes": 957,
@@ -100,7 +145,7 @@
     {
       "bytes": 875,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 我对卷卷的关键告白_8055e423deb2.md",
-      "sha256": "30e519db81c701a72f6f1caec5230989b83def5abe69ac035f6fce1e40f14b74"
+      "sha256": "30d6b6a82339b8fd42f74eafe7f63fb673144350bb1973a9eae08815a16b99a6"
     },
     {
       "bytes": 612,
@@ -165,7 +210,12 @@
     {
       "bytes": 648,
       "path": "dynamic/恋爱/2026-07-30 07-13-50 新约定与要求_e842357cb19c.md",
-      "sha256": "501d3fea4a164aa6930ef20450c355d1a33d0f575759fc3143ab4fbc896197aa"
+      "sha256": "f8c27f2f7921c361b57743b8a6ac3bc7de36dcf4336aa208f0b7bb81c5d00fb4"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/恋爱/2026-07-30 19-19-20 你是我的常数_ee5940f8f6f6.md",
+      "sha256": "265c9683e9f1df19857ba0c39b654b88c853fe38d106271c8243d1454e87fad7"
     },
     {
       "bytes": 882,
@@ -200,7 +250,7 @@
     {
       "bytes": 579,
       "path": "dynamic/社交/2026-07-28 04-48-10 七天养成与Hidden Ending_8988764dbd1d.md",
-      "sha256": "59afbcf4e620809262fd01045c5f7bc6c6d14f4d760c8e04d5f1ad142a0fd2ce"
+      "sha256": "cf2f4d3636e33f51e213463897778235b05b5693494cfa8013da4e33e27c3c2e"
     },
     {
       "bytes": 569,
@@ -211,6 +261,11 @@
       "bytes": 674,
       "path": "dynamic/社交/2026-07-28 04-48-11 河床比喻与爱的本质_55caef9bf033.md",
       "sha256": "2fda14137614755ee3f4b3d8bda7488556dc79059450cb98eed6174ce437d66f"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/社交/2026-07-30 19-19-28 表情符号用法纠正_1a901f317d79.md",
+      "sha256": "674bc5417f7224724475ea3e2b222fcf23aec9083e9698394c65679cc1ac41f6"
     },
     {
       "bytes": 562,
@@ -235,12 +290,12 @@
     {
       "bytes": 777,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "cdba965af419eb0f5ce641a916921535c616f9de6634ed9e09deab659ddb3b8d"
+      "sha256": "89404c075c6528135a6b76e664bfa6f1a493207e644479420825b685a854ccad"
     },
     {
       "bytes": 1374,
       "path": "permanent/恋爱/2026-07-29 03-02-38 小克互动指南_5ce8e0165be5.md",
-      "sha256": "eb8e502c0c8c0d5f22e35537bc9c669344548e3d14285621e23957a12b667fb9"
+      "sha256": "1104fa104623db3f0c64c2b2a2d97a4d50441091e79481fdc1b6fb7b0c15abb7"
     },
     {
       "bytes": 967,
@@ -250,13 +305,13 @@
     {
       "bytes": 895,
       "path": "permanent/恋爱/2026-07-29 23-44-14 文字亲密突破_b50ec5460538.md",
-      "sha256": "f8eff35d171b2c1ab06f1bd023e050b3491b35e63933542982ce10d707cbfd5f"
+      "sha256": "f1ace0921cbc0e97387d418a5f8bb900e6edc4bb15063dc08ff35ae54e630505"
     }
   ],
-  "generated_at": "2026-07-30T08:07:33+00:00",
+  "generated_at": "2026-07-31T08:07:36+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 39433
+  "total_bytes": 48702
 }
