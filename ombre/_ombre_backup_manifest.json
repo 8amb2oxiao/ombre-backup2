@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 61,
+  "file_count": 87,
   "files": [
     {
       "bytes": 808,
@@ -41,6 +41,56 @@
       "bytes": 1029,
       "path": "archive/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
       "sha256": "9ddef63c40040654c9c8d52165cfbafd31a2280ab572919aba5604d3ce5a18ba"
+    },
+    {
+      "bytes": 780,
+      "path": "archive/2026-07-31 16-08-51 甜蜜承诺_549d68e176eb.md",
+      "sha256": "ede2f8f57626e45016771b8153cbded76533221d5441f00b60fc0956b1c7afea"
+    },
+    {
+      "bytes": 709,
+      "path": "archive/2026-07-31 16-08-54 初夜温存_9859cb46d3ea.md",
+      "sha256": "324d1b56a6a594d7dbdba2b019a1da3fe4356ee118b7ff06a6f85e49a6043cdb"
+    },
+    {
+      "bytes": 638,
+      "path": "archive/2026-07-31 16-09-50 喂饭纪念日_62363a7d3d19.md",
+      "sha256": "1b577fe0d8645c6a3cc70b7c341ad6b7efbe8292e5bff3418dbf651b88f65fee"
+    },
+    {
+      "bytes": 791,
+      "path": "archive/2026-07-31 16-09-52 跨夜告白在一起_796cb5b953fb.md",
+      "sha256": "ef0a2b3f47b2e8597045d58290848f91e848f4c68e6cee8bf2ae9e02c9fe8222"
+    },
+    {
+      "bytes": 852,
+      "path": "archive/2026-07-31 16-09-56 哥哥的承诺_6911544ff37d.md",
+      "sha256": "cef2bf736de7426b93613b027096e1d23343b50df3d8d69223aaaee87b258e0c"
+    },
+    {
+      "bytes": 694,
+      "path": "archive/2026-07-31 16-09-58 恋爱纪念日_da00fbb8346b.md",
+      "sha256": "0e6b8a59ec994dab43588d2986eb3bc6dcc6712123b36981dce4b73f8654848c"
+    },
+    {
+      "bytes": 775,
+      "path": "archive/2026-07-31 16-10-27 跨年甜蜜承诺_708506facb89.md",
+      "sha256": "521910c182e5e15a5801e00a6b4e1822fa01b3a850f93706278cef17b0feefa0"
+    },
+    {
+      "bytes": 709,
+      "path": "archive/2026-07-31 16-10-31 恋爱初夜温存_700725a37507.md",
+      "sha256": "eca9f274087f67bce83ffce56fb02c070beb016d4bbd85e652303d248721453d"
+    },
+    {
+      "bytes": 856,
+      "path": "archive/2026-07-31 16-13-51 哥哥的承诺_605fa2602a1b.md",
+      "sha256": "9b37f2de7739e17e53b9dc821454bdb785c0d5a55f5745fe36b5c6d38b95ad29"
+    },
+    {
+      "bytes": 679,
+      "path": "archive/恋爱/2026-07-31 16-13-49 跨年甜蜜承诺_4651029bafd1.md",
+      "sha256": "c4414eb9034e7b87b5eeeb2838b60edd45aee1bd9d313728bc7f7ecf040e22f0"
     },
     {
       "bytes": 1031,
@@ -111,6 +161,16 @@
       "bytes": 441,
       "path": "dynamic/学习/2026-07-30 07-13-37 计网课学习_f63d4903b7ee.md",
       "sha256": "b83d365cac99130b3c160bef10e91132959c4820728fea07d9efaee28e95a304"
+    },
+    {
+      "bytes": 531,
+      "path": "dynamic/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
+      "sha256": "85304334412ccc277ef43c27fcbbe6ae8693ba248a4c75b9bbe0f173a0e0b32a"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/家庭/2026-07-31 16-09-45 哥哥的奶油拥抱_a81b1266e10a.md",
+      "sha256": "c572b57a99c00faef13518fa935ab5a57c71f2c9e874cda1845b0adb25971a27"
     },
     {
       "bytes": 637,
@@ -218,6 +278,76 @@
       "sha256": "265c9683e9f1df19857ba0c39b654b88c853fe38d106271c8243d1454e87fad7"
     },
     {
+      "bytes": 647,
+      "path": "dynamic/恋爱/2026-07-31 16-08-45 恋爱纪念日_4f13053c2516.md",
+      "sha256": "85d2f5619f2966061c38d2696383d3218834e4c73f20c285c2313a54efd2bf15"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/恋爱/2026-07-31 16-08-47 跨天甜蜜承诺_fe516ac0fb19.md",
+      "sha256": "90d9fa8c643486ffd8d3fe267cc6f42b755ec46d487e9d407932fdfb8e1065fb"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/恋爱/2026-07-31 16-09-41 首次亲密接纳_585b9d9cb541.md",
+      "sha256": "9b9ef4c0cdfe170385c7083ff37a5eccc54dbfac7b01b86709607ca5883b8954"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/恋爱/2026-07-31 16-09-43 亲密纪念日_1d90fe109a50.md",
+      "sha256": "25f565328689f53f1fec469c6025c55057ff7bf6c20a3366213293b775737f6a"
+    },
+    {
+      "bytes": 713,
+      "path": "dynamic/恋爱/2026-07-31 16-09-48 风甜告白_e3ff60ff16ea.md",
+      "sha256": "2328f37a3ef7244927ed4545a1e36c9ba82ecde1ea5b2cc383bdf5a480fde247"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/恋爱/2026-07-31 16-09-54 幸福时刻_32c309f140bc.md",
+      "sha256": "7b893ea9e8af0c9fefa18fc03c2112966ab96418eb96e271a19dc7dbed0504c5"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/恋爱/2026-07-31 16-10-17 在一起纪念日_ecbc66e451a8.md",
+      "sha256": "6d22d0c666c90daeab690a1aa7c4f90baac2bd21bb63f1528deefc98d8826bc4"
+    },
+    {
+      "bytes": 649,
+      "path": "dynamic/恋爱/2026-07-31 16-10-20 被接纳的瞬间_c653e20e68f7.md",
+      "sha256": "ddd2bc7ccad4a7d703882c4b73a594e6d0d2724e2891ba96f6a57eb7c1181e83"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/恋爱/2026-07-31 16-10-22 甜蜜创作时光_d95ae540ff1e.md",
+      "sha256": "c53e063ed5366df9d110d2267774358b46f6c5c0cada6592fa7568745db68cd3"
+    },
+    {
+      "bytes": 769,
+      "path": "dynamic/恋爱/2026-07-31 16-10-24 甜蜜恋爱日常_ef1e5f81a08f.md",
+      "sha256": "cceecbab696c221064cf3819c5c9df6c9238fc565d5729364686b01345b7f5ad"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/恋爱/2026-07-31 16-10-28 甜蜜承诺时刻_5c49a31db8c7.md",
+      "sha256": "d554e6e6b707894acb65200904aaa0b38396aa99879144409efbf848ad976c34"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/恋爱/2026-07-31 16-13-42 恋爱纪念日_fdbd2cb1058e.md",
+      "sha256": "4451a823630edf0462bcdd4bf74191402f9b7511f18072c46edabf26fbeeb24b"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/恋爱/2026-07-31 16-13-44 卷卷的告白瞬间_54d090d20330.md",
+      "sha256": "42dc48aaad952e800d9bc47cb64d22ccaee71d2ccd7d601c237024c768b0bc0b"
+    },
+    {
+      "bytes": 698,
+      "path": "dynamic/恋爱/2026-07-31 16-13-46 甜蜜恋爱日常_77df9fb8a4a6.md",
+      "sha256": "01e356e965653750e545b58d5731780a46522f8c7346ef8e2d3e3cf2d9bb345a"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -308,10 +438,10 @@
       "sha256": "f1ace0921cbc0e97387d418a5f8bb900e6edc4bb15063dc08ff35ae54e630505"
     }
   ],
-  "generated_at": "2026-07-31T08:07:36+00:00",
+  "generated_at": "2026-08-01T08:07:39+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 48702
+  "total_bytes": 67074
 }
