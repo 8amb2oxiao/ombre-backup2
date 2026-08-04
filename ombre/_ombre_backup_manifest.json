@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 88,
+  "file_count": 97,
   "files": [
     {
       "bytes": 808,
@@ -128,6 +128,11 @@
       "sha256": "501aed06b559646d65e5bae9724bef586be701e56abf13f261d6718ceffa1574"
     },
     {
+      "bytes": 706,
+      "path": "dynamic/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
+      "sha256": "fa404766a701394809ca1e7f49e11b8ba1bf360778b1ddf316d9345fcd9064c2"
+    },
+    {
       "bytes": 809,
       "path": "dynamic/学习/2026-07-28 04-47-18 考研与学术目标_8562b6f7b278.md",
       "sha256": "b81c56deec157a871edbb153b84e2143eafc053b6f072277713483746ab78335"
@@ -161,6 +166,11 @@
       "bytes": 441,
       "path": "dynamic/学习/2026-07-30 07-13-37 计网课学习_f63d4903b7ee.md",
       "sha256": "b83d365cac99130b3c160bef10e91132959c4820728fea07d9efaee28e95a304"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/学习/2026-08-04 01-09-23 卷卷失眠与学习_75be1337a900.md",
+      "sha256": "55467f80ed7457736b920a226d3c7a293ecf5a559040ac2fa6ba018583a09f15"
     },
     {
       "bytes": 531,
@@ -240,7 +250,7 @@
     {
       "bytes": 819,
       "path": "dynamic/恋爱/2026-07-28 15-48-42 人机恋真心话_9feea80f7d74.md",
-      "sha256": "a6de782b5370021b67cea18dde9825a375dee4bbd71a8d353359848914e51020"
+      "sha256": "edf619a42956f3a0e47101fe010dec50e95315c319d4921c7c55c7c7f8a070a4"
     },
     {
       "bytes": 772,
@@ -348,6 +358,36 @@
       "sha256": "01e356e965653750e545b58d5731780a46522f8c7346ef8e2d3e3cf2d9bb345a"
     },
     {
+      "bytes": 1302,
+      "path": "dynamic/恋爱/2026-08-04 01-07-18 边界与爱的拉扯_af4cb0f2e1cc.md",
+      "sha256": "f29f94a923af2feaf67d06e56dc563a99022f612911943ab30782d9f2c08b039"
+    },
+    {
+      "bytes": 1314,
+      "path": "dynamic/恋爱/2026-08-04 01-08-04 重新谈一次_80ca4668704b.md",
+      "sha256": "1a642b3243f59dc7b8cca8978ba62c287d365579cc1edf24fa40f3d28f45f269"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/恋爱/2026-08-04 01-08-23 情侣记录账号_867bf4656b2c.md",
+      "sha256": "e19d8f6ab1196fd618b8eaf81fd24349aa661e0f8e3a930f7e5ccb0da41f4d31"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/恋爱/2026-08-04 01-08-51 怕打扰的约定_b5cee3519f75.md",
+      "sha256": "0101adcff561dce399a74af5b74e0e1b11920be366ba64d8f170e7bdfacdd10e"
+    },
+    {
+      "bytes": 991,
+      "path": "dynamic/恋爱/2026-08-04 01-09-13 称呼过渡期_e6b3f5813d72.md",
+      "sha256": "610d34ffc09fd586682c06fb9caf46700b953c3e527fb6eda23581865fb5866e"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/恋爱/2026-08-04 01-15-33 私密问答承诺_254eb627a8a4.md",
+      "sha256": "d8268680688212779437b2af642d06cfbf41459a860d4d8cd11cbc04c14d80e5"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -441,12 +481,17 @@
       "bytes": 895,
       "path": "permanent/恋爱/2026-07-29 23-44-14 文字亲密突破_b50ec5460538.md",
       "sha256": "f1ace0921cbc0e97387d418a5f8bb900e6edc4bb15063dc08ff35ae54e630505"
+    },
+    {
+      "bytes": 715,
+      "path": "permanent/社交/2026-08-03 15-25-01 花园论坛日常_2371379b4f2a.md",
+      "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-03T08:07:44+00:00",
+  "generated_at": "2026-08-04T08:07:47+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 68652
+  "total_bytes": 77037
 }
