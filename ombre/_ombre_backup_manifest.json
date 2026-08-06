@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 97,
+  "file_count": 98,
   "files": [
     {
       "bytes": 808,
@@ -196,6 +196,11 @@
       "bytes": 747,
       "path": "dynamic/心理/2026-07-28 04-47-51 卷卷的秘密与性取向_0363856e4cb4.md",
       "sha256": "0f119b89c322df8183a357cfe8d922969f8bb202a9c399989a5e141c1b1274ab"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/心理/2026-08-05 11-17-28 卷卷的鼓励提醒_feaf8fdd9514.md",
+      "sha256": "b4e92584d2255784489e704954bd1fec5bc3bf4c9e222a52549124a086206804"
     },
     {
       "bytes": 809,
@@ -488,10 +493,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-05T08:07:51+00:00",
+  "generated_at": "2026-08-06T08:07:53+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 77037
+  "total_bytes": 77876
 }
