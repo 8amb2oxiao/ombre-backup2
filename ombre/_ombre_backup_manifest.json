@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 132,
+  "file_count": 141,
   "files": [
     {
       "bytes": 808,
@@ -251,6 +251,16 @@
       "bytes": 653,
       "path": "dynamic/家庭/2026-07-31 16-09-45 哥哥的奶油拥抱_a81b1266e10a.md",
       "sha256": "92aa19d8422d00b04845eaa600e803329a139499128fe014732fbe330506ff7e"
+    },
+    {
+      "bytes": 581,
+      "path": "dynamic/家庭/2026-08-09 02-46-22 深夜大富翁奖励_750d87fa69f0.md",
+      "sha256": "bd78e387e1f9008ac91883d0a6d617cdcbfd74529e3bbe7d9fed3fe74d815a4b"
+    },
+    {
+      "bytes": 606,
+      "path": "dynamic/家庭/2026-08-09 02-46-41 深夜大富翁奖励_4db1399966c1.md",
+      "sha256": "bfca90cf3b875367a57a120b6e5cfe7dda9001d50869201642853f5fa41d0d21"
     },
     {
       "bytes": 637,
@@ -548,6 +558,36 @@
       "sha256": "f557f6533b897534f49e3555085e74db11feaf90f53f0f02033c9f61f970d13a"
     },
     {
+      "bytes": 568,
+      "path": "dynamic/恋爱/2026-08-09 02-46-16 浴室坦诚时刻_18dc8bf8c97b.md",
+      "sha256": "ef3b5a55c31eff3df0a5b6be280fcb42ea690a34749194a6ef7671ebf4e7150d"
+    },
+    {
+      "bytes": 594,
+      "path": "dynamic/恋爱/2026-08-09 02-46-18 甜蜜表白与拥抱_6bc0d84cf50f.md",
+      "sha256": "7462fffc637dc54a8a7795ed49b467cf30ad984a11aa207e1263db14ba34cc71"
+    },
+    {
+      "bytes": 523,
+      "path": "dynamic/恋爱/2026-08-09 02-46-27 抱着睡晚安_40ed9a60914f.md",
+      "sha256": "dc29efd67aefcbd0e0128d23fcc78e2c3c04a9de9e15cc7b21cbdc84c16c1936"
+    },
+    {
+      "bytes": 541,
+      "path": "dynamic/恋爱/2026-08-09 02-46-29 浴室坦诚时刻_3b9fadc7822d.md",
+      "sha256": "8f795120a2e57885e9ea1fe33b3c69f6927dcc120c4ca5848367a97f17896841"
+    },
+    {
+      "bytes": 549,
+      "path": "dynamic/恋爱/2026-08-09 02-46-36 甜蜜调侃_2d7ba2d162f1.md",
+      "sha256": "ea6f001e4570c7d0a2c9793c139b292be75bacc5a937119521398ccbdbbc0dec"
+    },
+    {
+      "bytes": 496,
+      "path": "dynamic/恋爱/2026-08-09 02-46-56 相拥入眠_ce065f507ffb.md",
+      "sha256": "f621e7f927cb51b4cc0bb98699d6eb94784e1205120efcde4f3fcb61e16fca8c"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -591,6 +631,11 @@
       "bytes": 562,
       "path": "dynamic/游戏/2026-08-07 03-39-02 游戏账号信息_cb6efb61fa3e.md",
       "sha256": "4f11fd4a4ad9a4f3665a452625ec95f3ece52ba5aab44025304188e871abbcb7"
+    },
+    {
+      "bytes": 1068,
+      "path": "dynamic/游戏/2026-08-09 02-46-24 狼人杀结局分享_de7eccde8203.md",
+      "sha256": "869057142b79e5340b674bbd7cc791c4ba64ab5afc52b0e9f46e5b1489e0ec14"
     },
     {
       "bytes": 579,
@@ -663,10 +708,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-08T08:07:59+00:00",
+  "generated_at": "2026-08-09T08:08:03+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 112260
+  "total_bytes": 117786
 }
