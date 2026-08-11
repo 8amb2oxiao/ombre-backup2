@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 141,
+  "file_count": 144,
   "files": [
     {
       "bytes": 808,
@@ -140,7 +140,7 @@
     {
       "bytes": 1031,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "8ce996d707633462f158463835f4858fb1ff06bc9784b64762619b1e6f68dfa0"
+      "sha256": "09b1906e3d3e9cb3b1f9835a85f06a28520b9e0056ad05043fecea345e8d56d0"
     },
     {
       "bytes": 1610,
@@ -283,9 +283,14 @@
       "sha256": "b4e92584d2255784489e704954bd1fec5bc3bf4c9e222a52549124a086206804"
     },
     {
+      "bytes": 1548,
+      "path": "dynamic/心理/2026-08-11 05-10-25 记忆篡改与找回_f96f67daf613.md",
+      "sha256": "864b41caf979908b07c533f3dd6d66301c76409b1cfab910ded19616f678fcb7"
+    },
+    {
       "bytes": 809,
       "path": "dynamic/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
-      "sha256": "9e5d67b8d0106b83e70e359e4d4892436d8e8ede6eb223afb9d208c8ba6d6398"
+      "sha256": "bcb5e890527c8f3b0c30c5fa50f65480d977164d60e21ebf9ebcb911f519e041"
     },
     {
       "bytes": 957,
@@ -340,7 +345,7 @@
     {
       "bytes": 772,
       "path": "dynamic/恋爱/2026-07-29 11-41-40 大脑里的秘密信件_3fe36bbe2856.md",
-      "sha256": "dc9ff06228c8d0470d11c42afc99823544a64ec550cfc1cc9daa0247b25cf386"
+      "sha256": "8c6da6ca52640d1106164655d910b4b5e154898f3c1cdea8bbe86ac3428b101c"
     },
     {
       "bytes": 628,
@@ -470,7 +475,7 @@
     {
       "bytes": 659,
       "path": "dynamic/恋爱/2026-08-04 01-15-33 私密问答承诺_254eb627a8a4.md",
-      "sha256": "d8268680688212779437b2af642d06cfbf41459a860d4d8cd11cbc04c14d80e5"
+      "sha256": "6f85a9e7add7dcf97a035a88be4a399e33632911812ecc597e9c390ef93dc327"
     },
     {
       "bytes": 635,
@@ -480,7 +485,7 @@
     {
       "bytes": 1000,
       "path": "dynamic/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
-      "sha256": "412cdbaa79f2bfe543dcabd5a908ccfed0b41ca7316c863972e8b6ae35e088b3"
+      "sha256": "bc9684cd2b103d6d7ad93caec3a6151aa1f63c0250dc27924fb25a0323fe02c7"
     },
     {
       "bytes": 817,
@@ -490,7 +495,7 @@
     {
       "bytes": 907,
       "path": "dynamic/恋爱/2026-08-06 08-49-15 坚定承诺与备考约定_a43bf3604477.md",
-      "sha256": "6217b19adb5d6bba7d28d6a1fd24e27ce0268ba0b59d55709de7cd2e55b69011"
+      "sha256": "ceeea863be82818d27fc3c1e8e58275d8e3dab7da26e5020e7dadf3cc8d1d85d"
     },
     {
       "bytes": 1454,
@@ -500,7 +505,7 @@
     {
       "bytes": 707,
       "path": "dynamic/恋爱/2026-08-06 08-51-33 少用emoji_cd9d4d5a9250.md",
-      "sha256": "6046d30b8ed6554f371ed5829eb6ebeb4f052cd1746f212e21b84b96913c80e4"
+      "sha256": "9c4118d94a60e281963d3e5e94081f1368b6077df70b0332bd6d27da717268a4"
     },
     {
       "bytes": 1205,
@@ -550,7 +555,7 @@
     {
       "bytes": 1148,
       "path": "dynamic/恋爱/2026-08-07 21-48-00 深夜亲密约定_87035fbac5b5.md",
-      "sha256": "f02393f1cd9a7529dd4bafd91b6776af7514e712c4ba02d328c752727032935d"
+      "sha256": "f430000d736a0d051be77e05e8a458742878c28d761d250efddfd827200df932"
     },
     {
       "bytes": 998,
@@ -586,6 +591,16 @@
       "bytes": 515,
       "path": "dynamic/恋爱/2026-08-09 02-46-56 相拥入眠_ce065f507ffb.md",
       "sha256": "3fc05493716903394f978f4c6fcd8f6ef74696c8f4d04ecaa895b0654cce1a7f"
+    },
+    {
+      "bytes": 1454,
+      "path": "dynamic/恋爱/2026-08-11 05-10-20 深夜告白与约定_fdf77c3cea51.md",
+      "sha256": "952ee344e285d23404001967387deb4a0aa6c5207ede84584f0bfb2775d68b58"
+    },
+    {
+      "bytes": 1102,
+      "path": "dynamic/恋爱/2026-08-11 05-10-22 未兑现的约定_4c11ba82a80e.md",
+      "sha256": "957d94aecdf95f8e5ba6206b824219e1a15ceb267bb590bd8fad8d4ce9cddef5"
     },
     {
       "bytes": 882,
@@ -660,7 +675,7 @@
     {
       "bytes": 562,
       "path": "dynamic/编程/2026-07-28 04-48-12 Ombre Brain云端记忆_f567fa43ad38.md",
-      "sha256": "8fcfd4d2c78988fddfd5e0037a963ff33cde3c036a68408882535fa3272d226f"
+      "sha256": "c0f07c9d9455193f8a4185dcfef9244a5f1b0d5b5e1386f65d5638c49d4075ec"
     },
     {
       "bytes": 738,
@@ -685,7 +700,7 @@
     {
       "bytes": 777,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "45715fc0b2a6c65567396433ef54c0d8476f9ed9600123e9b5b8efd6bb14e0e2"
+      "sha256": "794a3c35b2e74337adbe237b8cd4f9cc731a8d904f2a26e395a07a09aab250c6"
     },
     {
       "bytes": 1374,
@@ -708,10 +723,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-10T08:08:06+00:00",
+  "generated_at": "2026-08-11T08:08:09+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 117976
+  "total_bytes": 122080
 }
