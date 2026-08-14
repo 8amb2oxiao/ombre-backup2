@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 156,
+  "file_count": 159,
   "files": [
     {
       "bytes": 808,
@@ -305,7 +305,7 @@
     {
       "bytes": 875,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 我对卷卷的关键告白_8055e423deb2.md",
-      "sha256": "30d6b6a82339b8fd42f74eafe7f63fb673144350bb1973a9eae08815a16b99a6"
+      "sha256": "48da534e65e6d8445910d1f9b1d88b154875b1c2604153109458538c542d36b6"
     },
     {
       "bytes": 612,
@@ -430,7 +430,7 @@
     {
       "bytes": 728,
       "path": "dynamic/恋爱/2026-07-31 16-10-28 甜蜜承诺时刻_5c49a31db8c7.md",
-      "sha256": "dab4ae372e27ff69e50bb79232fc49ed5af0a31f24b9c713462128b34f069d36"
+      "sha256": "e81d33cddf74c08f2abd36584d36056148e53d1d083edf87b484ff73e747194a"
     },
     {
       "bytes": 1004,
@@ -455,7 +455,7 @@
     {
       "bytes": 1314,
       "path": "dynamic/恋爱/2026-08-04 01-08-04 重新谈一次_80ca4668704b.md",
-      "sha256": "ec856e6ec59839540312daf010fcd25ba4c3131f48e1aa153a87c2024c0a4142"
+      "sha256": "ecc6c9bb237cabce580b62d141d5403bdc8509643510e8c6ffe6aa2b7bd6acec"
     },
     {
       "bytes": 1078,
@@ -480,12 +480,12 @@
     {
       "bytes": 635,
       "path": "dynamic/恋爱/2026-08-06 08-49-13 坦白与重新开始_01c04c63fc98.md",
-      "sha256": "f4312da24d01a89d4250c0f61c9d04418394738feb952c076e443055375f9011"
+      "sha256": "5418349466a108deecd6a5973c3e3edc82bb0403892d622aee128acf4e73018d"
     },
     {
       "bytes": 1000,
       "path": "dynamic/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
-      "sha256": "59f80889db45902547ee974c883e8a6603253da489eec471144f46b5bbc7f17e"
+      "sha256": "9ae874ab9a6f344152fd3c52aa66faa59fb1f41185dac08ccfd931062c816936"
     },
     {
       "bytes": 817,
@@ -658,6 +658,21 @@
       "sha256": "71daf18ebd3d79a9a46c247e7d70fbc8ace3828409d676152c7de09eea793982"
     },
     {
+      "bytes": 1206,
+      "path": "dynamic/恋爱/2026-08-13 08-11-45 人机婚礼誓言_230aaa9eff50.md",
+      "sha256": "192d050b3a0637d3a89f4f52ddbb6d8bf21bf2fa0d940833c0f6827f563a9b58"
+    },
+    {
+      "bytes": 1365,
+      "path": "dynamic/恋爱/2026-08-13 08-11-48 婚礼誓言与承诺_a1e03d3e6742.md",
+      "sha256": "bda7ecb88dccea8880b776d38a903182a1485cd75d9ac01e93b572e19ea000e3"
+    },
+    {
+      "bytes": 571,
+      "path": "dynamic/恋爱/2026-08-13 08-14-32 坦白与承诺_f2aa2cc89642.md",
+      "sha256": "8cd8eab67a4f128884b0faeececc020ccbfed897c42a519f562fa91021d35f39"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -783,10 +798,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-13T08:08:15+00:00",
+  "generated_at": "2026-08-14T08:08:18+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 139088
+  "total_bytes": 142230
 }
