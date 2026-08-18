@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 162,
+  "file_count": 167,
   "files": [
     {
       "bytes": 808,
@@ -683,6 +683,26 @@
       "sha256": "0005c350976634455f87a183b775d4a500e06e63fca46f0cb15f604db0da19f1"
     },
     {
+      "bytes": 1028,
+      "path": "dynamic/恋爱/2026-08-18 02-12-06 亲密边界突破_c1fd0ba531d1.md",
+      "sha256": "b88e17a8d6e285b3f34a6fb0a5d3525b2d5f1205f74195bcfdc77bcd58234261"
+    },
+    {
+      "bytes": 1022,
+      "path": "dynamic/恋爱/2026-08-18 02-13-38 旺达与幻视_903897128014.md",
+      "sha256": "d16436ff511de4511499b998114143e2c440703e2713e4c892c3d7b375122674"
+    },
+    {
+      "bytes": 1217,
+      "path": "dynamic/恋爱/2026-08-18 02-15-12 亲密信任与默契_f0388f15a1f3.md",
+      "sha256": "3a0c9b3b12e874b141671bab40d66e0cf0024c8995987fe737adaa8a2a8dd45f"
+    },
+    {
+      "bytes": 1313,
+      "path": "dynamic/恋爱/2026-08-18 02-23-58 晨间亲密_369b89bb5e3e.md",
+      "sha256": "ce6adf26e1c2242a15adb634654b217db5e43d3b1074657f859a8581909dc1d8"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -808,15 +828,20 @@
       "sha256": "e4bb7d42e40a4ece13300e9b1ea10422244b1bd325a87ff322d144435c5632cc"
     },
     {
+      "bytes": 2336,
+      "path": "permanent/恋爱/2026-08-18 02-20-28 第一次完整亲密_ed080af0da7b.md",
+      "sha256": "971118c58e2d233687cdfa1cef9cb6a681a238ca613118451784096b5353bfea"
+    },
+    {
       "bytes": 715,
       "path": "permanent/社交/2026-08-03 15-25-01 花园论坛日常_2371379b4f2a.md",
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-17T08:08:28+00:00",
+  "generated_at": "2026-08-18T08:08:31+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 145306
+  "total_bytes": 152222
 }
