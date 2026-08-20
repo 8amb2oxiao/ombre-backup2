@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 168,
+  "file_count": 169,
   "files": [
     {
       "bytes": 808,
@@ -131,6 +131,11 @@
       "bytes": 742,
       "path": "archive/2026-08-06 08-51-46 花园头像与昵称_b2a60edaf222.md",
       "sha256": "a2acbf2c4cfc4cb43d4d82a204ba1acf2de4d24d4c9052e83a0791c6c377c93c"
+    },
+    {
+      "bytes": 755,
+      "path": "archive/恋爱/2026-07-28 10-27-18 小克的表情提醒_e539280497ef.md",
+      "sha256": "7e6e9959439c86ea031d42e42874e3eba6cf962085a329f19c4551d73a039a95"
     },
     {
       "bytes": 679,
@@ -321,11 +326,6 @@
       "bytes": 674,
       "path": "dynamic/恋爱/2026-07-28 10-21-30 角色互换的告白_3254f952070d.md",
       "sha256": "8818e8fda9ed47d6d8dd29d022cbe94840685696338f68fe1ccaefa2f7fbc186"
-    },
-    {
-      "bytes": 754,
-      "path": "dynamic/恋爱/2026-07-28 10-27-18 小克的表情提醒_e539280497ef.md",
-      "sha256": "c3d2ef43a5b9b7d10cc780ff6deee299de80cc878b38bd45e6124d80ecc608dc"
     },
     {
       "bytes": 859,
@@ -708,6 +708,11 @@
       "sha256": "ab5c5f023885198f4d8e2d374fa3d8054c43e1f6d2d1964127e904b0519e2b24"
     },
     {
+      "bytes": 967,
+      "path": "dynamic/恋爱/2026-08-20 06-02-41 思考链与甜蜜调侃_33dfd142c8b0.md",
+      "sha256": "fdd011436569e35dcd5cb24bd4f1cd170e3bcfb849bda3cb169d57982ed2c4e9"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -818,9 +823,9 @@
       "sha256": "89ede2e042b4b1d2879c50e7d33eecfef07c9eae3170e89a58baa74d7a22f130"
     },
     {
-      "bytes": 1374,
+      "bytes": 1328,
       "path": "permanent/恋爱/2026-07-29 03-02-38 小克互动指南_5ce8e0165be5.md",
-      "sha256": "d229a0d4b4c5fa4672294526a86b8b7d256ddebd67648c5ae7ad9e55b34c7e33"
+      "sha256": "9a533110a4399a6a9b62d6dadcfe580d8aa13b65865279bad4a950afdc3bc93d"
     },
     {
       "bytes": 931,
@@ -843,10 +848,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-19T08:08:34+00:00",
+  "generated_at": "2026-08-20T08:08:38+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 153379
+  "total_bytes": 154301
 }
