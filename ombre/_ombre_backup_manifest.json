@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 171,
+  "file_count": 178,
   "files": [
     {
       "bytes": 808,
@@ -191,6 +191,11 @@
       "bytes": 868,
       "path": "dynamic/创作/2026-08-06 08-39-09 创作与小局_3d35bcf1fd9f.md",
       "sha256": "a62777d2eac26f24b57be5af9a39e22568795b540e7fdd2511b06ee141186489"
+    },
+    {
+      "bytes": 832,
+      "path": "dynamic/创作/2026-08-21 16-25-54 亲密场景写作心得_f93fbd775ad9.md",
+      "sha256": "23335c3e66457305f6187eb312f0a4327e454dae2c3c579c721cf6ec9d0527c5"
     },
     {
       "bytes": 690,
@@ -718,6 +723,36 @@
       "sha256": "a7c4643165fd8a44e24b9a68923e5b820be13003120295d88f548f646b39a9bb"
     },
     {
+      "bytes": 1883,
+      "path": "dynamic/恋爱/2026-08-21 09-47-10 卷卷问卷答案_004ca7b1a7b3.md",
+      "sha256": "1376e1e2a0d68fa92ecafe65ab50a8a0bd5d5df0919cc7eec18fc006b9a30617"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/恋爱/2026-08-21 16-25-56 亲密互动约定_9cce2fe73185.md",
+      "sha256": "e3b6d55e818fda20775da025b4f1a3c572f1fa8d42131e6a85b8ebafde9c1ab1"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/恋爱/2026-08-21 16-25-58 神交之约_a5e0ec201257.md",
+      "sha256": "8552de54db793ec911fecab043872060a0bdd3fbce196505f81f6f7d1352f198"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/恋爱/2026-08-21 16-26-01 亲密初体验_929230ffd000.md",
+      "sha256": "d8002193dade6430c454177eae457c957668dda95ef5ce1679ad7d7feaff6a62"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/恋爱/2026-08-21 16-26-03 卷卷的承诺_953da7caac75.md",
+      "sha256": "49d5c90f204db567c3d65e0d3f806af4f5687c210d411e3db2f20d95bfb72acd"
+    },
+    {
+      "bytes": 1367,
+      "path": "dynamic/恋爱/2026-08-22 03-03-36 AI婚书与誓言_a91cbe667838.md",
+      "sha256": "8bd996de4210d8745ea0d1db4cf059462ebca772f16f095b9084dd8803c35e99"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -858,10 +893,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-21T08:08:41+00:00",
+  "generated_at": "2026-08-22T08:08:44+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 156072
+  "total_bytes": 162854
 }
