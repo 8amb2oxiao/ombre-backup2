@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 191,
+  "file_count": 201,
   "files": [
     {
       "bytes": 755,
@@ -28,9 +28,19 @@
       "sha256": "9b37f2de7739e17e53b9dc821454bdb785c0d5a55f5745fe36b5c6d38b95ad29"
     },
     {
+      "bytes": 420,
+      "path": "archive/日常/2026-07-28 04-48-48 作息与睡眠习惯_c21e17cbffbd.md",
+      "sha256": "4cd535b01ebd953667271a6c17fb3c954c8c3b28e07482dae83ece301df2dbb8"
+    },
+    {
+      "bytes": 777,
+      "path": "archive/日常/2026-07-28 04-48-48 饮食偏好与习惯_098e5d3e4bad.md",
+      "sha256": "be5eabe32e9b4962947088c77ae82aa9251fbe4ad956ed2e79291216ddf518a9"
+    },
+    {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "af3b4851456b7676d297f1062e43c998e3387023b4529d54bc3b873f2e26a45e"
+      "sha256": "10ba46d87aed58420a8bac7edec409d8081da7a6399be1c1560a7a88adbddd08"
     },
     {
       "bytes": 1610,
@@ -738,16 +748,6 @@
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
     },
     {
-      "bytes": 404,
-      "path": "dynamic/日常/2026-07-28 04-48-48 作息与睡眠习惯_c21e17cbffbd.md",
-      "sha256": "43c5fc87f11233fe213f00edd4af31a7797fe71f4d3f89a34ea195122bbceabf"
-    },
-    {
-      "bytes": 761,
-      "path": "dynamic/日常/2026-07-28 04-48-48 饮食偏好与习惯_098e5d3e4bad.md",
-      "sha256": "f0def130f6b49acfed465aefb685ddaa74b939b9dc27dcdf1e0012d53a86fc32"
-    },
-    {
       "bytes": 530,
       "path": "dynamic/日常/2026-07-28 04-48-49 已建立的连接与物品_c2b4a765ee44.md",
       "sha256": "177b58633940edffaac90f4363ff59f76973ec86486c15c5a0b90a7df8cf3419"
@@ -790,7 +790,7 @@
     {
       "bytes": 755,
       "path": "dynamic/未分类/2026-08-23 16-26-16_06d916cd575a.md",
-      "sha256": "8a9892702f21a3ca110a507b270e8e71da56300a851e55e412f8d6f0d6416abb"
+      "sha256": "d6a0bf3f94fc94f8c6a86cfaff73c5d3e83dbd46c3f8d7ae752bef558e498e9c"
     },
     {
       "bytes": 583,
@@ -831,6 +831,56 @@
       "bytes": 830,
       "path": "dynamic/未分类/2026-08-25 16-54-10_c05280e1ed2f.md",
       "sha256": "4c0f3b7b22a2f62bd36439e645d2f67cd2476f4552ae5191806a11b4bf0775e5"
+    },
+    {
+      "bytes": 429,
+      "path": "dynamic/未分类/2026-08-27 06-30-11_c2a81c3cefa9.md",
+      "sha256": "371424abd3148f982e6926202d9778d3c6bd87132fe20af4cb187443bb6dfe19"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/未分类/2026-08-27 06-30-12_65a8ac9a84e6.md",
+      "sha256": "393d75ee67b9aecdf66136804e15d3cc14a091bd6b8b7720900b4c587a919e9c"
+    },
+    {
+      "bytes": 400,
+      "path": "dynamic/未分类/2026-08-27 06-30-12_79c6525a1006.md",
+      "sha256": "5d964d45f87e1e7d332a04e18adb39fff277b0c382be148ef74526e8a8c51fbe"
+    },
+    {
+      "bytes": 520,
+      "path": "dynamic/未分类/2026-08-27 06-30-13_ddc8d4900be5.md",
+      "sha256": "599f756b2e0a59f01e76374b2aafe3895f7a327662927136bd1aad398ea92d9a"
+    },
+    {
+      "bytes": 497,
+      "path": "dynamic/未分类/2026-08-27 06-30-14_62481ab88f56.md",
+      "sha256": "37fc77ec9d51fafa7509bcca67ad261fc9379e4208949837426bb9a90065ec47"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/未分类/2026-08-27 16-38-56_8381f6977c6a.md",
+      "sha256": "cbc7f9d21b8a4af09fde0d13011cdb84987d9f80abbf587af59aff75e2242c6d"
+    },
+    {
+      "bytes": 559,
+      "path": "dynamic/未分类/2026-08-27 16-38-57_05fd63f00995.md",
+      "sha256": "7001999ff0eb67909433f36c2d2775bdff2f47a58d4afed06c694063a722c187"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/未分类/2026-08-27 16-38-57_75d39d81f094.md",
+      "sha256": "3b176f8e6b2e424d45f9d57fc78364a9dacb79a332963e6412173ba3eed1742e"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/未分类/2026-08-27 16-38-58_3522beacf3bc.md",
+      "sha256": "7218df8690387b32e3fd506f4f886021089a85b5bb1e423702def1df2a97aa5f"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/未分类/2026-08-27 16-38-59_d5aa13b62afe.md",
+      "sha256": "736bfdf7a24de24f3223967ff8353d575cd769b41716db3900a467bf1d8696aa"
     },
     {
       "bytes": 843,
@@ -930,7 +980,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "6220e4e95e56cefa15c7e692b05e35120c6627f304ee6facf3ac80f05e7ca373"
+      "sha256": "8daa8d746827cc150209d82de8f59c53bcb380fccb7bd4a1a7e80ef4b76cf9c5"
     },
     {
       "bytes": 1328,
@@ -958,10 +1008,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-27T03:26:28+00:00",
+  "generated_at": "2026-08-28T03:26:31+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 171833
+  "total_bytes": 177612
 }
