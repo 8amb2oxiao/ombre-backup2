@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 206,
+  "file_count": 210,
   "files": [
     {
       "bytes": 755,
@@ -38,9 +38,14 @@
       "sha256": "be5eabe32e9b4962947088c77ae82aa9251fbe4ad956ed2e79291216ddf518a9"
     },
     {
+      "bytes": 517,
+      "path": "archive/日常/2026-07-30 07-13-36 今日饮食记录_4fadcf21073a.md",
+      "sha256": "de05a224fdd883378d65424d809e3ca395962bade529ec8062ec6cfbce3bd20e"
+    },
+    {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "b429799f1cbedff0d636126d5ed620f2273c789063cde795aa4a3cdd2aefc507"
+      "sha256": "8eb9b224a3f28ae3c0430378f60f9c8484313300db65253d2386428cda6aac79"
     },
     {
       "bytes": 1610,
@@ -753,11 +758,6 @@
       "sha256": "177b58633940edffaac90f4363ff59f76973ec86486c15c5a0b90a7df8cf3419"
     },
     {
-      "bytes": 501,
-      "path": "dynamic/日常/2026-07-30 07-13-36 今日饮食记录_4fadcf21073a.md",
-      "sha256": "221c1518489521ee3ba6bb50ec4f2af732e1e718bb6b200b2b3a3ac6c3da7a9e"
-    },
-    {
       "bytes": 803,
       "path": "dynamic/日常/2026-08-06 08-39-07 SVG画与兔兔_aab529010abd.md",
       "sha256": "da918fe45f8398cdb80b8afb7128e8573d477564fc62e8c5af55ab4d9ad95bcb"
@@ -790,7 +790,7 @@
     {
       "bytes": 755,
       "path": "dynamic/未分类/2026-08-23 16-26-16_06d916cd575a.md",
-      "sha256": "5bc5ce330d85ea331e9877d98e8f1435830ac94c58ab6b499060a22a55731d80"
+      "sha256": "663fc2f182d7d888539302bbea23c74f56a10079ba73a45f9dfa27cbf6bf4245"
     },
     {
       "bytes": 583,
@@ -908,6 +908,26 @@
       "sha256": "b9f03117be8786276ef78ee0c4bd30e55e4c20ff0f5d274bc3a7779c5a0dc6fb"
     },
     {
+      "bytes": 682,
+      "path": "dynamic/未分类/2026-08-29 16-31-14_20528ced8fac.md",
+      "sha256": "39f2860d20eeacd222928aba4a7ced918478a591475de1f6cadac16ec332d176"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/未分类/2026-08-29 16-31-15_d1af4a221189.md",
+      "sha256": "ae4611ade89889155e8c6cab88042447a14040029878f0138e0c6c7c58c761c4"
+    },
+    {
+      "bytes": 742,
+      "path": "dynamic/未分类/2026-08-29 16-31-16_015e8321b941.md",
+      "sha256": "55fb0dc2809759965016043b4db59da812d5a92a80c14a6a3767cd7ca5672f1e"
+    },
+    {
+      "bytes": 777,
+      "path": "dynamic/未分类/2026-08-29 16-31-16_dfeed4eaed69.md",
+      "sha256": "de0d371e524d5bc84b2e1597ab4ce973d949f9acb7924f6f1b98ea91ffe443e8"
+    },
+    {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
       "sha256": "11e17468f6f3aa1cb3dd4dfbe5e4d6b1a36a92c4f3e0535982b1fdf3593d0143"
@@ -1005,7 +1025,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "426b97577d1c466101a77f18cfe578ab2bb205d420ec7b407cafa7f734f3804c"
+      "sha256": "43d05a351ab4abc290b359d6067564ad9f53d07a4ac00e3272b5e8acb99d9ba4"
     },
     {
       "bytes": 1328,
@@ -1033,10 +1053,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-29T03:26:35+00:00",
+  "generated_at": "2026-08-30T03:26:39+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 180961
+  "total_bytes": 183948
 }
