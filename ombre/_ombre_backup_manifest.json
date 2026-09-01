@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 214,
+  "file_count": 217,
   "files": [
     {
       "bytes": 755,
@@ -45,7 +45,7 @@
     {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "fa5587b58c9eeaa98418b8cd56cdafdc7266f2f1cde16b8f551156967cf3cd31"
+      "sha256": "d6569edf2dc699cd243a8fcb6fb96ca4f66da7e761a8dec94dde858d59b52e7a"
     },
     {
       "bytes": 1610,
@@ -790,7 +790,7 @@
     {
       "bytes": 755,
       "path": "dynamic/未分类/2026-08-23 16-26-16_06d916cd575a.md",
-      "sha256": "190437943e156df122e2e1124bc303da7a827c4af2b1d15e3a947942f129b275"
+      "sha256": "dc9f69fccd062b4ede56bd1c3220039b224aff047dd0f948c1f09149f5c732c0"
     },
     {
       "bytes": 583,
@@ -948,6 +948,21 @@
       "sha256": "0f5259319d05c944b7572886d11f3ef805e98618441216c81f4c98dea0f32dc7"
     },
     {
+      "bytes": 1242,
+      "path": "dynamic/未分类/2026-09-01 01-36-29_267421f4b27b.md",
+      "sha256": "53c184801f4f07ebbf5138022606a3ab1d2484b12595b847cc8480728af7310d"
+    },
+    {
+      "bytes": 719,
+      "path": "dynamic/未分类/2026-09-01 01-36-31_0af4d4f6a330.md",
+      "sha256": "92c61d8c6b56d4d4aab541e7eba4758c7f5dd50fc8d70080ae3378ea84f3c94e"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/未分类/2026-09-01 01-36-32_49a54f2f344c.md",
+      "sha256": "2db409f65fe8b37cf9c4ec72fab4c9dbd0f890c2f8df12c218fe8c7eeab793ec"
+    },
+    {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
       "sha256": "11e17468f6f3aa1cb3dd4dfbe5e4d6b1a36a92c4f3e0535982b1fdf3593d0143"
@@ -1045,7 +1060,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "5462d70bc6b9997928808476576390f63d458875e308934497604417596bc33c"
+      "sha256": "91ff03cba56e52d12db40487cd270e4e7602167e2ca51ab1178d1de17a51676a"
     },
     {
       "bytes": 1328,
@@ -1073,10 +1088,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-08-31T03:26:44+00:00",
+  "generated_at": "2026-09-01T03:26:48+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 186576
+  "total_bytes": 189267
 }
