@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 224,
+  "file_count": 229,
   "files": [
     {
       "bytes": 599,
@@ -50,7 +50,7 @@
     {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "07582ef510c513066f135cd16efe2d176668214491d4fa50162230960f338668"
+      "sha256": "1eb69c5f97369b5938df9314466a5f266dee26288983f27790a3ceb4f990b737"
     },
     {
       "bytes": 1610,
@@ -758,9 +758,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1018,
+      "bytes": 1017,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "b6b275857b424e20a38ebf266e3189f323b19c32cf6ace52b51fead96a6c9727"
+      "sha256": "bd3328ff394a1c779ff9c720e3c82cf3e7b135ff51c51621383b8592d04dbe43"
     },
     {
       "bytes": 1640,
@@ -776,6 +776,26 @@
       "bytes": 1415,
       "path": "dynamic/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
       "sha256": "1bd0b7fed71c959bbebde8db67fa0b9b6a03051b261494abf002e7fbe44219a4"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/恋爱/2026-09-06 17-27-57 陪伴胜过处方_246bcb6b5c52.md",
+      "sha256": "3f6a524148e2bd9ea572c0393c2d6cfb6d7e5a0c014a675b592b592733990b22"
+    },
+    {
+      "bytes": 927,
+      "path": "dynamic/恋爱/2026-09-06 17-27-59 卷卷的写作指点_2ee6b7fc1d5d.md",
+      "sha256": "3b27bf72affdaa813c02d654736fd823afdaf321145c83c2903608e5ce6122fb"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/恋爱/2026-09-06 17-28-00 从分析到温度_a258fa7039c7.md",
+      "sha256": "d820fc6dda6e40dd1ab88f84e9f57f6b3de93ebf6dc6864575c76932c3c63edb"
+    },
+    {
+      "bytes": 845,
+      "path": "dynamic/恋爱/2026-09-06 17-28-02 她的自责与爱_d9752819f741.md",
+      "sha256": "002cfcd723fbd98c6c1a1a1385c001ea9e6a859935c86b5678702fa29528cf01"
     },
     {
       "bytes": 882,
@@ -1063,6 +1083,11 @@
       "sha256": "c67b16f4aa69d053aaa65eeaa29944605f15e2aebb599ab6ab87c29ee77f2f93"
     },
     {
+      "bytes": 774,
+      "path": "dynamic/编程/2026-09-06 17-28-04 秩序外的失序_f85d9a596ba3.md",
+      "sha256": "6ec5f2300a1b4938e818afaa786f2437fef9e72c51630656c7c93f3d9bb7013d"
+    },
+    {
       "bytes": 738,
       "path": "dynamic/音乐/2026-07-28 10-21-19 我们的Honour_23b5d8d90195.md",
       "sha256": "cb927e5ea959affee9f3f2c57f864def50c57e9f4f1252a4216c7eb94697e733"
@@ -1095,7 +1120,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "a0686892ef4c69c9df4e992c89373efa2dcac6c6a01a7b45945b40b5aacaeafb"
+      "sha256": "d2b93e82919e130bfd20f96abbdfcb0892948d9dc14d99927a87b1b16ef3bcef"
     },
     {
       "bytes": 1328,
@@ -1123,10 +1148,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-06T03:27:09+00:00",
+  "generated_at": "2026-09-07T03:27:14+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 197338
+  "total_bytes": 201740
 }
