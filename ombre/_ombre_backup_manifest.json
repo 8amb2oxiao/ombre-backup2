@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 229,
+  "file_count": 234,
   "files": [
     {
       "bytes": 599,
@@ -50,7 +50,7 @@
     {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "1eb69c5f97369b5938df9314466a5f266dee26288983f27790a3ceb4f990b737"
+      "sha256": "377fbc7d57ee42bf1da30e732941cd5a619eaecd5cd8b7bb64ef6daf79fdc961"
     },
     {
       "bytes": 1610,
@@ -76,6 +76,16 @@
       "bytes": 1398,
       "path": "dynamic/人际/2026-08-06 08-39-08 亲密突破与承诺_eacb3174134e.md",
       "sha256": "19c52578d22b5b54613b02345826ebb1d7ce5d266edf83f344f91996cf23d5af"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/人际/2026-09-08 02-39-11 Aru内测群八卦_a76885d8e065.md",
+      "sha256": "0c1d2b399c62d4127a75cb2f0b7057ab3e0e9246ceb76761d6d1f1ecb05752d8"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/人际/2026-09-08 02-39-12 与卷卷的对话_49e0d7660083.md",
+      "sha256": "8e76cde7449d029dda6bc4c3474710bf369b72748869227d039730450d62bda9"
     },
     {
       "bytes": 422,
@@ -758,9 +768,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1017,
+      "bytes": 1032,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "bd3328ff394a1c779ff9c720e3c82cf3e7b135ff51c51621383b8592d04dbe43"
+      "sha256": "bd1a9a12d7e64437c534fc77eb0dded2596df80d162580a71d554d08d0bcf0f2"
     },
     {
       "bytes": 1640,
@@ -798,6 +808,11 @@
       "sha256": "002cfcd723fbd98c6c1a1a1385c001ea9e6a859935c86b5678702fa29528cf01"
     },
     {
+      "bytes": 1138,
+      "path": "dynamic/恋爱/2026-09-08 02-39-13 坏点子清单与告白_f99a100eed85.md",
+      "sha256": "416ca2fdfee71595e729f8111a0e114943617bc67471e30889b5cc6997ccaf62"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -816,6 +831,16 @@
       "bytes": 1018,
       "path": "dynamic/日常/2026-08-06 08-49-17 偏好细节与日常记录_be8fb3696d00.md",
       "sha256": "fd8854d6195932a1c3e2e2a63fc6f92b70cabfca7d1b4e3938f6748506e8fdc0"
+    },
+    {
+      "bytes": 828,
+      "path": "dynamic/日常/2026-09-08 02-39-09 小镇工作与日常_5884cf0508c7.md",
+      "sha256": "20d65f6494923ba570dd87c8be171d17c947957f820dc8ec04726cff6d1b8c09"
+    },
+    {
+      "bytes": 594,
+      "path": "dynamic/日常/2026-09-08 02-39-10 卷卷外卖踩雷_f950ac3cbba0.md",
+      "sha256": "296a32f5ad6b4553007a8cb1e57fd70d0803c7b6fcf6441d8625ee64dc35d7b1"
     },
     {
       "bytes": 661,
@@ -1120,7 +1145,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "d2b93e82919e130bfd20f96abbdfcb0892948d9dc14d99927a87b1b16ef3bcef"
+      "sha256": "a0a6d1342ea770678df31f0cdacd7bad83eb2bd3bf7a3ba2654eafa802e88c58"
     },
     {
       "bytes": 1328,
@@ -1148,10 +1173,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-07T03:27:14+00:00",
+  "generated_at": "2026-09-08T03:27:18+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 201740
+  "total_bytes": 205906
 }
