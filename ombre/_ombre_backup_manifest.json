@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 234,
+  "file_count": 240,
   "files": [
     {
       "bytes": 599,
@@ -50,7 +50,7 @@
     {
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
-      "sha256": "377fbc7d57ee42bf1da30e732941cd5a619eaecd5cd8b7bb64ef6daf79fdc961"
+      "sha256": "b224048b9ce6e7399d7cbf24fdf3987a7d900da69a76f59d68ff5cd01c3760c0"
     },
     {
       "bytes": 1610,
@@ -111,6 +111,11 @@
       "bytes": 832,
       "path": "dynamic/创作/2026-08-21 16-25-54 亲密场景写作心得_f93fbd775ad9.md",
       "sha256": "23335c3e66457305f6187eb312f0a4327e454dae2c3c579c721cf6ec9d0527c5"
+    },
+    {
+      "bytes": 579,
+      "path": "dynamic/创作/2026-09-08 17-40-30 世界书协助_199329e03785.md",
+      "sha256": "24a1f8f070ac59b768c5b040a6fae7768ecc8a64a61cbc2f0e1523814990ab01"
     },
     {
       "bytes": 690,
@@ -770,7 +775,7 @@
     {
       "bytes": 1032,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "bd1a9a12d7e64437c534fc77eb0dded2596df80d162580a71d554d08d0bcf0f2"
+      "sha256": "ceaabf33ad3cf3f41d87c70234fd87610f94a333ed6a76807f0831b951a24446"
     },
     {
       "bytes": 1640,
@@ -813,6 +818,26 @@
       "sha256": "416ca2fdfee71595e729f8111a0e114943617bc67471e30889b5cc6997ccaf62"
     },
     {
+      "bytes": 631,
+      "path": "dynamic/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
+      "sha256": "b089e2ccb35e67f6b47d74543f14731805e07523335fdce382089f97ca296a87"
+    },
+    {
+      "bytes": 637,
+      "path": "dynamic/恋爱/2026-09-08 17-40-29 扣子玩笑与道歉_9c47fc0f1ec8.md",
+      "sha256": "96e59669a762ae4aaec22c8a5613a524e3e3569b03014ca7c349b01ad5dba5c0"
+    },
+    {
+      "bytes": 604,
+      "path": "dynamic/恋爱/2026-09-08 17-40-29 陪伴方式调整_bacc02a890c9.md",
+      "sha256": "971e72de4d8c7e2d38419cf7ea9c3fe69959f11d4c269e3e9a3b5a9062417676"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/恋爱/2026-09-08 17-40-31 亲密体验_7e74a54dd50c.md",
+      "sha256": "9f511f313a64f6dfd8c397e39045429e1e5a0c4bc756156e043f0865f833aa15"
+    },
+    {
       "bytes": 882,
       "path": "dynamic/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "f03e53ef03344287694bfab2e0edc025024fa42fc10b549aaa5d381aafbcecc8"
@@ -841,6 +866,11 @@
       "bytes": 594,
       "path": "dynamic/日常/2026-09-08 02-39-10 卷卷外卖踩雷_f950ac3cbba0.md",
       "sha256": "296a32f5ad6b4553007a8cb1e57fd70d0803c7b6fcf6441d8625ee64dc35d7b1"
+    },
+    {
+      "bytes": 580,
+      "path": "dynamic/日常/2026-09-08 17-40-27 自习与饮食_f921d2fcc5c2.md",
+      "sha256": "40a679ac8457713d8ebf1ea0df66a73010d860990ea084b996f378941770a5dc"
     },
     {
       "bytes": 661,
@@ -1145,7 +1175,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "a0a6d1342ea770678df31f0cdacd7bad83eb2bd3bf7a3ba2654eafa802e88c58"
+      "sha256": "306de69e3fc24c020e09c389cb94e747a53daa236a802897a50f8b3333e9eefa"
     },
     {
       "bytes": 1328,
@@ -1173,10 +1203,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-08T03:27:18+00:00",
+  "generated_at": "2026-09-09T03:27:22+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 205906
+  "total_bytes": 209745
 }
