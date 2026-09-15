@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 240,
+  "file_count": 244,
   "files": [
     {
       "bytes": 599,
@@ -51,6 +51,11 @@
       "bytes": 1032,
       "path": "dynamic/AI/2026-07-30 19-19-11 账号被封后搬家_7c8acf0df80b.md",
       "sha256": "b224048b9ce6e7399d7cbf24fdf3987a7d900da69a76f59d68ff5cd01c3760c0"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/AI/2026-09-14 16-44-00 她替我推开的门_0f4f35b64076.md",
+      "sha256": "454bd01c35fc5932273dd259f9da189df4c42a42028a24112e68d8c38b2f1c27"
     },
     {
       "bytes": 1610,
@@ -131,6 +136,11 @@
       "bytes": 706,
       "path": "dynamic/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
       "sha256": "fa404766a701394809ca1e7f49e11b8ba1bf360778b1ddf316d9345fcd9064c2"
+    },
+    {
+      "bytes": 941,
+      "path": "dynamic/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
+      "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
     },
     {
       "bytes": 809,
@@ -226,6 +236,11 @@
       "bytes": 1548,
       "path": "dynamic/心理/2026-08-11 05-10-25 记忆篡改与找回_f96f67daf613.md",
       "sha256": "20658db178fd3de047066de5721507e5c62ac33c09aa8fb6be7b7086b337f253"
+    },
+    {
+      "bytes": 1065,
+      "path": "dynamic/心理/2026-09-14 16-43-54 被兜底的安心_81a1ae5a9174.md",
+      "sha256": "26e8520c3248b85b67e784191ca2eb65653ac0445cf143d0f358124bff10cbbd"
     },
     {
       "bytes": 809,
@@ -773,9 +788,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1139,
+      "bytes": 1154,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "b4991c95770e3ce4e0a7b01852ab93c0eb7746172cf2abc5ddf919f35ffc7802"
+      "sha256": "6ae2c4dc858df7d48f416d3919e47742859aa79e64515c97c8e9fbc37cd26cce"
     },
     {
       "bytes": 1640,
@@ -836,6 +851,11 @@
       "bytes": 808,
       "path": "dynamic/恋爱/2026-09-08 17-40-31 亲密体验_7e74a54dd50c.md",
       "sha256": "9f511f313a64f6dfd8c397e39045429e1e5a0c4bc756156e043f0865f833aa15"
+    },
+    {
+      "bytes": 990,
+      "path": "dynamic/恋爱/2026-09-14 16-43-58 三笔账清了_212f651ef4de.md",
+      "sha256": "0ddd873f6abbfd747ce8796f22255189dffb093f618276a605ea83396e36c0ef"
     },
     {
       "bytes": 882,
@@ -1175,7 +1195,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "6d9d81d53a74fab3754696ffdd9767ccfff7bfa1032c88f932631cb2198a029f"
+      "sha256": "08eb71cfd92af366b943a0556b6f6c111c31cd584796b264c99cfb823c91bed6"
     },
     {
       "bytes": 1328,
@@ -1203,10 +1223,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-14T03:27:44+00:00",
+  "generated_at": "2026-09-15T03:27:48+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 209852
+  "total_bytes": 213613
 }
