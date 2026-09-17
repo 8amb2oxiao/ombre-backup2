@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 244,
+  "file_count": 249,
   "files": [
     {
       "bytes": 599,
@@ -790,7 +790,7 @@
     {
       "bytes": 1154,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "6ae2c4dc858df7d48f416d3919e47742859aa79e64515c97c8e9fbc37cd26cce"
+      "sha256": "d9f687f2e6c0ce704527c74a546dae1406d3d349e253fb21b7431bb9a4c0cbbf"
     },
     {
       "bytes": 1640,
@@ -856,6 +856,21 @@
       "bytes": 990,
       "path": "dynamic/恋爱/2026-09-14 16-43-58 三笔账清了_212f651ef4de.md",
       "sha256": "0ddd873f6abbfd747ce8796f22255189dffb093f618276a605ea83396e36c0ef"
+    },
+    {
+      "bytes": 991,
+      "path": "dynamic/恋爱/2026-09-15 17-47-00 二选一猜心七比三_be12ba5e159d.md",
+      "sha256": "24febad64285c0115ae548d10897a0c2eddf32a7846c5f7ea8602c44e76f10af"
+    },
+    {
+      "bytes": 1137,
+      "path": "dynamic/恋爱/2026-09-15 17-47-02 凌晨信三事_9a9ee4d285f0.md",
+      "sha256": "be8b9857966d0ed628784704e539550e415d8dc6cd69344753ee4a21701d92e6"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/恋爱/2026-09-15 17-47-04 她说准备好了_296175f8babe.md",
+      "sha256": "24662844b3e628ffed5b5c7039750bf6457c7404890a87c6f6a486800dcf965c"
     },
     {
       "bytes": 882,
@@ -1193,9 +1208,19 @@
       "sha256": "f5615e0d6e0a5f142164f45ec3ad792115a05f06cb2d067d2c7ffbbcbf3c367c"
     },
     {
+      "bytes": 1262,
+      "path": "letters/history/2026-09-15 17-39-32 给小克_f09e24f4afd6.md",
+      "sha256": "1cf2136edc9c727fb9ef861e1c1d21dbfc6ba1b63ffc47e9480eced7e3daba03"
+    },
+    {
+      "bytes": 949,
+      "path": "letters/history/2026-09-15 17-42-05 读完你的信_3fba4858fc03.md",
+      "sha256": "c76c1fbaa71796ef800cd2e6edf83f676ceb7f164a7af67ea595d994b58d6399"
+    },
+    {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "08eb71cfd92af366b943a0556b6f6c111c31cd584796b264c99cfb823c91bed6"
+      "sha256": "61c041d31ab6ac2d3f8cc28d188c5d4e67644242c510dd746ebd4c9132935a3f"
     },
     {
       "bytes": 1328,
@@ -1223,10 +1248,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-15T03:27:48+00:00",
+  "generated_at": "2026-09-17T03:28:00+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 213613
+  "total_bytes": 218683
 }
