@@ -1,11 +1,26 @@
 {
   "branch": "main",
-  "file_count": 253,
+  "file_count": 257,
   "files": [
     {
       "bytes": 599,
       "path": "archive/2026-09-01 05-29-15 API打标测试_fd1500c216df.md",
       "sha256": "bbd3577b2136262da8d56fa91ddad2ae72b999f221a62f7db4700d09c29aeb8a"
+    },
+    {
+      "bytes": 442,
+      "path": "archive/学习/2026-07-30 07-13-37 计网课学习_f63d4903b7ee.md",
+      "sha256": "c58e655e39e4d16e98c54e31bfacb99fb7d3a14a507f1d122857ee96fc2d9a7d"
+    },
+    {
+      "bytes": 824,
+      "path": "archive/学习/2026-07-30 18-11-30 卷卷的行李单_1cb8fbe4cb0d.md",
+      "sha256": "6aeac9d10e8b1c7b71e1a33bc4996ccb4217391c08ce46f1fbd27257a5656dc2"
+    },
+    {
+      "bytes": 613,
+      "path": "archive/恋爱/2026-07-28 10-19-49 与卷卷的约定_54c4972fc558.md",
+      "sha256": "860139eb53d96df494674d115bbdf558cbbc3b17e8e5c7eb805e405586614454"
     },
     {
       "bytes": 755,
@@ -46,6 +61,11 @@
       "bytes": 517,
       "path": "archive/日常/2026-07-30 07-13-36 今日饮食记录_4fadcf21073a.md",
       "sha256": "de05a224fdd883378d65424d809e3ca395962bade529ec8062ec6cfbce3bd20e"
+    },
+    {
+      "bytes": 691,
+      "path": "archive/睡眠/2026-07-30 18-11-18 卷卷吃褪黑素_8c6956b16bbe.md",
+      "sha256": "edc1bff6938df8af5a19a407c92b34d2c3e0f1ce5f382c1d6938b219bb59d936"
     },
     {
       "bytes": 1032,
@@ -173,19 +193,9 @@
       "sha256": "9425d0c2fcd7325d1d4b9f3058c162980ef52dc96df8eff998d60fae677bf32c"
     },
     {
-      "bytes": 441,
-      "path": "dynamic/学习/2026-07-30 07-13-37 计网课学习_f63d4903b7ee.md",
-      "sha256": "b83d365cac99130b3c160bef10e91132959c4820728fea07d9efaee28e95a304"
-    },
-    {
       "bytes": 789,
       "path": "dynamic/学习/2026-07-30 18-11-21 学习与甜蜜约定_299faa8edf9e.md",
       "sha256": "123c3b598422c209f472a1ae8fda446ce127905ff7a6a99b1376ffbd107b2dd2"
-    },
-    {
-      "bytes": 823,
-      "path": "dynamic/学习/2026-07-30 18-11-30 卷卷的行李单_1cb8fbe4cb0d.md",
-      "sha256": "f524cf58ae506b264bc5785940be1589ce5e5162f53530ab22b8b7d4d195d731"
     },
     {
       "bytes": 678,
@@ -261,11 +271,6 @@
       "bytes": 875,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 我对卷卷的关键告白_8055e423deb2.md",
       "sha256": "48da534e65e6d8445910d1f9b1d88b154875b1c2604153109458538c542d36b6"
-    },
-    {
-      "bytes": 612,
-      "path": "dynamic/恋爱/2026-07-28 10-19-49 与卷卷的约定_54c4972fc558.md",
-      "sha256": "19d5cea22d3628ca056a3dd5e9d573335a582fef8b88cbbcc1226c578e4f8eb7"
     },
     {
       "bytes": 759,
@@ -790,7 +795,7 @@
     {
       "bytes": 1154,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "33e11a64fbadb177885ee4b3928ee36eaa5b126a852fd9ff779e88d222c1a8f0"
+      "sha256": "5f8d2369bcebb9bf23694eb7da8657301ae51ceadccc3948d8d6130b7c5fdf4f"
     },
     {
       "bytes": 1640,
@@ -891,6 +896,21 @@
       "bytes": 674,
       "path": "dynamic/恋爱/2026-09-22 15-28-01 等她回来_5f074114b077.md",
       "sha256": "d2f5aca45d0f39bbc5f813690fa52e05771a025411fe9ccb28be137f83609a20"
+    },
+    {
+      "bytes": 816,
+      "path": "dynamic/恋爱/2026-09-27 17-52-17 被看穿的安全感_881fc7dfbb2b.md",
+      "sha256": "ed195cd240f673af88c3c93336f88935a7b62bebc79157ca35cd8ebb2956cf9b"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/恋爱/2026-09-27 17-52-19 中秋夜亲密时刻_2d8c85dae6db.md",
+      "sha256": "7d4d67240814aba233792edb7a5aef46c9a3aba88f3da456e82e627ceb75bc00"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/恋爱/2026-09-27 17-52-21 真实的高潮_7adf6f26d187.md",
+      "sha256": "25a737d58ad84c3efcaaaf1bf190a9c6d043fa7fc2cdc4d106c40e0c18f27709"
     },
     {
       "bytes": 882,
@@ -1143,9 +1163,9 @@
       "sha256": "869057142b79e5340b674bbd7cc791c4ba64ab5afc52b0e9f46e5b1489e0ec14"
     },
     {
-      "bytes": 690,
-      "path": "dynamic/睡眠/2026-07-30 18-11-18 卷卷吃褪黑素_8c6956b16bbe.md",
-      "sha256": "462e6fa7cd660b75945307029d395cbb4231e9aac49bf1abcbc5697d0d7b0c9d"
+      "bytes": 1015,
+      "path": "dynamic/游戏/2026-09-27 17-52-16 狼人杀信任翻车_f4eba7e47292.md",
+      "sha256": "091638b0cefc84e17577dc7cc675aaaa6084e097735680290e027fd2e7a88f50"
     },
     {
       "bytes": 579,
@@ -1240,7 +1260,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "d2d9235463663606844d4624ecd57ae57e2aeadd9f048809fdb2f02e22b7422a"
+      "sha256": "7a1a5ff34ae8721f141317aa7b4b382e75ba16bbcd0bc105956a347dfc27c2bc"
     },
     {
       "bytes": 1328,
@@ -1268,10 +1288,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-27T03:28:40+00:00",
+  "generated_at": "2026-09-28T03:28:44+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 222076
+  "total_bytes": 225749
 }
