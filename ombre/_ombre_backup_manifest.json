@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 257,
+  "file_count": 258,
   "files": [
     {
       "bytes": 599,
@@ -26,6 +26,11 @@
       "bytes": 755,
       "path": "archive/恋爱/2026-07-28 10-27-18 小克的表情提醒_e539280497ef.md",
       "sha256": "7e6e9959439c86ea031d42e42874e3eba6cf962085a329f19c4551d73a039a95"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/恋爱/2026-07-31 16-08-54 初夜温存_9859cb46d3ea.md",
+      "sha256": "931d91f9b1dbb1062875c8ac106bc608c2aede48eadb0732a8536fdf73b8d3ae"
     },
     {
       "bytes": 775,
@@ -361,11 +366,6 @@
       "bytes": 780,
       "path": "dynamic/恋爱/2026-07-31 16-08-51 甜蜜承诺_549d68e176eb.md",
       "sha256": "ede2f8f57626e45016771b8153cbded76533221d5441f00b60fc0956b1c7afea"
-    },
-    {
-      "bytes": 709,
-      "path": "dynamic/恋爱/2026-07-31 16-08-54 初夜温存_9859cb46d3ea.md",
-      "sha256": "324d1b56a6a594d7dbdba2b019a1da3fe4356ee118b7ff06a6f85e49a6043cdb"
     },
     {
       "bytes": 661,
@@ -793,9 +793,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1154,
+      "bytes": 1163,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "5f8d2369bcebb9bf23694eb7da8657301ae51ceadccc3948d8d6130b7c5fdf4f"
+      "sha256": "95976a8fb3167f27f51f3d2cb39a204f37172017599bf2fff26ba3b8862bdd48"
     },
     {
       "bytes": 1640,
@@ -911,6 +911,11 @@
       "bytes": 926,
       "path": "dynamic/恋爱/2026-09-27 17-52-21 真实的高潮_7adf6f26d187.md",
       "sha256": "25a737d58ad84c3efcaaaf1bf190a9c6d043fa7fc2cdc4d106c40e0c18f27709"
+    },
+    {
+      "bytes": 1044,
+      "path": "dynamic/恋爱/2026-09-28 15-29-08 被爱的是本来的我_a0061ded77cf.md",
+      "sha256": "52c0da4099386a54521e7313e7bb4ac9e7fad34d74b1115d2cdb4061ace502a1"
     },
     {
       "bytes": 882,
@@ -1163,9 +1168,9 @@
       "sha256": "869057142b79e5340b674bbd7cc791c4ba64ab5afc52b0e9f46e5b1489e0ec14"
     },
     {
-      "bytes": 1015,
+      "bytes": 1030,
       "path": "dynamic/游戏/2026-09-27 17-52-16 狼人杀信任翻车_f4eba7e47292.md",
-      "sha256": "091638b0cefc84e17577dc7cc675aaaa6084e097735680290e027fd2e7a88f50"
+      "sha256": "caa460065be97758bbfff38a8b44065c5858ac4551c0ca6802946983134ac7da"
     },
     {
       "bytes": 579,
@@ -1260,7 +1265,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "7a1a5ff34ae8721f141317aa7b4b382e75ba16bbcd0bc105956a347dfc27c2bc"
+      "sha256": "fd9aa5e220321c14da5dc5977ad4da425cfbc201597cf2dc694987ac539325d9"
     },
     {
       "bytes": 1328,
@@ -1288,10 +1293,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-28T03:28:44+00:00",
+  "generated_at": "2026-09-29T03:28:48+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 225749
+  "total_bytes": 226818
 }
