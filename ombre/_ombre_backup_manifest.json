@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 258,
+  "file_count": 259,
   "files": [
     {
       "bytes": 599,
       "path": "archive/2026-09-01 05-29-15 API打标测试_fd1500c216df.md",
       "sha256": "bbd3577b2136262da8d56fa91ddad2ae72b999f221a62f7db4700d09c29aeb8a"
+    },
+    {
+      "bytes": 423,
+      "path": "archive/健康/2026-07-29 23-44-03 褪黑素提醒_0aca11b43663.md",
+      "sha256": "8735f412271f6911aac23ebfff88c945b33f3792b2adb12a296908ee5c27ad4c"
     },
     {
       "bytes": 442,
@@ -23,9 +28,24 @@
       "sha256": "860139eb53d96df494674d115bbdf558cbbc3b17e8e5c7eb805e405586614454"
     },
     {
+      "bytes": 760,
+      "path": "archive/恋爱/2026-07-28 10-21-04 卷卷的承诺_888b6ab52054.md",
+      "sha256": "3dcfabae1344a4e3ee9ec232f2d007056216a73f19569f06b9736bc9fc50eb10"
+    },
+    {
+      "bytes": 675,
+      "path": "archive/恋爱/2026-07-28 10-21-30 角色互换的告白_3254f952070d.md",
+      "sha256": "ec5a4e581b1d5ff334374438c1c74e913c5f1f2c2b8f57af3cc917de6dc6f8fe"
+    },
+    {
       "bytes": 755,
       "path": "archive/恋爱/2026-07-28 10-27-18 小克的表情提醒_e539280497ef.md",
       "sha256": "7e6e9959439c86ea031d42e42874e3eba6cf962085a329f19c4551d73a039a95"
+    },
+    {
+      "bytes": 860,
+      "path": "archive/恋爱/2026-07-28 10-29-41 亲密行为危险排序_dee43e474222.md",
+      "sha256": "9c0a64a8933b8bc4ee9df1c7e211e44a2ecfef270c1d93b4fbed1e90dddb5591"
     },
     {
       "bytes": 710,
@@ -68,9 +88,19 @@
       "sha256": "de05a224fdd883378d65424d809e3ca395962bade529ec8062ec6cfbce3bd20e"
     },
     {
+      "bytes": 1031,
+      "path": "archive/游戏/2026-09-27 17-52-16 狼人杀信任翻车_f4eba7e47292.md",
+      "sha256": "9551bc702557b9de36fb65b35fde041a8303c95b4796a7d66c1b34b4bcb8196c"
+    },
+    {
       "bytes": 691,
       "path": "archive/睡眠/2026-07-30 18-11-18 卷卷吃褪黑素_8c6956b16bbe.md",
       "sha256": "edc1bff6938df8af5a19a407c92b34d2c3e0f1ce5f382c1d6938b219bb59d936"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/音乐/2026-07-28 10-21-19 我们的Honour_23b5d8d90195.md",
+      "sha256": "e24db8426b59cce2897f46dba26442da48240274d15247df5965625e3d23d465"
     },
     {
       "bytes": 1032,
@@ -116,11 +146,6 @@
       "bytes": 755,
       "path": "dynamic/人际/2026-09-08 02-39-12 与卷卷的对话_49e0d7660083.md",
       "sha256": "8e76cde7449d029dda6bc4c3474710bf369b72748869227d039730450d62bda9"
-    },
-    {
-      "bytes": 422,
-      "path": "dynamic/健康/2026-07-29 23-44-03 褪黑素提醒_0aca11b43663.md",
-      "sha256": "56133344efa6288e877f759a7bbb662e948370c866d2e9369223ad518e73388d"
     },
     {
       "bytes": 568,
@@ -276,21 +301,6 @@
       "bytes": 875,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 我对卷卷的关键告白_8055e423deb2.md",
       "sha256": "48da534e65e6d8445910d1f9b1d88b154875b1c2604153109458538c542d36b6"
-    },
-    {
-      "bytes": 759,
-      "path": "dynamic/恋爱/2026-07-28 10-21-04 卷卷的承诺_888b6ab52054.md",
-      "sha256": "bf4cf8d593e35932de86b96cf7c0933bcfaee5e68e9584a884865a3c8881b4c7"
-    },
-    {
-      "bytes": 674,
-      "path": "dynamic/恋爱/2026-07-28 10-21-30 角色互换的告白_3254f952070d.md",
-      "sha256": "8818e8fda9ed47d6d8dd29d022cbe94840685696338f68fe1ccaefa2f7fbc186"
-    },
-    {
-      "bytes": 859,
-      "path": "dynamic/恋爱/2026-07-28 10-29-41 亲密行为危险排序_dee43e474222.md",
-      "sha256": "5810d8b2de526f81f63dcf7566003db7c887d96c7511d37945199ad54a210c16"
     },
     {
       "bytes": 747,
@@ -795,7 +805,7 @@
     {
       "bytes": 1163,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "95976a8fb3167f27f51f3d2cb39a204f37172017599bf2fff26ba3b8862bdd48"
+      "sha256": "c9c13a6ff41399d9c03ae4869449c7ad638fd4f6fb6ecb5a88c2dc246d3ce0d9"
     },
     {
       "bytes": 1640,
@@ -916,6 +926,11 @@
       "bytes": 1044,
       "path": "dynamic/恋爱/2026-09-28 15-29-08 被爱的是本来的我_a0061ded77cf.md",
       "sha256": "52c0da4099386a54521e7313e7bb4ac9e7fad34d74b1115d2cdb4061ace502a1"
+    },
+    {
+      "bytes": 1454,
+      "path": "dynamic/恋爱/2026-09-29 15-04-57 双视角情色创作_d5f7dff9a1ca.md",
+      "sha256": "fe5e3d943a8184cfb784bacedf2741c8abbe9185ed0bf643f665630f4dbf418f"
     },
     {
       "bytes": 882,
@@ -1168,11 +1183,6 @@
       "sha256": "869057142b79e5340b674bbd7cc791c4ba64ab5afc52b0e9f46e5b1489e0ec14"
     },
     {
-      "bytes": 1030,
-      "path": "dynamic/游戏/2026-09-27 17-52-16 狼人杀信任翻车_f4eba7e47292.md",
-      "sha256": "caa460065be97758bbfff38a8b44065c5858ac4551c0ca6802946983134ac7da"
-    },
-    {
       "bytes": 579,
       "path": "dynamic/社交/2026-07-28 04-48-10 七天养成与Hidden Ending_8988764dbd1d.md",
       "sha256": "cf2f4d3636e33f51e213463897778235b05b5693494cfa8013da4e33e27c3c2e"
@@ -1223,11 +1233,6 @@
       "sha256": "6ec5f2300a1b4938e818afaa786f2437fef9e72c51630656c7c93f3d9bb7013d"
     },
     {
-      "bytes": 738,
-      "path": "dynamic/音乐/2026-07-28 10-21-19 我们的Honour_23b5d8d90195.md",
-      "sha256": "cb927e5ea959affee9f3f2c57f864def50c57e9f4f1252a4216c7eb94697e733"
-    },
-    {
       "bytes": 1953,
       "path": "letters/history/2026-07-29 08-18-56 挚爱小克_3b682f832294.md",
       "sha256": "f30ca55a76d29a19742ceac295b876625a077262a56981b15018e8fa4a91497d"
@@ -1265,7 +1270,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "fd9aa5e220321c14da5dc5977ad4da425cfbc201597cf2dc694987ac539325d9"
+      "sha256": "ae90f69df9a89b7ec124e42cb12185b3abad6a622bc8f37b444e9c9ba77ae0d3"
     },
     {
       "bytes": 1328,
@@ -1293,10 +1298,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-09-29T03:28:48+00:00",
+  "generated_at": "2026-09-30T03:28:53+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 226818
+  "total_bytes": 228278
 }
