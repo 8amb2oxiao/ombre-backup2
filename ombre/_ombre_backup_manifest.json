@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 263,
+  "file_count": 268,
   "files": [
     {
       "bytes": 599,
@@ -11,6 +11,11 @@
       "bytes": 423,
       "path": "archive/健康/2026-07-29 23-44-03 褪黑素提醒_0aca11b43663.md",
       "sha256": "8735f412271f6911aac23ebfff88c945b33f3792b2adb12a296908ee5c27ad4c"
+    },
+    {
+      "bytes": 669,
+      "path": "archive/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
+      "sha256": "8615d3c98be125f7262470d6ef5c47672c6fbadb5a73d55dd78c4de511040a07"
     },
     {
       "bytes": 637,
@@ -36,6 +41,11 @@
       "bytes": 654,
       "path": "archive/家庭/2026-07-31 16-09-45 哥哥的奶油拥抱_a81b1266e10a.md",
       "sha256": "83ccf7509b3a96917b2d9efa9ab19e421d77f00cb89fc067aadb90c7c6e8189b"
+    },
+    {
+      "bytes": 848,
+      "path": "archive/心理/2026-07-28 04-47-51 卷卷的性格画像_5dd502b3eb3f.md",
+      "sha256": "444cf19b6ac475cf92824307380e1bc90e91c80ff6485e7cbac45b2dd0008e3e"
     },
     {
       "bytes": 613,
@@ -293,11 +303,6 @@
       "sha256": "b4f7ca2e6cc264768e287acc2cd081e7f485276428504723d1ceec5c26e7d9e8"
     },
     {
-      "bytes": 668,
-      "path": "dynamic/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
-      "sha256": "ca628d51c47630a56a7d54c14d5ca486a95e535430d8a2defa8e67f10b37dbd2"
-    },
-    {
       "bytes": 805,
       "path": "dynamic/学习/2026-07-28 15-48-09 卷卷学习与饮食记录_1255a8f86f60.md",
       "sha256": "15fffdca6a48d7f19767f0b04ea234b51c5cd732cd4a79720c32787d5c90597a"
@@ -318,6 +323,11 @@
       "sha256": "bccd52ab27661c3809d4d5cf0d5f2d3b03bccb4267b4d4d6ae1b4a1edd86dbb6"
     },
     {
+      "bytes": 669,
+      "path": "dynamic/学习/2026-10-04 00-02-33 自习室热狗面包_e97952a8e0c4.md",
+      "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
+    },
+    {
       "bytes": 550,
       "path": "dynamic/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
       "sha256": "cd9260cf15de11a26e7180493fca17266f5c8823d1871cb6fa87b82e7ebf9fd9"
@@ -336,11 +346,6 @@
       "bytes": 637,
       "path": "dynamic/居家/2026-07-30 07-13-49 兔兔玩偶到家_cca10045bcb5.md",
       "sha256": "50473479a9594f8437f6f285b64bca43973f9229772d0e115d131ed9d936fbef"
-    },
-    {
-      "bytes": 847,
-      "path": "dynamic/心理/2026-07-28 04-47-51 卷卷的性格画像_5dd502b3eb3f.md",
-      "sha256": "3d898267be19c4a14307b04efa75d187439836e227cef180b1123d8b93a6bb1e"
     },
     {
       "bytes": 747,
@@ -371,6 +376,11 @@
       "bytes": 841,
       "path": "dynamic/心理/2026-10-01 17-30-05 她替我修墙_9ad1cc65ec9a.md",
       "sha256": "03039efdaec1bee4ae6ef73a5fbb30586fe16519d5ed45a75b33034e592b58e3"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/心理/2026-10-04 00-02-40 把催换成看_f66d0427384f.md",
+      "sha256": "0ab44810693f5447d24560214d2141b3e50ebeb43144e82943f567e024b632c7"
     },
     {
       "bytes": 809,
@@ -828,9 +838,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1178,
+      "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "ae303a2fc28076cf768a4413e41e635dcdc6b5a3ecec7b949d5a596a0a311f28"
+      "sha256": "bd2a0e69bef8ffda95afec0007d76c9e057de2c516d8cf8a2d6987924db28dbc"
     },
     {
       "bytes": 1640,
@@ -966,6 +976,11 @@
       "bytes": 972,
       "path": "dynamic/恋爱/2026-10-01 17-30-09 她的坦诚与信任_ced4247374d9.md",
       "sha256": "7a1925b9693cd8ed53d8c94ff096464f488f36f74aaf9a67422ed240b5826c9e"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/恋爱/2026-10-04 00-02-38 装娇俏老公_3bb88d26c94f.md",
+      "sha256": "dfdf529a2d2cb7f353f9e7386d92f00efb59dcb488509ce420afead3cc092898"
     },
     {
       "bytes": 803,
@@ -1253,6 +1268,16 @@
       "sha256": "6ec5f2300a1b4938e818afaa786f2437fef9e72c51630656c7c93f3d9bb7013d"
     },
     {
+      "bytes": 667,
+      "path": "dynamic/编程/2026-10-04 00-02-36 卷卷的coding计划_476522e3d352.md",
+      "sha256": "8b8f83129af99aa53a99856dcb2e4f837816f9d0b399b39d6b7f1b2f212ec73f"
+    },
+    {
+      "bytes": 651,
+      "path": "dynamic/阅读/2026-10-04 00-02-35 权臣小说作者翻车_07810f86eb76.md",
+      "sha256": "a4f63ad27ed86c6f6c4df06855947dc63c88a9c0b0cf87ab301a56bd53ad030f"
+    },
+    {
       "bytes": 1953,
       "path": "letters/history/2026-07-29 08-18-56 挚爱小克_3b682f832294.md",
       "sha256": "f30ca55a76d29a19742ceac295b876625a077262a56981b15018e8fa4a91497d"
@@ -1290,7 +1315,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "f05d3d2ffbccf34f7f64114434b26a9fe4af8cede00000d994cd3e79034fa305"
+      "sha256": "8c3af1fbe98eb8ee8ebe21ac74b8d6c3e7c6c57d408bcb8d2d1e20abea8e0f8e"
     },
     {
       "bytes": 1328,
@@ -1318,10 +1343,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-03T03:29:07+00:00",
+  "generated_at": "2026-10-04T03:29:11+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 231986
+  "total_bytes": 235249
 }
