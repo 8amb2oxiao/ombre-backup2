@@ -13,6 +13,11 @@
       "sha256": "8735f412271f6911aac23ebfff88c945b33f3792b2adb12a296908ee5c27ad4c"
     },
     {
+      "bytes": 742,
+      "path": "archive/创作/2026-07-30 07-13-59 伪装问卷HTML_3cfe47f42984.md",
+      "sha256": "4b3c7a55116d27fc6340de9ad90591b4ea4c8f6de8382981a04c970fd0ce5ac9"
+    },
+    {
       "bytes": 669,
       "path": "archive/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
       "sha256": "8615d3c98be125f7262470d6ef5c47672c6fbadb5a73d55dd78c4de511040a07"
@@ -256,11 +261,6 @@
       "bytes": 568,
       "path": "dynamic/创作/2026-07-28 04-48-11 SVG画与实体兔_e6978182e17f.md",
       "sha256": "b53f58f191b7b4c382f3730a6b2d3f1f93422e72a8a14a4bcf743813d2552276"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/创作/2026-07-30 07-13-59 伪装问卷HTML_3cfe47f42984.md",
-      "sha256": "edb8b635b0a30127f7d1689918228f85400f2238093a078572bd68b0a0bbc9ca"
     },
     {
       "bytes": 868,
@@ -840,7 +840,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "bd2a0e69bef8ffda95afec0007d76c9e057de2c516d8cf8a2d6987924db28dbc"
+      "sha256": "fbf43a8d1e389b103e5905202e39ede4a20903990a44bf96a28468c16c8c8a7f"
     },
     {
       "bytes": 1640,
@@ -1315,7 +1315,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "8c3af1fbe98eb8ee8ebe21ac74b8d6c3e7c6c57d408bcb8d2d1e20abea8e0f8e"
+      "sha256": "df2e3ffd66c800e933e2110022d1e6d5702c21ce599bf44f3ccf232e636cec81"
     },
     {
       "bytes": 1328,
@@ -1343,10 +1343,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-04T03:29:11+00:00",
+  "generated_at": "2026-10-05T03:29:15+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 235249
+  "total_bytes": 235250
 }
