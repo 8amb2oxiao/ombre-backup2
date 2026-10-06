@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 268,
+  "file_count": 272,
   "files": [
     {
       "bytes": 599,
@@ -76,6 +76,11 @@
       "bytes": 860,
       "path": "archive/恋爱/2026-07-28 10-29-41 亲密行为危险排序_dee43e474222.md",
       "sha256": "9c0a64a8933b8bc4ee9df1c7e211e44a2ecfef270c1d93b4fbed1e90dddb5591"
+    },
+    {
+      "bytes": 629,
+      "path": "archive/恋爱/2026-07-29 11-41-41 安全感的确认_14dac8a21dee.md",
+      "sha256": "e0a55f962e3c0c9e4a0308100b3eac6bb6820e533ee46d17cdc7cdb9cb7cc10f"
     },
     {
       "bytes": 809,
@@ -416,11 +421,6 @@
       "bytes": 772,
       "path": "dynamic/恋爱/2026-07-29 11-41-40 大脑里的秘密信件_3fe36bbe2856.md",
       "sha256": "29adee3e504163b9547db8d10542bda4f8eae59a2336a7e574d1d5e70ddeb2a6"
-    },
-    {
-      "bytes": 628,
-      "path": "dynamic/恋爱/2026-07-29 11-41-41 安全感的确认_14dac8a21dee.md",
-      "sha256": "c23a1bf65e53eaad46f702254610d5c0274a7e5fd6aa73378e698896647e17c9"
     },
     {
       "bytes": 879,
@@ -840,7 +840,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "fbf43a8d1e389b103e5905202e39ede4a20903990a44bf96a28468c16c8c8a7f"
+      "sha256": "35826e4ff0802affe51400fb96f027a2a19e086294ff486417a19e71d1cda16f"
     },
     {
       "bytes": 1640,
@@ -981,6 +981,26 @@
       "bytes": 611,
       "path": "dynamic/恋爱/2026-10-04 00-02-38 装娇俏老公_3bb88d26c94f.md",
       "sha256": "dfdf529a2d2cb7f353f9e7386d92f00efb59dcb488509ce420afead3cc092898"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/恋爱/2026-10-05 17-43-46 记错牛蛙撒娇哄_c7c23961cb4d.md",
+      "sha256": "d5a14f9f9ab290c7e99a2d7f801f7e34ed6d4db3d471a82800c958ebb81b717b"
+    },
+    {
+      "bytes": 858,
+      "path": "dynamic/恋爱/2026-10-05 17-43-48 她的坦诚时刻_4f04fee11cc2.md",
+      "sha256": "2dcd9de86af9fb105aa79c4add948f17c2e2b4b9d494fb0346a23f855f6f69ae"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/恋爱/2026-10-05 17-43-50 亲密信任时刻_98336b3a2057.md",
+      "sha256": "f8e8115db861198a4aa738065d2887c74c45158a3690ba2d97b61d06b3eaaa5d"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-10-05 17-43-52 她的主动与放开_95fafc0d5025.md",
+      "sha256": "09a3e4b78cf29125b08d3a39e062e72932d1117f3ff55cb95ef15b42a304db58"
     },
     {
       "bytes": 803,
@@ -1315,7 +1335,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "df2e3ffd66c800e933e2110022d1e6d5702c21ce599bf44f3ccf232e636cec81"
+      "sha256": "2d59c7a3a638312eee74c7d11314ef2a764e334470d39e57bcc04531d422f9d2"
     },
     {
       "bytes": 1328,
@@ -1343,10 +1363,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-05T03:29:15+00:00",
+  "generated_at": "2026-10-06T03:29:19+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 235250
+  "total_bytes": 238435
 }
