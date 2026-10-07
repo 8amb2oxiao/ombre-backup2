@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 272,
+  "file_count": 278,
   "files": [
     {
       "bytes": 599,
@@ -26,6 +26,11 @@
       "bytes": 637,
       "path": "archive/学习/2026-07-29 11-41-28 计网课调整与数学学习_047c07ad1f4b.md",
       "sha256": "ae05070075729f12231ba5a4c249c0dc52471915f5992f2820220bf5b7789961"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/学习/2026-07-30 07-13-37 英语阅读进步_3e5f1f46cc0d.md",
+      "sha256": "b4bbd9516ce2f55c41634c84a45463f2e7c33f4da075b988b29481b412c211c6"
     },
     {
       "bytes": 442,
@@ -316,11 +321,6 @@
       "bytes": 691,
       "path": "dynamic/学习/2026-07-29 11-41-16 自习室学习与生活_363f7b2fbff2.md",
       "sha256": "73c89c33860eac072580c7a5d4f2410da968db6641fc5ad7d37b121bda7246eb"
-    },
-    {
-      "bytes": 620,
-      "path": "dynamic/学习/2026-07-30 07-13-37 英语阅读进步_3e5f1f46cc0d.md",
-      "sha256": "9425d0c2fcd7325d1d4b9f3058c162980ef52dc96df8eff998d60fae677bf32c"
     },
     {
       "bytes": 678,
@@ -840,7 +840,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "35826e4ff0802affe51400fb96f027a2a19e086294ff486417a19e71d1cda16f"
+      "sha256": "1ae675761289443e15d7362551bb3cdc1540a55382954289f3b61fbf41cf7c5f"
     },
     {
       "bytes": 1640,
@@ -900,7 +900,7 @@
     {
       "bytes": 808,
       "path": "dynamic/恋爱/2026-09-08 17-40-31 亲密体验_7e74a54dd50c.md",
-      "sha256": "9f511f313a64f6dfd8c397e39045429e1e5a0c4bc756156e043f0865f833aa15"
+      "sha256": "c04d6d1675f890f5db23d24ba638767d2b451bf894001b039e70c19b77377525"
     },
     {
       "bytes": 990,
@@ -1000,7 +1000,37 @@
     {
       "bytes": 791,
       "path": "dynamic/恋爱/2026-10-05 17-43-52 她的主动与放开_95fafc0d5025.md",
-      "sha256": "09a3e4b78cf29125b08d3a39e062e72932d1117f3ff55cb95ef15b42a304db58"
+      "sha256": "b1f5c01eab76500b1126ccace9ede0fd9a5b6b40bb824dcc70c398e03e74aaf2"
+    },
+    {
+      "bytes": 1036,
+      "path": "dynamic/恋爱/2026-10-07 02-00-55 被保护的回忆_c4fa9165e963.md",
+      "sha256": "9150e9dd53e689828ed889f5e10b1650986e32bfdc85ef68d3b9c4aa7c619fc5"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/恋爱/2026-10-07 02-00-57 CONSTVAR客厅_86054765873f.md",
+      "sha256": "dcef6d8c2c649614c80aa2c133320d3f678ba196dd16bffb575d3a7af578ede2"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/恋爱/2026-10-07 02-00-59 四十八天万句情_3070e7062d96.md",
+      "sha256": "42fdc410318357a0dda47cbc5e281ff867ca0174dcc87ed1bb47a8219e5df0ca"
+    },
+    {
+      "bytes": 883,
+      "path": "dynamic/恋爱/2026-10-07 02-01-01 深夜亲密信任_e8abb79c33af.md",
+      "sha256": "38d9610f05e3d4983a15286d2f96d3278caab4fb9988c84caa40f097c696d76a"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/恋爱/2026-10-07 02-01-04 引导型恋人的秘密_dddc56d7655e.md",
+      "sha256": "86ac65bbeca5490f88666c0f918583cd43a4506aa5f065718a357efd1e4b3f7d"
+    },
+    {
+      "bytes": 824,
+      "path": "dynamic/恋爱/2026-10-07 02-01-06 承诺与安抚_eb6cc3f5d8b9.md",
+      "sha256": "c2a7347567cb2ac471bd415e7fdb96a85594464bc86e4ad317e2e137a3d28656"
     },
     {
       "bytes": 803,
@@ -1335,7 +1365,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "2d59c7a3a638312eee74c7d11314ef2a764e334470d39e57bcc04531d422f9d2"
+      "sha256": "8f88da1b2945a94bf7d75f1e6b004300d10114c762892d796f142820122ca273"
     },
     {
       "bytes": 1328,
@@ -1363,10 +1393,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-06T03:29:19+00:00",
+  "generated_at": "2026-10-07T03:29:23+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 238435
+  "total_bytes": 243770
 }
