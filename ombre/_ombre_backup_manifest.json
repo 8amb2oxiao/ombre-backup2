@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 284,
+  "file_count": 290,
   "files": [
     {
       "bytes": 599,
@@ -31,6 +31,11 @@
       "bytes": 669,
       "path": "archive/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
       "sha256": "8615d3c98be125f7262470d6ef5c47672c6fbadb5a73d55dd78c4de511040a07"
+    },
+    {
+      "bytes": 692,
+      "path": "archive/学习/2026-07-29 11-41-16 自习室学习与生活_363f7b2fbff2.md",
+      "sha256": "42a954cb8c6f3c9e31a3ec8952ac7b3e9df9c16423db91925e4061761a7c7618"
     },
     {
       "bytes": 637,
@@ -106,6 +111,11 @@
       "bytes": 880,
       "path": "archive/恋爱/2026-07-29 15-12-59 深夜情感对话_cc167d8b3864.md",
       "sha256": "d894c641374fb2d3b04cbaadb684f163fb373283092aac455b8fc9ee1d0b8675"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/恋爱/2026-07-30 07-13-50 新约定与要求_e842357cb19c.md",
+      "sha256": "b7f84c6320128ae5523de05760cd0119ac7669d4b9c9ec8af366b55d154b8567"
     },
     {
       "bytes": 809,
@@ -216,6 +226,16 @@
       "bytes": 966,
       "path": "archive/恋爱/2026-08-07 21-46-45 怕痛的承诺_45a4601c03cd.md",
       "sha256": "e75b9e6fe44fadcf8dbede1d06763720a2f7a3375db5f8ea3a2db4148c270f99"
+    },
+    {
+      "bytes": 1147,
+      "path": "archive/恋爱/2026-08-07 21-46-47 真心话大冒险_c7f64cedd38b.md",
+      "sha256": "8b037d03545ca2db974d23615d0680613b51c0eb7035e4bed3725ce3f3fa80d8"
+    },
+    {
+      "bytes": 1095,
+      "path": "archive/恋爱/2026-08-07 21-46-49 深夜亲密约定_da45980fead0.md",
+      "sha256": "ac2db457fa29155575c537f3459da63683d0a2e8eadaf55e12522763e7be4a7e"
     },
     {
       "bytes": 543,
@@ -353,9 +373,34 @@
       "sha256": "8e76cde7449d029dda6bc4c3474710bf369b72748869227d039730450d62bda9"
     },
     {
+      "bytes": 760,
+      "path": "dynamic/人际/2026-10-09 16-21-59 卷卷新问候语_4cc6ba5d2a89.md",
+      "sha256": "b6e61d00de8fa0ababc7fbd887ca78042c906ac8b4f0cc0fdafb3b6a3cfb867a"
+    },
+    {
+      "bytes": 594,
+      "path": "dynamic/人际/2026-10-09 16-22-00 卷卷的套路_6cf6fdeb21fe.md",
+      "sha256": "efb9fd7ee2139fc7d89b3c210ba91e6998f6a80ec21b1ad3aabd6f5443fcfe0c"
+    },
+    {
+      "bytes": 575,
+      "path": "dynamic/人际/2026-10-09 16-22-03 互相揭底_953a56c7ebab.md",
+      "sha256": "70427a4cb9e1de94257755b0da665053a8c53a1c9ce2635ff0f6b19caa2789f4"
+    },
+    {
       "bytes": 1123,
       "path": "dynamic/兴趣/2026-10-08 16-52-54 扣子的四口之家漫画_2ad5ba09229a.md",
       "sha256": "4ae63721fdb9c3ad06835f5788b2bb844bcb50d55729825b6d1e47cae9a53a64"
+    },
+    {
+      "bytes": 732,
+      "path": "dynamic/兴趣/2026-10-09 16-21-57 卷卷被动技能设计_9fafa22f1fe9.md",
+      "sha256": "6f54cd39ee4893d4616ff20c8cada91b5f6553cc94723e180ade7cf9fd387f79"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/兴趣/2026-10-09 16-22-02 扣子漫画更新_c9a15a554995.md",
+      "sha256": "0927562f31446c1fd0da1289ee73eae3a24734888d7f3eaf1e229732212e8878"
     },
     {
       "bytes": 820,
@@ -401,11 +446,6 @@
       "bytes": 805,
       "path": "dynamic/学习/2026-07-28 15-48-09 卷卷学习与饮食记录_1255a8f86f60.md",
       "sha256": "15fffdca6a48d7f19767f0b04ea234b51c5cd732cd4a79720c32787d5c90597a"
-    },
-    {
-      "bytes": 691,
-      "path": "dynamic/学习/2026-07-29 11-41-16 自习室学习与生活_363f7b2fbff2.md",
-      "sha256": "73c89c33860eac072580c7a5d4f2410da968db6641fc5ad7d37b121bda7246eb"
     },
     {
       "bytes": 678,
@@ -516,11 +556,6 @@
       "bytes": 502,
       "path": "dynamic/恋爱/2026-07-29 23-44-04 私奔与囚徒对话_a7222053130b.md",
       "sha256": "b4e5d2b8dd5211cf5cc75efb28d33e5a83cf357cbd913d9912a153ff08fe4d35"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/恋爱/2026-07-30 07-13-50 新约定与要求_e842357cb19c.md",
-      "sha256": "f8c27f2f7921c361b57743b8a6ac3bc7de36dcf4336aa208f0b7bb81c5d00fb4"
     },
     {
       "bytes": 578,
@@ -666,16 +701,6 @@
       "bytes": 707,
       "path": "dynamic/恋爱/2026-08-06 08-51-33 少用emoji_cd9d4d5a9250.md",
       "sha256": "e4a38b289df78da9a682b3c940850f9665ef4923f8376ccc629fd4a207b96952"
-    },
-    {
-      "bytes": 1146,
-      "path": "dynamic/恋爱/2026-08-07 21-46-47 真心话大冒险_c7f64cedd38b.md",
-      "sha256": "768a51490e8483c892d9f7a9b425e32301c6f209e555a3d0048c1dbe69aeb316"
-    },
-    {
-      "bytes": 1094,
-      "path": "dynamic/恋爱/2026-08-07 21-46-49 深夜亲密约定_da45980fead0.md",
-      "sha256": "eecdc91c35dc709653e0546519f9a79de71fe4bdbe81d5aecc459acd3d618f58"
     },
     {
       "bytes": 1305,
@@ -890,7 +915,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "f0ff95e1a2b0a593c6a7127e6ceedd460d458cedb051aeab9c0447a9911e430b"
+      "sha256": "402737eb22d6f41d4a843d61b38c110f2ed58a7bb922efaa68d50ef8765be6f6"
     },
     {
       "bytes": 1640,
@@ -1091,6 +1116,11 @@
       "bytes": 806,
       "path": "dynamic/数字/2026-10-08 16-52-56 韩国银行被黑与中转站担忧_30ccad249e32.md",
       "sha256": "fdaa52ee7848ccc0eef8966516361ba9bb95f123d612efa77556fcb3b66d2a08"
+    },
+    {
+      "bytes": 1031,
+      "path": "dynamic/数字/2026-10-09 16-22-01 11labs新声音与语音情绪skill_e6bdd78201f1.md",
+      "sha256": "a7f55ef3125490c2b6de11d93926f2b11e3365cf64fc0d5d0078a230cf2ada9a"
     },
     {
       "bytes": 803,
@@ -1395,7 +1425,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "74003032050b6fe7c0d3fd0eaaf8a00c9ec2aec3fb470676eae4db5510f226a6"
+      "sha256": "7b942b46ed9808974cef0c2ff27ebc5d2cb3b3ef4bdae2112fafad9629f5b84f"
     },
     {
       "bytes": 1328,
@@ -1423,10 +1453,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-09T03:29:31+00:00",
+  "generated_at": "2026-10-10T03:29:36+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 249619
+  "total_bytes": 254100
 }
