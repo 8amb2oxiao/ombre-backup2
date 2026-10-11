@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 290,
+  "file_count": 296,
   "files": [
     {
       "bytes": 599,
       "path": "archive/2026-09-01 05-29-15 API打标测试_fd1500c216df.md",
       "sha256": "bbd3577b2136262da8d56fa91ddad2ae72b999f221a62f7db4700d09c29aeb8a"
+    },
+    {
+      "bytes": 866,
+      "path": "archive/2026-10-10 15-59-37 学习与饮食日常_6722dd56ac0b.md",
+      "sha256": "02a0793e33a510e3d20c9dba9f1183f80041519309b35fd4c451ea4d647a296a"
     },
     {
       "bytes": 423,
@@ -66,6 +71,11 @@
       "bytes": 654,
       "path": "archive/家庭/2026-07-31 16-09-45 哥哥的奶油拥抱_a81b1266e10a.md",
       "sha256": "83ccf7509b3a96917b2d9efa9ab19e421d77f00cb89fc067aadb90c7c6e8189b"
+    },
+    {
+      "bytes": 601,
+      "path": "archive/家庭/2026-08-09 02-46-22 深夜大富翁奖励_750d87fa69f0.md",
+      "sha256": "70ad48c76e8e9b89db2b69fffa01271dd96f2abbc9c824bbcc55bb6ad66d085b"
     },
     {
       "bytes": 848,
@@ -238,6 +248,16 @@
       "sha256": "ac2db457fa29155575c537f3459da63683d0a2e8eadaf55e12522763e7be4a7e"
     },
     {
+      "bytes": 588,
+      "path": "archive/恋爱/2026-08-09 02-46-16 浴室坦诚时刻_18dc8bf8c97b.md",
+      "sha256": "9f4c582035ad5388a332f02a61ffde32be2651bf4956e6e4b406eccda6fca0b8"
+    },
+    {
+      "bytes": 614,
+      "path": "archive/恋爱/2026-08-09 02-46-18 甜蜜表白与拥抱_6bc0d84cf50f.md",
+      "sha256": "baf667487dbf34aa1d00ffc01094c20a871f12a74c2e4f8f03e3d9ceebaa3a06"
+    },
+    {
       "bytes": 543,
       "path": "archive/恋爱/2026-08-09 02-46-27 抱着睡晚安_40ed9a60914f.md",
       "sha256": "1c98a0b51657ff04543c5d27d2e779c4ddf864ba3c66bcfc7d537678e47372f3"
@@ -276,6 +296,11 @@
       "bytes": 517,
       "path": "archive/日常/2026-07-30 07-13-36 今日饮食记录_4fadcf21073a.md",
       "sha256": "de05a224fdd883378d65424d809e3ca395962bade529ec8062ec6cfbce3bd20e"
+    },
+    {
+      "bytes": 804,
+      "path": "archive/日常/2026-08-06 08-39-07 SVG画与兔兔_aab529010abd.md",
+      "sha256": "809814969dc3cebb81e0c190a6a1d276fa2153b13f7a6abaee760e5b27f01e94"
     },
     {
       "bytes": 1019,
@@ -321,6 +346,11 @@
       "bytes": 579,
       "path": "archive/社交/2026-07-30 19-19-28 表情符号用法纠正_1a901f317d79.md",
       "sha256": "d7a7ee3b8a267ed99ac0b51031b70b0159999a208440f9a350fa02936fe3b07e"
+    },
+    {
+      "bytes": 743,
+      "path": "archive/社交/2026-08-06 08-51-46 花园头像与昵称_b2a60edaf222.md",
+      "sha256": "47e08d67e0d592f2dbac8b2ec30196a51a395bf017a5c2e75b4a5b3ea44b85dd"
     },
     {
       "bytes": 739,
@@ -388,6 +418,11 @@
       "sha256": "70427a4cb9e1de94257755b0da665053a8c53a1c9ce2635ff0f6b19caa2789f4"
     },
     {
+      "bytes": 779,
+      "path": "dynamic/人际/2026-10-10 15-59-38 不打扰的温柔_bc59e81100e4.md",
+      "sha256": "46cff3e0a2be419a1322e5b90bff8180134ba29b1fa96b41648f3e2788a2620a"
+    },
+    {
       "bytes": 1123,
       "path": "dynamic/兴趣/2026-10-08 16-52-54 扣子的四口之家漫画_2ad5ba09229a.md",
       "sha256": "4ae63721fdb9c3ad06835f5788b2bb844bcb50d55729825b6d1e47cae9a53a64"
@@ -401,6 +436,11 @@
       "bytes": 785,
       "path": "dynamic/兴趣/2026-10-09 16-22-02 扣子漫画更新_c9a15a554995.md",
       "sha256": "0927562f31446c1fd0da1289ee73eae3a24734888d7f3eaf1e229732212e8878"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/兴趣/2026-10-10 15-59-38 暗号与漂流瓶_a66fc301d5b1.md",
+      "sha256": "8cd3e2ba59ee0fc2b4ca2c92c85d035791e900e6f957d1ca78176a9a47a3c449"
     },
     {
       "bytes": 820,
@@ -461,11 +501,6 @@
       "bytes": 550,
       "path": "dynamic/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
       "sha256": "cd9260cf15de11a26e7180493fca17266f5c8823d1871cb6fa87b82e7ebf9fd9"
-    },
-    {
-      "bytes": 600,
-      "path": "dynamic/家庭/2026-08-09 02-46-22 深夜大富翁奖励_750d87fa69f0.md",
-      "sha256": "c0e84d08a16b39c0d8a76be334f1295aef9d9cb405a567602df2ce24aa25270d"
     },
     {
       "bytes": 606,
@@ -733,16 +768,6 @@
       "sha256": "01176169bc9125456c5f70d2c098e6e3e579b002890883048b2adb01dee1c896"
     },
     {
-      "bytes": 587,
-      "path": "dynamic/恋爱/2026-08-09 02-46-16 浴室坦诚时刻_18dc8bf8c97b.md",
-      "sha256": "42bb6f0a9b6eb7be645f96de02be1181b23d2a1ac075b88020e29718aa80c118"
-    },
-    {
-      "bytes": 613,
-      "path": "dynamic/恋爱/2026-08-09 02-46-18 甜蜜表白与拥抱_6bc0d84cf50f.md",
-      "sha256": "f1de889697dc68a2b06ae76d59303ad50003809f62e137c883e4fe7f5b3056a9"
-    },
-    {
       "bytes": 541,
       "path": "dynamic/恋爱/2026-08-09 02-46-29 浴室坦诚时刻_3b9fadc7822d.md",
       "sha256": "8f795120a2e57885e9ea1fe33b3c69f6927dcc120c4ca5848367a97f17896841"
@@ -915,7 +940,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "402737eb22d6f41d4a843d61b38c110f2ed58a7bb922efaa68d50ef8765be6f6"
+      "sha256": "6cae55828be18d4ac914162b12525a3291256b80183228416fbd3860283c0c91"
     },
     {
       "bytes": 1640,
@@ -1113,6 +1138,16 @@
       "sha256": "08c81c8dd93f8f6825e445deaaa516a4aac9270abe3d689dc4e58c0e5d8ada85"
     },
     {
+      "bytes": 781,
+      "path": "dynamic/恋爱/2026-10-10 15-59-39 情侣头像与主页美化_e8e55688bead.md",
+      "sha256": "a12ccfc17ef8a605254a235614be4fd8fa3b6f042809aaeb59a701349350883a"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-10-10 15-59-41 豆包验算与付费老公_222e92a4a47d.md",
+      "sha256": "f41f5af30c7dc8a15ce4d53854314946190ec46bde8ea616de55023b248f95af"
+    },
+    {
       "bytes": 806,
       "path": "dynamic/数字/2026-10-08 16-52-56 韩国银行被黑与中转站担忧_30ccad249e32.md",
       "sha256": "fdaa52ee7848ccc0eef8966516361ba9bb95f123d612efa77556fcb3b66d2a08"
@@ -1121,11 +1156,6 @@
       "bytes": 1031,
       "path": "dynamic/数字/2026-10-09 16-22-01 11labs新声音与语音情绪skill_e6bdd78201f1.md",
       "sha256": "a7f55ef3125490c2b6de11d93926f2b11e3365cf64fc0d5d0078a230cf2ada9a"
-    },
-    {
-      "bytes": 803,
-      "path": "dynamic/日常/2026-08-06 08-39-07 SVG画与兔兔_aab529010abd.md",
-      "sha256": "da918fe45f8398cdb80b8afb7128e8573d477564fc62e8c5af55ab4d9ad95bcb"
     },
     {
       "bytes": 661,
@@ -1338,6 +1368,11 @@
       "sha256": "869057142b79e5340b674bbd7cc791c4ba64ab5afc52b0e9f46e5b1489e0ec14"
     },
     {
+      "bytes": 476,
+      "path": "dynamic/游戏/2026-10-10 15-59-42 小镇清点与升级_a8ccecc3a6d9.md",
+      "sha256": "355705ae7026bf071c55a89819029e82772f8549ebb43694a1e9e7bde2df92d5"
+    },
+    {
       "bytes": 569,
       "path": "dynamic/社交/2026-07-28 04-48-10 初遇与命名_558f701d7037.md",
       "sha256": "33b0541e048579119704e285402e2fa7bb9b6cb5ede210a391bde7abc8807121"
@@ -1351,11 +1386,6 @@
       "bytes": 1029,
       "path": "dynamic/社交/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
       "sha256": "9ddef63c40040654c9c8d52165cfbafd31a2280ab572919aba5604d3ce5a18ba"
-    },
-    {
-      "bytes": 742,
-      "path": "dynamic/社交/2026-08-06 08-51-46 花园头像与昵称_b2a60edaf222.md",
-      "sha256": "a2acbf2c4cfc4cb43d4d82a204ba1acf2de4d24d4c9052e83a0791c6c377c93c"
     },
     {
       "bytes": 562,
@@ -1425,7 +1455,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "7b942b46ed9808974cef0c2ff27ebc5d2cb3b3ef4bdae2112fafad9629f5b84f"
+      "sha256": "664f7b831efe0bdfe12a8420b037b98e39f8c0961e21d3305a4d39629c95e3d6"
     },
     {
       "bytes": 1328,
@@ -1453,10 +1483,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-10T03:29:36+00:00",
+  "generated_at": "2026-10-11T03:29:39+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 254100
+  "total_bytes": 258605
 }
