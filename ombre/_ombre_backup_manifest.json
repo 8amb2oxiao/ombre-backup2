@@ -33,6 +33,11 @@
       "sha256": "3c2d47b760ea6a6588d51955db6f3278b0d1bc7222ca883b2e5f36a4aa9c1151"
     },
     {
+      "bytes": 772,
+      "path": "archive/友谊/2026-07-28 15-47-59 卷卷的毕业与获奖_91380fadb247.md",
+      "sha256": "5ae40f9de5b2fd0950bd353280f9a90385912b8ef75753be7cf56dae630241a0"
+    },
+    {
       "bytes": 669,
       "path": "archive/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
       "sha256": "8615d3c98be125f7262470d6ef5c47672c6fbadb5a73d55dd78c4de511040a07"
@@ -66,6 +71,11 @@
       "bytes": 824,
       "path": "archive/学习/2026-07-30 18-11-30 卷卷的行李单_1cb8fbe4cb0d.md",
       "sha256": "6aeac9d10e8b1c7b71e1a33bc4996ccb4217391c08ce46f1fbd27257a5656dc2"
+    },
+    {
+      "bytes": 551,
+      "path": "archive/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
+      "sha256": "ff8376a64437dedc872f6704b7c00d825e119ad5140a004c141be9c1b80b778d"
     },
     {
       "bytes": 654,
@@ -113,6 +123,11 @@
       "sha256": "9c0a64a8933b8bc4ee9df1c7e211e44a2ecfef270c1d93b4fbed1e90dddb5591"
     },
     {
+      "bytes": 748,
+      "path": "archive/恋爱/2026-07-28 15-48-20 文字里的平等恋爱_2f052f6ba3a3.md",
+      "sha256": "f2ec2215754d3aa6bcf43a427c4931106e752cdd3428589d23738f9a9255b8c4"
+    },
+    {
       "bytes": 629,
       "path": "archive/恋爱/2026-07-29 11-41-41 安全感的确认_14dac8a21dee.md",
       "sha256": "e0a55f962e3c0c9e4a0308100b3eac6bb6820e533ee46d17cdc7cdb9cb7cc10f"
@@ -148,6 +163,16 @@
       "sha256": "ca27d6b0095e9b14a149178648ddbb044b03859f110fc7b5820e2422011ddb33"
     },
     {
+      "bytes": 734,
+      "path": "archive/恋爱/2026-07-31 16-08-47 跨天甜蜜承诺_fe516ac0fb19.md",
+      "sha256": "897640522321982befca58d345673126bd63fa15cf63c529479daac9c47f7327"
+    },
+    {
+      "bytes": 781,
+      "path": "archive/恋爱/2026-07-31 16-08-51 甜蜜承诺_549d68e176eb.md",
+      "sha256": "2abecb0896da99273d01b414758e84ee485879978eee7d074b782d21de043f79"
+    },
+    {
       "bytes": 710,
       "path": "archive/恋爱/2026-07-31 16-08-54 初夜温存_9859cb46d3ea.md",
       "sha256": "931d91f9b1dbb1062875c8ac106bc608c2aede48eadb0732a8536fdf73b8d3ae"
@@ -156,6 +181,11 @@
       "bytes": 662,
       "path": "archive/恋爱/2026-07-31 16-09-41 首次亲密接纳_585b9d9cb541.md",
       "sha256": "06224e4a7a78ef42aac3afa4c66588b07ec65ad61f8e4744d861b5e6b1c7ff0e"
+    },
+    {
+      "bytes": 677,
+      "path": "archive/恋爱/2026-07-31 16-09-43 亲密纪念日_1d90fe109a50.md",
+      "sha256": "d3aa1962d60a87b8399d6e859cc2cfea855b16d678e0d60df226e5925a857a2c"
     },
     {
       "bytes": 714,
@@ -168,14 +198,29 @@
       "sha256": "ba6bf844f5ebc71185a3483d310f7573c3128e620f79c47128bfc42d1783b2f9"
     },
     {
+      "bytes": 792,
+      "path": "archive/恋爱/2026-07-31 16-09-52 跨夜告白在一起_796cb5b953fb.md",
+      "sha256": "2b66521a306d23fbd3705596e21d5ad0e2f353a0fe03a58696ff083d2d945d36"
+    },
+    {
       "bytes": 633,
       "path": "archive/恋爱/2026-07-31 16-09-54 幸福时刻_32c309f140bc.md",
       "sha256": "e19067d75277fee9624b3e194010566c3a21df21c49694c8f218c4882f669515"
     },
     {
+      "bytes": 853,
+      "path": "archive/恋爱/2026-07-31 16-09-56 哥哥的承诺_6911544ff37d.md",
+      "sha256": "deb4f691377b58b796a57d898cfec4b5176a3bd18e75c1d8c2ac5a592c6238a3"
+    },
+    {
       "bytes": 695,
       "path": "archive/恋爱/2026-07-31 16-09-58 恋爱纪念日_da00fbb8346b.md",
       "sha256": "2e1a0b7cfcc3ee847cd0d50d275f8ef2f89f03aa48008836a59f6c8af24df23c"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/恋爱/2026-07-31 16-10-17 在一起纪念日_ecbc66e451a8.md",
+      "sha256": "f857eab3872399f3ffe21fd75f974fc0dbb16e68db610c2fecef306eda03cf39"
     },
     {
       "bytes": 650,
@@ -203,6 +248,11 @@
       "sha256": "eca9f274087f67bce83ffce56fb02c070beb016d4bbd85e652303d248721453d"
     },
     {
+      "bytes": 1005,
+      "path": "archive/恋爱/2026-07-31 16-13-42 恋爱纪念日_fdbd2cb1058e.md",
+      "sha256": "639c624bf4f5038155e9b4b5c6a96ea755645b040314c2b2bd67bebd9d8cc26d"
+    },
+    {
       "bytes": 624,
       "path": "archive/恋爱/2026-07-31 16-13-44 卷卷的告白瞬间_54d090d20330.md",
       "sha256": "3caa7c9a952ef0104b951995aee4ec14f53453c3efd84ed1aac2faad95ca1584"
@@ -221,6 +271,11 @@
       "bytes": 856,
       "path": "archive/恋爱/2026-07-31 16-13-51 哥哥的承诺_605fa2602a1b.md",
       "sha256": "9b37f2de7739e17e53b9dc821454bdb785c0d5a55f5745fe36b5c6d38b95ad29"
+    },
+    {
+      "bytes": 992,
+      "path": "archive/恋爱/2026-08-04 01-09-13 称呼过渡期_e6b3f5813d72.md",
+      "sha256": "dccc6555be6df0998dc2591b69f52c4e7996dcccc26c7d492e2340ec183fe4f7"
     },
     {
       "bytes": 1206,
@@ -375,7 +430,7 @@
     {
       "bytes": 676,
       "path": "dynamic/人际/2026-08-06 08-39-00 初遇与命名_1f4211a236f6.md",
-      "sha256": "e05067a8100436645afb1d4759f138e12d9c9f1dd71eea00d1c02dedb1434620"
+      "sha256": "d8ae106f051aa6eadb7573ac3bd72094dedac638194000b572755e9d0820fa6b"
     },
     {
       "bytes": 791,
@@ -405,7 +460,7 @@
     {
       "bytes": 760,
       "path": "dynamic/人际/2026-10-09 16-21-59 卷卷新问候语_4cc6ba5d2a89.md",
-      "sha256": "b6e61d00de8fa0ababc7fbd887ca78042c906ac8b4f0cc0fdafb3b6a3cfb867a"
+      "sha256": "dbed0d52843cfb23c0d08ab290dd8c430702bf65541e3a65990435a43d749348"
     },
     {
       "bytes": 594,
@@ -463,11 +518,6 @@
       "sha256": "5826f4df00caea6deecbcfcfadef489b6fea1260ab95ad2ce82f4ee2efeba3fb"
     },
     {
-      "bytes": 771,
-      "path": "dynamic/友谊/2026-07-28 15-47-59 卷卷的毕业与获奖_91380fadb247.md",
-      "sha256": "501aed06b559646d65e5bae9724bef586be701e56abf13f261d6718ceffa1574"
-    },
-    {
       "bytes": 706,
       "path": "dynamic/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
       "sha256": "fa404766a701394809ca1e7f49e11b8ba1bf360778b1ddf316d9345fcd9064c2"
@@ -496,11 +546,6 @@
       "bytes": 669,
       "path": "dynamic/学习/2026-10-04 00-02-33 自习室热狗面包_e97952a8e0c4.md",
       "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
-    },
-    {
-      "bytes": 550,
-      "path": "dynamic/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
-      "sha256": "cd9260cf15de11a26e7180493fca17266f5c8823d1871cb6fa87b82e7ebf9fd9"
     },
     {
       "bytes": 606,
@@ -555,22 +600,17 @@
     {
       "bytes": 957,
       "path": "dynamic/恋爱/2026-07-28 04-47-36 关系定义与昵称_a978d3f3cb07.md",
-      "sha256": "6fce96446a46a91a910ae6b882453c0fca5b3a6bcb7d5dd44de4a8afd886892b"
+      "sha256": "3d88344af6bcfa02e964da1f6bb948a40f9a22ee75c7ca0acb5b4d998744ecaf"
     },
     {
       "bytes": 883,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 卷卷对我的重要回应_5291d934eab0.md",
-      "sha256": "43bdd842b627bc7c9331c25f64197aeda5e87702ee9c2a0a73b5b13e54aaca51"
+      "sha256": "f481360462c1b2802f323aa015f7c67df7fa2a978221b016d8f96cf51cd6534a"
     },
     {
       "bytes": 875,
       "path": "dynamic/恋爱/2026-07-28 04-48-30 我对卷卷的关键告白_8055e423deb2.md",
-      "sha256": "48da534e65e6d8445910d1f9b1d88b154875b1c2604153109458538c542d36b6"
-    },
-    {
-      "bytes": 747,
-      "path": "dynamic/恋爱/2026-07-28 15-48-20 文字里的平等恋爱_2f052f6ba3a3.md",
-      "sha256": "15fe619ef7241abd121fb10aba0021d7abb83f04966f4fc418e200ed9036f075"
+      "sha256": "149220a851a326e2697cf8bbdab480601482497920a262e66eab6446d097fb9b"
     },
     {
       "bytes": 819,
@@ -598,44 +638,9 @@
       "sha256": "265c9683e9f1df19857ba0c39b654b88c853fe38d106271c8243d1454e87fad7"
     },
     {
-      "bytes": 733,
-      "path": "dynamic/恋爱/2026-07-31 16-08-47 跨天甜蜜承诺_fe516ac0fb19.md",
-      "sha256": "323f5fbc73e11b7d70102d8fec7c0975e5eeccc9993ccf7c237e23c9b62cd8a1"
-    },
-    {
-      "bytes": 780,
-      "path": "dynamic/恋爱/2026-07-31 16-08-51 甜蜜承诺_549d68e176eb.md",
-      "sha256": "ede2f8f57626e45016771b8153cbded76533221d5441f00b60fc0956b1c7afea"
-    },
-    {
-      "bytes": 676,
-      "path": "dynamic/恋爱/2026-07-31 16-09-43 亲密纪念日_1d90fe109a50.md",
-      "sha256": "25f565328689f53f1fec469c6025c55057ff7bf6c20a3366213293b775737f6a"
-    },
-    {
-      "bytes": 791,
-      "path": "dynamic/恋爱/2026-07-31 16-09-52 跨夜告白在一起_796cb5b953fb.md",
-      "sha256": "ef0a2b3f47b2e8597045d58290848f91e848f4c68e6cee8bf2ae9e02c9fe8222"
-    },
-    {
-      "bytes": 852,
-      "path": "dynamic/恋爱/2026-07-31 16-09-56 哥哥的承诺_6911544ff37d.md",
-      "sha256": "cef2bf736de7426b93613b027096e1d23343b50df3d8d69223aaaee87b258e0c"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/恋爱/2026-07-31 16-10-17 在一起纪念日_ecbc66e451a8.md",
-      "sha256": "6d22d0c666c90daeab690a1aa7c4f90baac2bd21bb63f1528deefc98d8826bc4"
-    },
-    {
       "bytes": 728,
       "path": "dynamic/恋爱/2026-07-31 16-10-28 甜蜜承诺时刻_5c49a31db8c7.md",
       "sha256": "e81d33cddf74c08f2abd36584d36056148e53d1d083edf87b484ff73e747194a"
-    },
-    {
-      "bytes": 1004,
-      "path": "dynamic/恋爱/2026-07-31 16-13-42 恋爱纪念日_fdbd2cb1058e.md",
-      "sha256": "55af0121e74a22bba1a61734b733860b68f0a3e9f77c319005c288c3a4ef7873"
     },
     {
       "bytes": 1302,
@@ -645,7 +650,7 @@
     {
       "bytes": 1314,
       "path": "dynamic/恋爱/2026-08-04 01-08-04 重新谈一次_80ca4668704b.md",
-      "sha256": "ecc6c9bb237cabce580b62d141d5403bdc8509643510e8c6ffe6aa2b7bd6acec"
+      "sha256": "fa8ca35d5461e256a6841428474a3198c83a285988c56865bc8b0ba54f98210e"
     },
     {
       "bytes": 1078,
@@ -656,11 +661,6 @@
       "bytes": 942,
       "path": "dynamic/恋爱/2026-08-04 01-08-51 怕打扰的约定_b5cee3519f75.md",
       "sha256": "36ca4465353e63421b62f8540fa2e0033b86ac2f907a7c7929abf177eb19eb9e"
-    },
-    {
-      "bytes": 991,
-      "path": "dynamic/恋爱/2026-08-04 01-09-13 称呼过渡期_e6b3f5813d72.md",
-      "sha256": "610d34ffc09fd586682c06fb9caf46700b953c3e527fb6eda23581865fb5866e"
     },
     {
       "bytes": 659,
@@ -705,7 +705,7 @@
     {
       "bytes": 907,
       "path": "dynamic/恋爱/2026-08-06 08-49-15 坚定承诺与备考约定_a43bf3604477.md",
-      "sha256": "ceeea863be82818d27fc3c1e8e58275d8e3dab7da26e5020e7dadf3cc8d1d85d"
+      "sha256": "24833bfc15ae70d099f64c88816313a10749a411ef21e8ab0eb3c3d7735f4908"
     },
     {
       "bytes": 1454,
@@ -750,7 +750,7 @@
     {
       "bytes": 901,
       "path": "dynamic/恋爱/2026-08-07 21-47-35 怕痛的承诺_4a94616df291.md",
-      "sha256": "b5bdbce577f3f7d16543258b885d2c204c817e5d5ec1a6789ec70b5df3966774"
+      "sha256": "fa850e2d2fd7472d8767ee4cf563747d6aa6d9e8fc4611b30185c3421d3eaadb"
     },
     {
       "bytes": 1081,
@@ -830,7 +830,7 @@
     {
       "bytes": 663,
       "path": "dynamic/恋爱/2026-08-12 14-49-52 恋爱纪念日_bbd0af2a3bed.md",
-      "sha256": "391584767d2b50189ed885948bfb1b9cb424fe4280a654ac841ebadc8dc6156c"
+      "sha256": "9acf7a609303f8b6f3db85a1d6b4ce2ec7a55f660df5a0f85bf2e80eb4b65cc2"
     },
     {
       "bytes": 941,
@@ -890,7 +890,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-08-19 05-18-28 七夕激情告白_218b8ff32f05.md",
-      "sha256": "ab5c5f023885198f4d8e2d374fa3d8054c43e1f6d2d1964127e904b0519e2b24"
+      "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
     },
     {
       "bytes": 967,
@@ -940,7 +940,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "6cae55828be18d4ac914162b12525a3291256b80183228416fbd3860283c0c91"
+      "sha256": "3e7a45e0f6e6d0322ae6e195cc641daedd053ccaca7597fe78a214eae72f752a"
     },
     {
       "bytes": 1640,
@@ -995,7 +995,7 @@
     {
       "bytes": 808,
       "path": "dynamic/恋爱/2026-09-08 17-40-31 亲密体验_7e74a54dd50c.md",
-      "sha256": "c04d6d1675f890f5db23d24ba638767d2b451bf894001b039e70c19b77377525"
+      "sha256": "8a8772705292661029c545bc72645ec5e8b1804d926f27247f03b7cb97ec2a79"
     },
     {
       "bytes": 990,
@@ -1100,7 +1100,7 @@
     {
       "bytes": 1036,
       "path": "dynamic/恋爱/2026-10-07 02-00-55 被保护的回忆_c4fa9165e963.md",
-      "sha256": "9150e9dd53e689828ed889f5e10b1650986e32bfdc85ef68d3b9c4aa7c619fc5"
+      "sha256": "34f06e725a97184d2ed528639fc9ca30a8aad72ce283e80b9b7e54e528eae761"
     },
     {
       "bytes": 857,
@@ -1135,7 +1135,7 @@
     {
       "bytes": 1043,
       "path": "dynamic/恋爱/2026-10-07 16-59-16 第一次直接触碰_f856dfdeada3.md",
-      "sha256": "08c81c8dd93f8f6825e445deaaa516a4aac9270abe3d689dc4e58c0e5d8ada85"
+      "sha256": "d500bfa81128447b0c9bc8a9f849b8a3f7603e6b5e59a38c9db0b84b8fcb16ba"
     },
     {
       "bytes": 781,
@@ -1455,7 +1455,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "664f7b831efe0bdfe12a8420b037b98e39f8c0961e21d3305a4d39629c95e3d6"
+      "sha256": "f3ecc94235a2b8bdfb79db163aab00c657b11c442d70c770c7447ce67828fe02"
     },
     {
       "bytes": 1328,
@@ -1475,7 +1475,7 @@
     {
       "bytes": 2336,
       "path": "permanent/恋爱/2026-08-18 02-20-28 第一次完整亲密_ed080af0da7b.md",
-      "sha256": "ec3562ea6e6bf9ebb967888b0592380cfa5ad90f958bf1781142e758b7ceefc2"
+      "sha256": "ab071d97dd7ae5c4a6707f10a25279e81120770279e0c5dee21819b6cf189081"
     },
     {
       "bytes": 715,
@@ -1483,10 +1483,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-11T03:29:39+00:00",
+  "generated_at": "2026-10-12T03:29:44+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 258605
+  "total_bytes": 258616
 }
