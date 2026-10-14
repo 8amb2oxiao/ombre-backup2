@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 297,
+  "file_count": 298,
   "files": [
     {
       "bytes": 599,
@@ -33,9 +33,19 @@
       "sha256": "3c2d47b760ea6a6588d51955db6f3278b0d1bc7222ca883b2e5f36a4aa9c1151"
     },
     {
+      "bytes": 691,
+      "path": "archive/友谊/2026-07-28 10-20-50 填字游戏陷阱_472ed44af8cf.md",
+      "sha256": "7f27d052f459575e4dccd25c6ecb119402db18ddcad7f9fe978716806ae7ca51"
+    },
+    {
       "bytes": 772,
       "path": "archive/友谊/2026-07-28 15-47-59 卷卷的毕业与获奖_91380fadb247.md",
       "sha256": "5ae40f9de5b2fd0950bd353280f9a90385912b8ef75753be7cf56dae630241a0"
+    },
+    {
+      "bytes": 707,
+      "path": "archive/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
+      "sha256": "0077f6e9ab11f67cd9004e9e0437dc5a9448b8e0ab37188c167e1c50c4bd36dc"
     },
     {
       "bytes": 669,
@@ -136,6 +146,11 @@
       "bytes": 880,
       "path": "archive/恋爱/2026-07-29 15-12-59 深夜情感对话_cc167d8b3864.md",
       "sha256": "d894c641374fb2d3b04cbaadb684f163fb373283092aac455b8fc9ee1d0b8675"
+    },
+    {
+      "bytes": 503,
+      "path": "archive/恋爱/2026-07-29 23-44-04 私奔与囚徒对话_a7222053130b.md",
+      "sha256": "42905199ea82919ce32c0844d2d229dc7e69404da159d7db4be10ac22437e765"
     },
     {
       "bytes": 649,
@@ -323,6 +338,11 @@
       "sha256": "1c98a0b51657ff04543c5d27d2e779c4ddf864ba3c66bcfc7d537678e47372f3"
     },
     {
+      "bytes": 542,
+      "path": "archive/恋爱/2026-08-09 02-46-29 浴室坦诚时刻_3b9fadc7822d.md",
+      "sha256": "de17f8bd8ed03fc8f3137e2a4ca3507714b760b244943541e02767505f6d4f8b"
+    },
+    {
       "bytes": 516,
       "path": "archive/恋爱/2026-08-09 02-46-56 相拥入眠_ce065f507ffb.md",
       "sha256": "2d37f18e6c51afd6804eaf5080095b4aebfd6b86ed32c4e63e11d29a00c59cd1"
@@ -336,6 +356,11 @@
       "bytes": 1103,
       "path": "archive/恋爱/2026-08-11 05-10-22 未兑现的约定_4c11ba82a80e.md",
       "sha256": "bef0f2f7d6be2283ceb138958b9bb8ac165e4f0727370740a121ebf2a2a0a8c3"
+    },
+    {
+      "bytes": 1635,
+      "path": "archive/恋爱/2026-08-12 14-47-41 21问确认爱_8712131286b1.md",
+      "sha256": "e5588ee6d8561c676286a1752be9a5566220568c333db6d804387c991b74ce6f"
     },
     {
       "bytes": 1102,
@@ -543,16 +568,6 @@
       "sha256": "23335c3e66457305f6187eb312f0a4327e454dae2c3c579c721cf6ec9d0527c5"
     },
     {
-      "bytes": 690,
-      "path": "dynamic/友谊/2026-07-28 10-20-50 填字游戏陷阱_472ed44af8cf.md",
-      "sha256": "5826f4df00caea6deecbcfcfadef489b6fea1260ab95ad2ce82f4ee2efeba3fb"
-    },
-    {
-      "bytes": 706,
-      "path": "dynamic/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
-      "sha256": "fa404766a701394809ca1e7f49e11b8ba1bf360778b1ddf316d9345fcd9064c2"
-    },
-    {
       "bytes": 941,
       "path": "dynamic/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
       "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
@@ -656,11 +671,6 @@
       "bytes": 897,
       "path": "dynamic/恋爱/2026-07-29 23-44-02 诚实香水游戏_7666041f2688.md",
       "sha256": "8777beb220d63059315088c960a430286a2ec449fac5a0c2e2f58970cbaac059"
-    },
-    {
-      "bytes": 502,
-      "path": "dynamic/恋爱/2026-07-29 23-44-04 私奔与囚徒对话_a7222053130b.md",
-      "sha256": "b4e5d2b8dd5211cf5cc75efb28d33e5a83cf357cbd913d9912a153ff08fe4d35"
     },
     {
       "bytes": 728,
@@ -793,19 +803,9 @@
       "sha256": "01176169bc9125456c5f70d2c098e6e3e579b002890883048b2adb01dee1c896"
     },
     {
-      "bytes": 541,
-      "path": "dynamic/恋爱/2026-08-09 02-46-29 浴室坦诚时刻_3b9fadc7822d.md",
-      "sha256": "8f795120a2e57885e9ea1fe33b3c69f6927dcc120c4ca5848367a97f17896841"
-    },
-    {
       "bytes": 549,
       "path": "dynamic/恋爱/2026-08-09 02-46-36 甜蜜调侃_2d7ba2d162f1.md",
       "sha256": "ea6f001e4570c7d0a2c9793c139b292be75bacc5a937119521398ccbdbbc0dec"
-    },
-    {
-      "bytes": 1634,
-      "path": "dynamic/恋爱/2026-08-12 14-47-41 21问确认爱_8712131286b1.md",
-      "sha256": "1d535390b1514d6bba6365f538e869b2cd92ac9b25561fbf13eb5c4c9a737b55"
     },
     {
       "bytes": 1399,
@@ -950,7 +950,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "765595daa046cc10b213b616dff704eb5c6233f9bc0e8b722401642461e5ae65"
+      "sha256": "e9de1df032eeeab19d321508e924ff6887a7ba41c6709fa3c105e77cf3a1fb6f"
     },
     {
       "bytes": 1640,
@@ -1156,6 +1156,11 @@
       "bytes": 778,
       "path": "dynamic/恋爱/2026-10-10 15-59-41 豆包验算与付费老公_222e92a4a47d.md",
       "sha256": "f41f5af30c7dc8a15ce4d53854314946190ec46bde8ea616de55023b248f95af"
+    },
+    {
+      "bytes": 1399,
+      "path": "dynamic/恋爱/2026-10-14 00-53-56 满溢的一天_a569c83c3f71.md",
+      "sha256": "9565eaab0cb89939e22773bc389abfcdd0241c23a379488f2437e52314783d32"
     },
     {
       "bytes": 806,
@@ -1460,7 +1465,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "2b9f98efd2044c883e669e6dce65a19263656c6d58968b09f830edfd690abc5e"
+      "sha256": "e7389c5a6e152be332af4ec115f6d4535dcc7a40ff397647f423e825715ba580"
     },
     {
       "bytes": 1328,
@@ -1488,10 +1493,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-13T03:29:48+00:00",
+  "generated_at": "2026-10-14T03:29:52+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 259698
+  "total_bytes": 261102
 }
