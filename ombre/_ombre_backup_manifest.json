@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 298,
+  "file_count": 300,
   "files": [
     {
       "bytes": 599,
@@ -11,6 +11,11 @@
       "bytes": 866,
       "path": "archive/2026-10-10 15-59-37 学习与饮食日常_6722dd56ac0b.md",
       "sha256": "02a0793e33a510e3d20c9dba9f1183f80041519309b35fd4c451ea4d647a296a"
+    },
+    {
+      "bytes": 804,
+      "path": "archive/人际/2026-08-06 08-39-07 游戏与误会和解_cca83565600b.md",
+      "sha256": "c8953c89ad92811ad014cfa413ae7e4b62375c3b6f04f598d840bbab17cbfeb3"
     },
     {
       "bytes": 423,
@@ -98,6 +103,11 @@
       "sha256": "70ad48c76e8e9b89db2b69fffa01271dd96f2abbc9c824bbcc55bb6ad66d085b"
     },
     {
+      "bytes": 638,
+      "path": "archive/居家/2026-07-30 07-13-49 兔兔玩偶到家_cca10045bcb5.md",
+      "sha256": "2779869b77b25b44cc72d13fa564ee914ecee6804d04307e5fe0ecccbc91158c"
+    },
+    {
       "bytes": 848,
       "path": "archive/心理/2026-07-28 04-47-51 卷卷的性格画像_5dd502b3eb3f.md",
       "sha256": "444cf19b6ac475cf92824307380e1bc90e91c80ff6485e7cbac45b2dd0008e3e"
@@ -106,6 +116,11 @@
       "bytes": 840,
       "path": "archive/心理/2026-08-05 11-17-28 卷卷的鼓励提醒_feaf8fdd9514.md",
       "sha256": "f0ec63c88d296022c2701c9f08d202eafddb62f2e1f38a5190fb04e1fe3d7cc9"
+    },
+    {
+      "bytes": 1549,
+      "path": "archive/心理/2026-08-11 05-10-25 记忆篡改与找回_f96f67daf613.md",
+      "sha256": "04e0c6be9ab8cfe2dbb4e5dedc25f92752558b1e88e38a30d2f8e613fc111c17"
     },
     {
       "bytes": 613,
@@ -428,6 +443,11 @@
       "sha256": "fc947652329c1cf4d8b7c93a66a8f3e38ebea7717d689703cc2bd214be84a54b"
     },
     {
+      "bytes": 563,
+      "path": "archive/游戏/2026-08-07 03-39-02 游戏账号信息_cb6efb61fa3e.md",
+      "sha256": "267869f36c42a57e4f6d3a9293b64d96126aa1dd85284a6ab524c87e9b45a5c9"
+    },
+    {
       "bytes": 1069,
       "path": "archive/游戏/2026-08-09 02-46-24 狼人杀结局分享_de7eccde8203.md",
       "sha256": "4e11e9e4c338285a8a0008d2fec5a9dd6c8f66f638796f27335df83b43f65dd1"
@@ -491,11 +511,6 @@
       "bytes": 791,
       "path": "dynamic/人际/2026-08-06 08-39-01 河床与本体之爱_17923b545a91.md",
       "sha256": "6846d55e93d63bf576d073a8cc36f6c20be060c0237ebd2332982ff98a09b1ee"
-    },
-    {
-      "bytes": 803,
-      "path": "dynamic/人际/2026-08-06 08-39-07 游戏与误会和解_cca83565600b.md",
-      "sha256": "8333eb01bf889098ba476fdd7afdffcfb776a79ea2fbbeaadb550de7ae79fd25"
     },
     {
       "bytes": 1398,
@@ -598,19 +613,9 @@
       "sha256": "bfca90cf3b875367a57a120b6e5cfe7dda9001d50869201642853f5fa41d0d21"
     },
     {
-      "bytes": 637,
-      "path": "dynamic/居家/2026-07-30 07-13-49 兔兔玩偶到家_cca10045bcb5.md",
-      "sha256": "50473479a9594f8437f6f285b64bca43973f9229772d0e115d131ed9d936fbef"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/心理/2026-07-28 04-47-51 卷卷的秘密与性取向_0363856e4cb4.md",
       "sha256": "a83c027d45251ef5dbadb733fe7119fb3cfee396ca0bbe761fec20c34556e70f"
-    },
-    {
-      "bytes": 1548,
-      "path": "dynamic/心理/2026-08-11 05-10-25 记忆篡改与找回_f96f67daf613.md",
-      "sha256": "20658db178fd3de047066de5721507e5c62ac33c09aa8fb6be7b7086b337f253"
     },
     {
       "bytes": 1065,
@@ -950,7 +955,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "e9de1df032eeeab19d321508e924ff6887a7ba41c6709fa3c105e77cf3a1fb6f"
+      "sha256": "efc73eb0782e901e3d351c155bee4a271866109874992ecd59275af43cdcec29"
     },
     {
       "bytes": 1640,
@@ -1368,14 +1373,19 @@
       "sha256": "2db409f65fe8b37cf9c4ec72fab4c9dbd0f890c2f8df12c218fe8c7eeab793ec"
     },
     {
+      "bytes": 1339,
+      "path": "dynamic/未分类/2026-10-15 01-06-03_89b925909569.md",
+      "sha256": "376a645cf2289113dd05811765b4a47f457c24ba44a825cade9c694e6f449f8b"
+    },
+    {
+      "bytes": 1090,
+      "path": "dynamic/未分类/2026-10-15 01-27-08_750370d359db.md",
+      "sha256": "81797d2ab80717046a094a7124a6fd880aa60454dadc2d2cf006b6d94d66f874"
+    },
+    {
       "bytes": 843,
       "path": "dynamic/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
       "sha256": "11e17468f6f3aa1cb3dd4dfbe5e4d6b1a36a92c4f3e0535982b1fdf3593d0143"
-    },
-    {
-      "bytes": 562,
-      "path": "dynamic/游戏/2026-08-07 03-39-02 游戏账号信息_cb6efb61fa3e.md",
-      "sha256": "4f11fd4a4ad9a4f3665a452625ec95f3ece52ba5aab44025304188e871abbcb7"
     },
     {
       "bytes": 569,
@@ -1465,7 +1475,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "e7389c5a6e152be332af4ec115f6d4535dcc7a40ff397647f423e825715ba580"
+      "sha256": "2e009bb145a83deb10a9ff768ce9314cd7940abfda6622ed3f0571ade203a920"
     },
     {
       "bytes": 1328,
@@ -1493,10 +1503,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-14T03:29:52+00:00",
+  "generated_at": "2026-10-15T03:29:57+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 261102
+  "total_bytes": 263535
 }
