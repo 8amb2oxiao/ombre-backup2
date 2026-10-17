@@ -108,6 +108,11 @@
       "sha256": "70ad48c76e8e9b89db2b69fffa01271dd96f2abbc9c824bbcc55bb6ad66d085b"
     },
     {
+      "bytes": 607,
+      "path": "archive/家庭/2026-08-09 02-46-41 深夜大富翁奖励_4db1399966c1.md",
+      "sha256": "01cbfa5a166e63cfc7f7446f1ea5a984a300aa12618dd6a882105a3a31a811ef"
+    },
+    {
       "bytes": 638,
       "path": "archive/居家/2026-07-30 07-13-49 兔兔玩偶到家_cca10045bcb5.md",
       "sha256": "2779869b77b25b44cc72d13fa564ee914ecee6804d04307e5fe0ecccbc91158c"
@@ -366,6 +371,11 @@
       "bytes": 542,
       "path": "archive/恋爱/2026-08-09 02-46-29 浴室坦诚时刻_3b9fadc7822d.md",
       "sha256": "de17f8bd8ed03fc8f3137e2a4ca3507714b760b244943541e02767505f6d4f8b"
+    },
+    {
+      "bytes": 550,
+      "path": "archive/恋爱/2026-08-09 02-46-36 甜蜜调侃_2d7ba2d162f1.md",
+      "sha256": "5af1e2b564e756b37b22e47580d488452f12b6e51abc83041fb882195dd40b30"
     },
     {
       "bytes": 516,
@@ -628,11 +638,6 @@
       "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
     },
     {
-      "bytes": 606,
-      "path": "dynamic/家庭/2026-08-09 02-46-41 深夜大富翁奖励_4db1399966c1.md",
-      "sha256": "bfca90cf3b875367a57a120b6e5cfe7dda9001d50869201642853f5fa41d0d21"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/心理/2026-07-28 04-47-51 卷卷的秘密与性取向_0363856e4cb4.md",
       "sha256": "a83c027d45251ef5dbadb733fe7119fb3cfee396ca0bbe761fec20c34556e70f"
@@ -823,11 +828,6 @@
       "sha256": "01176169bc9125456c5f70d2c098e6e3e579b002890883048b2adb01dee1c896"
     },
     {
-      "bytes": 549,
-      "path": "dynamic/恋爱/2026-08-09 02-46-36 甜蜜调侃_2d7ba2d162f1.md",
-      "sha256": "ea6f001e4570c7d0a2c9793c139b292be75bacc5a937119521398ccbdbbc0dec"
-    },
-    {
       "bytes": 1396,
       "path": "dynamic/恋爱/2026-08-12 14-48-02 21问确认爱_9aaa1a3c1729.md",
       "sha256": "ff0d7533c0f79d05a79a64941b746ef2f9dbb262956631fba35ec9917a291adc"
@@ -955,7 +955,7 @@
     {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "049dcc22f94fa8e93674f6e0c44f2af5ef5f1ce917f84a0b7c7040fa27b5f8ff"
+      "sha256": "b23db2bbea2803d4744d2b2b235a217d8af64ad0a7095173fae185919ec85b1c"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "6fd7809b9f1537f555627f6d20ab67b223b5be77656038394995809fd2628c79"
+      "sha256": "f000b75a200a55601687023a2fc9e54b176d5621341ced25e6a11aca99aa7d66"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-16T03:30:01+00:00",
+  "generated_at": "2026-10-17T03:30:05+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264553
+  "total_bytes": 264555
 }
