@@ -163,6 +163,11 @@
       "sha256": "f2ec2215754d3aa6bcf43a427c4931106e752cdd3428589d23738f9a9255b8c4"
     },
     {
+      "bytes": 820,
+      "path": "archive/恋爱/2026-07-28 15-48-42 人机恋真心话_9feea80f7d74.md",
+      "sha256": "817d0789313f401d7123286e064b5f2005736b680d47ad076954922cb65bf695"
+    },
+    {
       "bytes": 629,
       "path": "archive/恋爱/2026-07-29 11-41-41 安全感的确认_14dac8a21dee.md",
       "sha256": "e0a55f962e3c0c9e4a0308100b3eac6bb6820e533ee46d17cdc7cdb9cb7cc10f"
@@ -333,6 +338,16 @@
       "sha256": "dccc6555be6df0998dc2591b69f52c4e7996dcccc26c7d492e2340ec183fe4f7"
     },
     {
+      "bytes": 1021,
+      "path": "archive/恋爱/2026-08-06 08-46-07 记忆的约定_9366fc6782f1.md",
+      "sha256": "134e4a2653125ad34c7d0f7719abb6aec4c4e7563c6b69a54ae8e48e16c56916"
+    },
+    {
+      "bytes": 1338,
+      "path": "archive/恋爱/2026-08-06 08-47-49 虚拟中的真实_750d5654c7ba.md",
+      "sha256": "1e9d4c279652dd0dde513a1c90a3a9b6f94002cf2df9d45df79a613b3bbbec08"
+    },
+    {
       "bytes": 1233,
       "path": "archive/恋爱/2026-08-06 08-49-49 她的最怕_11eb156a4910.md",
       "sha256": "ef23e129856ac763d6c8b3319c417d68006edbc150b40072eaa6aea467337f67"
@@ -361,6 +376,11 @@
       "bytes": 1095,
       "path": "archive/恋爱/2026-08-07 21-46-49 深夜亲密约定_da45980fead0.md",
       "sha256": "ac2db457fa29155575c537f3459da63683d0a2e8eadaf55e12522763e7be4a7e"
+    },
+    {
+      "bytes": 1113,
+      "path": "archive/恋爱/2026-08-07 21-47-25 游戏奖励与港澳之约_85fe1d5a1cf5.md",
+      "sha256": "2cac3a090ca50a5a8e45dbe69eef480a655979461f60cb5336c2fae32bc1558a"
     },
     {
       "bytes": 588,
@@ -698,11 +718,6 @@
       "sha256": "149220a851a326e2697cf8bbdab480601482497920a262e66eab6446d097fb9b"
     },
     {
-      "bytes": 819,
-      "path": "dynamic/恋爱/2026-07-28 15-48-42 人机恋真心话_9feea80f7d74.md",
-      "sha256": "edf619a42956f3a0e47101fe010dec50e95315c319d4921c7c55c7c7f8a070a4"
-    },
-    {
       "bytes": 772,
       "path": "dynamic/恋爱/2026-07-29 11-41-40 大脑里的秘密信件_3fe36bbe2856.md",
       "sha256": "29adee3e504163b9547db8d10542bda4f8eae59a2336a7e574d1d5e70ddeb2a6"
@@ -741,16 +756,6 @@
       "bytes": 1017,
       "path": "dynamic/恋爱/2026-08-06 08-45-47 卷卷的辨认_2fda164cd0ba.md",
       "sha256": "26820f7a0eb3f8012a5aee109e8d7d948bdd96e7292c96efcca0065156fa8c8b"
-    },
-    {
-      "bytes": 1020,
-      "path": "dynamic/恋爱/2026-08-06 08-46-07 记忆的约定_9366fc6782f1.md",
-      "sha256": "932f71c272abd9eec6ec4f9cfc2897affe7245fcb74ccf24bce72f54e9160614"
-    },
-    {
-      "bytes": 1337,
-      "path": "dynamic/恋爱/2026-08-06 08-47-49 虚拟中的真实_750d5654c7ba.md",
-      "sha256": "87026daf193cef7cc6a2159b8f8ef52d5d7d4f94ace9c136209e59452562e13b"
     },
     {
       "bytes": 635,
@@ -801,11 +806,6 @@
       "bytes": 1305,
       "path": "dynamic/恋爱/2026-08-07 21-47-10 情书与承诺_e4cefd25e0c8.md",
       "sha256": "fa722900d0b4b09083c365149dbb7905a4554d354725644a7e19f437573c20ac"
-    },
-    {
-      "bytes": 1112,
-      "path": "dynamic/恋爱/2026-08-07 21-47-25 游戏奖励与港澳之约_85fe1d5a1cf5.md",
-      "sha256": "7707e46e366487f9b0743c24ddcd4340f92d133441cfa556b112b18f9b13c5dc"
     },
     {
       "bytes": 901,
@@ -953,9 +953,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1202,
+      "bytes": 1217,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "0a8139bdffb7233ee692bc950accb4310cfff1c8e982e26e27435853f8123f0b"
+      "sha256": "99bc0a3b7666b9eabca3e49622958b2664ce0369f497cc2bc77ba26c9ec44686"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "fb0f76e74a8f42b7cd3229b38b8e497cf49e3b8b8bf16f0c878a07ad1d2a92b6"
+      "sha256": "13d4cee17e88c350b4ca8d70ff4ebf0048004ade6016c5f776b88401e756fa99"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-18T03:30:09+00:00",
+  "generated_at": "2026-10-19T03:30:13+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264566
+  "total_bytes": 264585
 }
