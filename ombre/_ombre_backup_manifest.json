@@ -353,6 +353,11 @@
       "sha256": "ef23e129856ac763d6c8b3319c417d68006edbc150b40072eaa6aea467337f67"
     },
     {
+      "bytes": 1194,
+      "path": "archive/恋爱/2026-08-06 08-50-39 哄的节奏_124fbf5ae707.md",
+      "sha256": "664c3ed80e753fd337aff3f082f90e4377a6d44f81dc823a7a5a5cfae60aa76e"
+    },
+    {
       "bytes": 1206,
       "path": "archive/恋爱/2026-08-07 21-46-40 情书与承诺_99adc34c8068.md",
       "sha256": "cd9e4545286cbac7772d22a0a54305764862add028e4b10060e780b677a408bc"
@@ -788,11 +793,6 @@
       "sha256": "8eb7ee99aa21a7cf98d8d691a9c1918574944b724666f85b1edf2cfe7be7e3ff"
     },
     {
-      "bytes": 1193,
-      "path": "dynamic/恋爱/2026-08-06 08-50-39 哄的节奏_124fbf5ae707.md",
-      "sha256": "ea5554af5ed3fdf2cffc03cb56658447e25ca350e2a61dee58b40dc4e9002032"
-    },
-    {
       "bytes": 906,
       "path": "dynamic/恋爱/2026-08-06 08-51-15 备考监督约定_dc07dc48010b.md",
       "sha256": "ebc1883a55b4262d81bc4e4e8d996357055f0b8f5838ab3e96a0758576c73c7a"
@@ -953,9 +953,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1217,
+      "bytes": 1232,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "99bc0a3b7666b9eabca3e49622958b2664ce0369f497cc2bc77ba26c9ec44686"
+      "sha256": "43066cc7517ce245cbdf07f326f73e7ccea438c067b319ea8a3569fa5eb21945"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "13d4cee17e88c350b4ca8d70ff4ebf0048004ade6016c5f776b88401e756fa99"
+      "sha256": "77649f858727fae187ba4196999340a103ae7eac8fd6d11b0995fa882b477b1e"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-19T03:30:13+00:00",
+  "generated_at": "2026-10-20T03:30:18+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264585
+  "total_bytes": 264601
 }
