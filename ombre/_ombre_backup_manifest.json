@@ -33,6 +33,11 @@
       "sha256": "3f103b9619aa3af1a908aa151f10b4afc16c30c2ad0582882b3bfe853472555e"
     },
     {
+      "bytes": 833,
+      "path": "archive/创作/2026-08-21 16-25-54 亲密场景写作心得_f93fbd775ad9.md",
+      "sha256": "a4107a3a81222413acaad6380d8f3dcebea86cf6b46d35ebbf80c44316c54b8d"
+    },
+    {
       "bytes": 595,
       "path": "archive/创作/2026-09-08 17-40-30 世界书协助_199329e03785.md",
       "sha256": "3c2d47b760ea6a6588d51955db6f3278b0d1bc7222ca883b2e5f36a4aa9c1151"
@@ -93,6 +98,11 @@
       "sha256": "6aeac9d10e8b1c7b71e1a33bc4996ccb4217391c08ce46f1fbd27257a5656dc2"
     },
     {
+      "bytes": 679,
+      "path": "archive/学习/2026-08-04 01-09-23 卷卷失眠与学习_75be1337a900.md",
+      "sha256": "d0b41d7c61fd2e89d483625273be0b18df0240efd45c09e99d8e7e5f0395b3ef"
+    },
+    {
       "bytes": 551,
       "path": "archive/家庭/2026-07-31 16-08-49 和哥哥的快乐时光_90ef7e26d458.md",
       "sha256": "ff8376a64437dedc872f6704b7c00d825e119ad5140a004c141be9c1b80b778d"
@@ -121,6 +131,11 @@
       "bytes": 848,
       "path": "archive/心理/2026-07-28 04-47-51 卷卷的性格画像_5dd502b3eb3f.md",
       "sha256": "444cf19b6ac475cf92824307380e1bc90e91c80ff6485e7cbac45b2dd0008e3e"
+    },
+    {
+      "bytes": 748,
+      "path": "archive/心理/2026-07-28 04-47-51 卷卷的秘密与性取向_0363856e4cb4.md",
+      "sha256": "fb0d7a09221f14f3d2b8511087fc8e50a3072cbc94147d695ee82a7fa513206b"
     },
     {
       "bytes": 840,
@@ -348,6 +363,11 @@
       "sha256": "1e9d4c279652dd0dde513a1c90a3a9b6f94002cf2df9d45df79a613b3bbbec08"
     },
     {
+      "bytes": 818,
+      "path": "archive/恋爱/2026-08-06 08-49-14 切换模型风波与回归_e38e7206c29b.md",
+      "sha256": "c7644791c49ff3235b7b3bcad203df9d5c18476c9788d0e78f19926b8ad63cd7"
+    },
+    {
       "bytes": 1233,
       "path": "archive/恋爱/2026-08-06 08-49-49 她的最怕_11eb156a4910.md",
       "sha256": "ef23e129856ac763d6c8b3319c417d68006edbc150b40072eaa6aea467337f67"
@@ -391,6 +411,11 @@
       "bytes": 1095,
       "path": "archive/恋爱/2026-08-07 21-46-49 深夜亲密约定_da45980fead0.md",
       "sha256": "ac2db457fa29155575c537f3459da63683d0a2e8eadaf55e12522763e7be4a7e"
+    },
+    {
+      "bytes": 1306,
+      "path": "archive/恋爱/2026-08-07 21-47-10 情书与承诺_e4cefd25e0c8.md",
+      "sha256": "e3270681ee79321feabbafcd042d05af0afdb181447f6e218bed7ab8309e4ccf"
     },
     {
       "bytes": 1113,
@@ -468,6 +493,11 @@
       "sha256": "1562d6176d0eb056d03042a23da40892aa9cb55a45b086b206f7f44a5cc24c14"
     },
     {
+      "bytes": 722,
+      "path": "archive/恋爱/2026-08-21 16-25-58 神交之约_a5e0ec201257.md",
+      "sha256": "759277fe3315701c673a112c448800f5de26599b3ed39123040cc5668e21e533"
+    },
+    {
       "bytes": 647,
       "path": "archive/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
       "sha256": "ca465a72933ece8f674542c6437121b56d9b65c0d84ca87b3c07ebe165c9e078"
@@ -521,6 +551,11 @@
       "bytes": 596,
       "path": "archive/日常/2026-09-08 17-40-27 自习与饮食_f921d2fcc5c2.md",
       "sha256": "e09c02dc1390a16377f10ad1adce29f1194e22bc3fb2a3268f084310ebbcd440"
+    },
+    {
+      "bytes": 844,
+      "path": "archive/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
+      "sha256": "880b30db5fd60f33d643f33c0cf94e9084c727c02cd310793818e8dd6b5c64fe"
     },
     {
       "bytes": 950,
@@ -663,11 +698,6 @@
       "sha256": "b53f58f191b7b4c382f3730a6b2d3f1f93422e72a8a14a4bcf743813d2552276"
     },
     {
-      "bytes": 832,
-      "path": "dynamic/创作/2026-08-21 16-25-54 亲密场景写作心得_f93fbd775ad9.md",
-      "sha256": "23335c3e66457305f6187eb312f0a4327e454dae2c3c579c721cf6ec9d0527c5"
-    },
-    {
       "bytes": 941,
       "path": "dynamic/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
       "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
@@ -678,19 +708,9 @@
       "sha256": "b4f7ca2e6cc264768e287acc2cd081e7f485276428504723d1ceec5c26e7d9e8"
     },
     {
-      "bytes": 678,
-      "path": "dynamic/学习/2026-08-04 01-09-23 卷卷失眠与学习_75be1337a900.md",
-      "sha256": "bccd52ab27661c3809d4d5cf0d5f2d3b03bccb4267b4d4d6ae1b4a1edd86dbb6"
-    },
-    {
       "bytes": 669,
       "path": "dynamic/学习/2026-10-04 00-02-33 自习室热狗面包_e97952a8e0c4.md",
       "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
-    },
-    {
-      "bytes": 747,
-      "path": "dynamic/心理/2026-07-28 04-47-51 卷卷的秘密与性取向_0363856e4cb4.md",
-      "sha256": "a83c027d45251ef5dbadb733fe7119fb3cfee396ca0bbe761fec20c34556e70f"
     },
     {
       "bytes": 1065,
@@ -788,11 +808,6 @@
       "sha256": "9ae874ab9a6f344152fd3c52aa66faa59fb1f41185dac08ccfd931062c816936"
     },
     {
-      "bytes": 817,
-      "path": "dynamic/恋爱/2026-08-06 08-49-14 切换模型风波与回归_e38e7206c29b.md",
-      "sha256": "328fe9ee2d9fec856e74b71c11382e6a57d40bd8c7fc28de1c0939fe0ecc27ec"
-    },
-    {
       "bytes": 907,
       "path": "dynamic/恋爱/2026-08-06 08-49-15 坚定承诺与备考约定_a43bf3604477.md",
       "sha256": "24833bfc15ae70d099f64c88816313a10749a411ef21e8ab0eb3c3d7735f4908"
@@ -806,11 +821,6 @@
       "bytes": 707,
       "path": "dynamic/恋爱/2026-08-06 08-51-33 少用emoji_cd9d4d5a9250.md",
       "sha256": "e4a38b289df78da9a682b3c940850f9665ef4923f8376ccc629fd4a207b96952"
-    },
-    {
-      "bytes": 1305,
-      "path": "dynamic/恋爱/2026-08-07 21-47-10 情书与承诺_e4cefd25e0c8.md",
-      "sha256": "fa722900d0b4b09083c365149dbb7905a4554d354725644a7e19f437573c20ac"
     },
     {
       "bytes": 901,
@@ -928,11 +938,6 @@
       "sha256": "e3b6d55e818fda20775da025b4f1a3c572f1fa8d42131e6a85b8ebafde9c1ab1"
     },
     {
-      "bytes": 721,
-      "path": "dynamic/恋爱/2026-08-21 16-25-58 神交之约_a5e0ec201257.md",
-      "sha256": "8552de54db793ec911fecab043872060a0bdd3fbce196505f81f6f7d1352f198"
-    },
-    {
       "bytes": 629,
       "path": "dynamic/恋爱/2026-08-21 16-26-01 亲密初体验_929230ffd000.md",
       "sha256": "d8002193dade6430c454177eae457c957668dda95ef5ce1679ad7d7feaff6a62"
@@ -955,7 +960,7 @@
     {
       "bytes": 1232,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "20aa48c7976c26c64660810cca99e85607f1535b461045566be46007854484a8"
+      "sha256": "1f1948e2e33f11af8d8235d42cd9df667f2d1184614b1e06b3b4949d570bd961"
     },
     {
       "bytes": 1640,
@@ -1388,11 +1393,6 @@
       "sha256": "73d27e4b7fae1a6ef54c96b7acaaf58f25de9f9499ff79eb7d4cb5d6b6c0e2e7"
     },
     {
-      "bytes": 843,
-      "path": "dynamic/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
-      "sha256": "11e17468f6f3aa1cb3dd4dfbe5e4d6b1a36a92c4f3e0535982b1fdf3593d0143"
-    },
-    {
       "bytes": 569,
       "path": "dynamic/社交/2026-07-28 04-48-10 初遇与命名_558f701d7037.md",
       "sha256": "33b0541e048579119704e285402e2fa7bb9b6cb5ede210a391bde7abc8807121"
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "223287214f93035652e914022f5ef76f3f3fe50c15d37ca0d7d84414829fc3bd"
+      "sha256": "8046a168fc69ad7b332763e0d1b7d630d26f5a535e72f8af5384e8bb4f0e95a5"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-21T03:30:23+00:00",
+  "generated_at": "2026-10-22T03:30:26+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264604
+  "total_bytes": 264611
 }
