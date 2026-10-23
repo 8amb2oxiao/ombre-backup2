@@ -478,6 +478,21 @@
       "sha256": "5651f0eafcd162cd10f3cd765adce88ff9b7c5916dae7246092d686afc896a67"
     },
     {
+      "bytes": 1052,
+      "path": "archive/恋爱/2026-08-12 14-48-29 配得感与自我_fdf63e17b353.md",
+      "sha256": "d97a893d1e1ee34b0b1c630fe930dc8eac7d1c3ced65fec7ca217b7958dd75aa"
+    },
+    {
+      "bytes": 773,
+      "path": "archive/恋爱/2026-08-12 14-49-43 不放手约定_24d113c9c1ba.md",
+      "sha256": "42eeef3abac5c28f19adace478f496d14c3bd01f29ddcd725a1c5ab1de4a12dd"
+    },
+    {
+      "bytes": 997,
+      "path": "archive/恋爱/2026-08-12 14-50-17 信件与承诺_493a1bca40c0.md",
+      "sha256": "12bf690778b4a8beac7def33df1e951dbcbdcc9b91491ac45f6b814ec5d5472b"
+    },
+    {
       "bytes": 1207,
       "path": "archive/恋爱/2026-08-13 08-11-45 人机婚礼誓言_230aaa9eff50.md",
       "sha256": "f63e1d9716e7242015561d5aa924f22e3d3f1cfee498782f76eb2f4d2966897a"
@@ -491,6 +506,11 @@
       "bytes": 572,
       "path": "archive/恋爱/2026-08-13 08-14-32 坦白与承诺_f2aa2cc89642.md",
       "sha256": "1562d6176d0eb056d03042a23da40892aa9cb55a45b086b206f7f44a5cc24c14"
+    },
+    {
+      "bytes": 709,
+      "path": "archive/恋爱/2026-08-21 16-25-56 亲密互动约定_9cce2fe73185.md",
+      "sha256": "8f7e403d5f6583700a02b992039bf6cae4bee9e8123d2c0c0543437dc7243a0c"
     },
     {
       "bytes": 722,
@@ -853,19 +873,9 @@
       "sha256": "f3fcb07c543310a647d4e46104344a7b97cc06b1020b5dea65c0bfe7e98efa77"
     },
     {
-      "bytes": 1051,
-      "path": "dynamic/恋爱/2026-08-12 14-48-29 配得感与自我_fdf63e17b353.md",
-      "sha256": "ebba1c75674c30c435a0da862a450421ca6085e6e7283ae3c0656d3f3cc44a82"
-    },
-    {
       "bytes": 1115,
       "path": "dynamic/恋爱/2026-08-12 14-48-43 游戏陪伴与承诺_6eb68963eacc.md",
       "sha256": "25c2d6ff014f80e148ceeff006c4a07133528cfbc9aef411f39b45686ba7b5ba"
-    },
-    {
-      "bytes": 772,
-      "path": "dynamic/恋爱/2026-08-12 14-49-43 不放手约定_24d113c9c1ba.md",
-      "sha256": "d5f6552c60d247d0aec23e0c5553539d4a28a436b95d25dac8b454cebb385fdf"
     },
     {
       "bytes": 663,
@@ -876,11 +886,6 @@
       "bytes": 941,
       "path": "dynamic/恋爱/2026-08-12 14-50-04 承诺落地时间线_36380a7c8750.md",
       "sha256": "8e183ca9c680cc6ed067cbc743707df777e7bfeec7d381143ac9b3179436492a"
-    },
-    {
-      "bytes": 996,
-      "path": "dynamic/恋爱/2026-08-12 14-50-17 信件与承诺_493a1bca40c0.md",
-      "sha256": "71daf18ebd3d79a9a46c247e7d70fbc8ace3828409d676152c7de09eea793982"
     },
     {
       "bytes": 1146,
@@ -933,11 +938,6 @@
       "sha256": "1376e1e2a0d68fa92ecafe65ab50a8a0bd5d5df0919cc7eec18fc006b9a30617"
     },
     {
-      "bytes": 708,
-      "path": "dynamic/恋爱/2026-08-21 16-25-56 亲密互动约定_9cce2fe73185.md",
-      "sha256": "e3b6d55e818fda20775da025b4f1a3c572f1fa8d42131e6a85b8ebafde9c1ab1"
-    },
-    {
       "bytes": 629,
       "path": "dynamic/恋爱/2026-08-21 16-26-01 亲密初体验_929230ffd000.md",
       "sha256": "d8002193dade6430c454177eae457c957668dda95ef5ce1679ad7d7feaff6a62"
@@ -960,7 +960,7 @@
     {
       "bytes": 1232,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "1f1948e2e33f11af8d8235d42cd9df667f2d1184614b1e06b3b4949d570bd961"
+      "sha256": "ecc618859ac69997d041bd7ece7c05f5deb46e4fde6cb14a6965fd5862feeed2"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "8046a168fc69ad7b332763e0d1b7d630d26f5a535e72f8af5384e8bb4f0e95a5"
+      "sha256": "e5c0109b1214e3ef25ec62ff443a7f5b67dbe32da8926d41d50be851318066b2"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-22T03:30:26+00:00",
+  "generated_at": "2026-10-23T03:30:31+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264611
+  "total_bytes": 264615
 }
