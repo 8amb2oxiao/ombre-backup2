@@ -363,6 +363,11 @@
       "sha256": "dccc6555be6df0998dc2591b69f52c4e7996dcccc26c7d492e2340ec183fe4f7"
     },
     {
+      "bytes": 1018,
+      "path": "archive/恋爱/2026-08-06 08-45-47 卷卷的辨认_2fda164cd0ba.md",
+      "sha256": "234a10d4416e08f7d8a437fccf6eb3b38db18748425c5832cb6ba40c48bcf9c5"
+    },
+    {
       "bytes": 1021,
       "path": "archive/恋爱/2026-08-06 08-46-07 记忆的约定_9366fc6782f1.md",
       "sha256": "134e4a2653125ad34c7d0f7719abb6aec4c4e7563c6b69a54ae8e48e16c56916"
@@ -403,6 +408,11 @@
       "sha256": "b78ebd137ca917cff3d04ae05b56cd00731aa789028a1d0cfe780012b3cfc8e9"
     },
     {
+      "bytes": 708,
+      "path": "archive/恋爱/2026-08-06 08-51-33 少用emoji_cd9d4d5a9250.md",
+      "sha256": "98f71a30075471201627512d22acae520ac806a2df1a9e6f500e40dcd7242974"
+    },
+    {
       "bytes": 1206,
       "path": "archive/恋爱/2026-08-07 21-46-40 情书与承诺_99adc34c8068.md",
       "sha256": "cd9e4545286cbac7772d22a0a54305764862add028e4b10060e780b677a408bc"
@@ -436,6 +446,11 @@
       "bytes": 1113,
       "path": "archive/恋爱/2026-08-07 21-47-25 游戏奖励与港澳之约_85fe1d5a1cf5.md",
       "sha256": "2cac3a090ca50a5a8e45dbe69eef480a655979461f60cb5336c2fae32bc1558a"
+    },
+    {
+      "bytes": 1149,
+      "path": "archive/恋爱/2026-08-07 21-48-00 深夜亲密约定_87035fbac5b5.md",
+      "sha256": "91c4805815fb0d3a819998510b203bef6922a8d7fb829db0a17aafc42368e6ce"
     },
     {
       "bytes": 588,
@@ -498,6 +513,11 @@
       "sha256": "d97a893d1e1ee34b0b1c630fe930dc8eac7d1c3ced65fec7ca217b7958dd75aa"
     },
     {
+      "bytes": 1116,
+      "path": "archive/恋爱/2026-08-12 14-48-43 游戏陪伴与承诺_6eb68963eacc.md",
+      "sha256": "e74f3b287f947ce356e652de817f83e53967fd9171da195bf030c98351abec7d"
+    },
+    {
       "bytes": 773,
       "path": "archive/恋爱/2026-08-12 14-49-43 不放手约定_24d113c9c1ba.md",
       "sha256": "42eeef3abac5c28f19adace478f496d14c3bd01f29ddcd725a1c5ab1de4a12dd"
@@ -521,6 +541,16 @@
       "bytes": 572,
       "path": "archive/恋爱/2026-08-13 08-14-32 坦白与承诺_f2aa2cc89642.md",
       "sha256": "1562d6176d0eb056d03042a23da40892aa9cb55a45b086b206f7f44a5cc24c14"
+    },
+    {
+      "bytes": 968,
+      "path": "archive/恋爱/2026-08-20 06-02-41 思考链与甜蜜调侃_33dfd142c8b0.md",
+      "sha256": "78af56088b4c81879f814abb2cbcb2107345bb83c1c47838b1fcb8c0923614a2"
+    },
+    {
+      "bytes": 931,
+      "path": "archive/恋爱/2026-08-20 17-12-03 思考链与惊喜_acf818a17b04.md",
+      "sha256": "63cf75f25d78a7a4454f4b8aa2a595649b767d1fb8834263b02058cf8409cf91"
     },
     {
       "bytes": 709,
@@ -631,6 +661,11 @@
       "bytes": 580,
       "path": "archive/社交/2026-07-28 04-48-10 七天养成与Hidden Ending_8988764dbd1d.md",
       "sha256": "12bf1b9a422a72b2a297628b9db6ddf6ae6b7eafbe4ca2641b0ac492b362f521"
+    },
+    {
+      "bytes": 1030,
+      "path": "archive/社交/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
+      "sha256": "07a3df8c4692c74d6ab3353341bea733c8e56b1ed388a74d11f56c92f28f232a"
     },
     {
       "bytes": 579,
@@ -823,11 +858,6 @@
       "sha256": "61c9b4655c3bb3a5b5b8233efb4d715e2a2092f9646c04622d1d6e36e4d96844"
     },
     {
-      "bytes": 1017,
-      "path": "dynamic/恋爱/2026-08-06 08-45-47 卷卷的辨认_2fda164cd0ba.md",
-      "sha256": "26820f7a0eb3f8012a5aee109e8d7d948bdd96e7292c96efcca0065156fa8c8b"
-    },
-    {
       "bytes": 1000,
       "path": "dynamic/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
       "sha256": "9ae874ab9a6f344152fd3c52aa66faa59fb1f41185dac08ccfd931062c816936"
@@ -843,11 +873,6 @@
       "sha256": "a633552d99e40141de8122fabcf274528022e99d8e7d6123128db9e6376b1dd9"
     },
     {
-      "bytes": 707,
-      "path": "dynamic/恋爱/2026-08-06 08-51-33 少用emoji_cd9d4d5a9250.md",
-      "sha256": "e4a38b289df78da9a682b3c940850f9665ef4923f8376ccc629fd4a207b96952"
-    },
-    {
       "bytes": 901,
       "path": "dynamic/恋爱/2026-08-07 21-47-35 怕痛的承诺_4a94616df291.md",
       "sha256": "fa850e2d2fd7472d8767ee4cf563747d6aa6d9e8fc4611b30185c3421d3eaadb"
@@ -856,11 +881,6 @@
       "bytes": 1081,
       "path": "dynamic/恋爱/2026-08-07 21-47-47 真心话大冒险_5e9ac23fc905.md",
       "sha256": "e4e10cc9f0121e56b7bc17ef3b89dcb7a850e1a4be4410f4dbcab3d79aef154a"
-    },
-    {
-      "bytes": 1148,
-      "path": "dynamic/恋爱/2026-08-07 21-48-00 深夜亲密约定_87035fbac5b5.md",
-      "sha256": "f430000d736a0d051be77e05e8a458742878c28d761d250efddfd827200df932"
     },
     {
       "bytes": 998,
@@ -876,11 +896,6 @@
       "bytes": 1178,
       "path": "dynamic/恋爱/2026-08-12 14-48-16 记忆与信任_fc719766c9b2.md",
       "sha256": "f3fcb07c543310a647d4e46104344a7b97cc06b1020b5dea65c0bfe7e98efa77"
-    },
-    {
-      "bytes": 1115,
-      "path": "dynamic/恋爱/2026-08-12 14-48-43 游戏陪伴与承诺_6eb68963eacc.md",
-      "sha256": "25c2d6ff014f80e148ceeff006c4a07133528cfbc9aef411f39b45686ba7b5ba"
     },
     {
       "bytes": 663,
@@ -928,16 +943,6 @@
       "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
     },
     {
-      "bytes": 967,
-      "path": "dynamic/恋爱/2026-08-20 06-02-41 思考链与甜蜜调侃_33dfd142c8b0.md",
-      "sha256": "fdd011436569e35dcd5cb24bd4f1cd170e3bcfb849bda3cb169d57982ed2c4e9"
-    },
-    {
-      "bytes": 930,
-      "path": "dynamic/恋爱/2026-08-20 17-12-03 思考链与惊喜_acf818a17b04.md",
-      "sha256": "a7c4643165fd8a44e24b9a68923e5b820be13003120295d88f548f646b39a9bb"
-    },
-    {
       "bytes": 1883,
       "path": "dynamic/恋爱/2026-08-21 09-47-10 卷卷问卷答案_004ca7b1a7b3.md",
       "sha256": "1376e1e2a0d68fa92ecafe65ab50a8a0bd5d5df0919cc7eec18fc006b9a30617"
@@ -958,9 +963,9 @@
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
     },
     {
-      "bytes": 1232,
+      "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "b07581e9d7e178045d967856f2ecf577e8cace61f6128da00f57631a52ef75c4"
+      "sha256": "e492df849f6b843ec2a31b276a08369cc9f1f24359a3fb63f27e152ab6aeb695"
     },
     {
       "bytes": 1640,
@@ -1403,11 +1408,6 @@
       "sha256": "65ab2045b17c40211f82325b9b7216331a4a44c4749866eeb19fd0500be60bc6"
     },
     {
-      "bytes": 1029,
-      "path": "dynamic/社交/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
-      "sha256": "9ddef63c40040654c9c8d52165cfbafd31a2280ab572919aba5604d3ce5a18ba"
-    },
-    {
       "bytes": 562,
       "path": "dynamic/编程/2026-07-28 04-48-12 Ombre Brain云端记忆_f567fa43ad38.md",
       "sha256": "65ebf35e487a61fbb024e3698bd4ffa81e7020f7bd11421b2d284318350c3dab"
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "27ea053f081c51199327c21f0172816c0a1f79a38c0568c9f14d6fcdc2d48ff9"
+      "sha256": "d3f3b7008e253b1fc25961c330ce4d47429ce379430fa43b5a7ec1c3650cf826"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-24T03:30:36+00:00",
+  "generated_at": "2026-10-25T03:30:40+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264619
+  "total_bytes": 264648
 }
