@@ -193,6 +193,11 @@
       "sha256": "817d0789313f401d7123286e064b5f2005736b680d47ad076954922cb65bf695"
     },
     {
+      "bytes": 773,
+      "path": "archive/恋爱/2026-07-29 11-41-40 大脑里的秘密信件_3fe36bbe2856.md",
+      "sha256": "bdfe1b4ffb531c676a054076bf3b2ccd2baa260ab62b4dd1b1b68bdce5fa7da8"
+    },
+    {
       "bytes": 629,
       "path": "archive/恋爱/2026-07-29 11-41-41 安全感的确认_14dac8a21dee.md",
       "sha256": "e0a55f962e3c0c9e4a0308100b3eac6bb6820e533ee46d17cdc7cdb9cb7cc10f"
@@ -838,11 +843,6 @@
       "sha256": "149220a851a326e2697cf8bbdab480601482497920a262e66eab6446d097fb9b"
     },
     {
-      "bytes": 772,
-      "path": "dynamic/恋爱/2026-07-29 11-41-40 大脑里的秘密信件_3fe36bbe2856.md",
-      "sha256": "29adee3e504163b9547db8d10542bda4f8eae59a2336a7e574d1d5e70ddeb2a6"
-    },
-    {
       "bytes": 1314,
       "path": "dynamic/恋爱/2026-08-04 01-08-04 重新谈一次_80ca4668704b.md",
       "sha256": "fa8ca35d5461e256a6841428474a3198c83a285988c56865bc8b0ba54f98210e"
@@ -965,7 +965,7 @@
     {
       "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "c1fa398ea0a9a1f1cd3ba931f99c2b5587afbe11a427941495412b5951688fc0"
+      "sha256": "b202d66b927513da65d95b4e1edd1b8bec27919178a16004b4f1cc983d85c06b"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "b51f3447a41806d66e803adc75669b06f5fbeb6e9b5d53177e250cd7555bcca7"
+      "sha256": "e203bee1cf0dfa4f668bc9390dcd808b037cc3eac7033e7cb763c806f1b3d8fb"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-27T03:30:48+00:00",
+  "generated_at": "2026-10-28T03:30:52+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264651
+  "total_bytes": 264652
 }
