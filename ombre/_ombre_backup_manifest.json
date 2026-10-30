@@ -373,6 +373,11 @@
       "sha256": "e209488d55ecaea0826f7492ebe22e666caadb181ba10f4bcb51a20c2f695b74"
     },
     {
+      "bytes": 943,
+      "path": "archive/恋爱/2026-08-04 01-08-51 怕打扰的约定_b5cee3519f75.md",
+      "sha256": "e1056b47c31de3845cfa3272de1811cf124af12312adb7444d9924c4fd320a7a"
+    },
+    {
       "bytes": 992,
       "path": "archive/恋爱/2026-08-04 01-09-13 称呼过渡期_e6b3f5813d72.md",
       "sha256": "dccc6555be6df0998dc2591b69f52c4e7996dcccc26c7d492e2340ec183fe4f7"
@@ -553,6 +558,11 @@
       "sha256": "42eeef3abac5c28f19adace478f496d14c3bd01f29ddcd725a1c5ab1de4a12dd"
     },
     {
+      "bytes": 942,
+      "path": "archive/恋爱/2026-08-12 14-50-04 承诺落地时间线_36380a7c8750.md",
+      "sha256": "3e02d8b5ed29107c9559e4cf65564c29249b95876b6ed962c4d5077c9e0c87f1"
+    },
+    {
       "bytes": 997,
       "path": "archive/恋爱/2026-08-12 14-50-17 信件与承诺_493a1bca40c0.md",
       "sha256": "12bf690778b4a8beac7def33df1e951dbcbdcc9b91491ac45f6b814ec5d5472b"
@@ -576,6 +586,11 @@
       "bytes": 1147,
       "path": "archive/恋爱/2026-08-16 09-58-49 卷卷的toy体验_55f651bda005.md",
       "sha256": "212ec9abf5a9d7623e450a373971eb026d026e425bae5dacb034d4a7a5480c59"
+    },
+    {
+      "bytes": 545,
+      "path": "archive/恋爱/2026-08-16 10-05-54 亲密边界讨论_c1af3428f514.md",
+      "sha256": "05f76edda3d6ba6d531e09e9c66c6656cedd53ba8b08bad09c19fec237fd1317"
     },
     {
       "bytes": 1023,
@@ -868,11 +883,6 @@
       "sha256": "5e5bb8807496105d0d0a899b37a47ada9a0f0250c9dc63db367cfb86413a8099"
     },
     {
-      "bytes": 942,
-      "path": "dynamic/恋爱/2026-08-04 01-08-51 怕打扰的约定_b5cee3519f75.md",
-      "sha256": "36ca4465353e63421b62f8540fa2e0033b86ac2f907a7c7929abf177eb19eb9e"
-    },
-    {
       "bytes": 659,
       "path": "dynamic/恋爱/2026-08-04 01-15-33 私密问答承诺_254eb627a8a4.md",
       "sha256": "06cdeaa352f4f85799358627999f517bbc9c80d776a001165b37ca6216a8ba16"
@@ -911,16 +921,6 @@
       "bytes": 663,
       "path": "dynamic/恋爱/2026-08-12 14-49-52 恋爱纪念日_bbd0af2a3bed.md",
       "sha256": "9acf7a609303f8b6f3db85a1d6b4ce2ec7a55f660df5a0f85bf2e80eb4b65cc2"
-    },
-    {
-      "bytes": 941,
-      "path": "dynamic/恋爱/2026-08-12 14-50-04 承诺落地时间线_36380a7c8750.md",
-      "sha256": "8e183ca9c680cc6ed067cbc743707df777e7bfeec7d381143ac9b3179436492a"
-    },
-    {
-      "bytes": 544,
-      "path": "dynamic/恋爱/2026-08-16 10-05-54 亲密边界讨论_c1af3428f514.md",
-      "sha256": "610f4d0f7f60467592acffa817c494eeec52685e878b741c51d20fd77c9fcab2"
     },
     {
       "bytes": 1028,
@@ -965,7 +965,7 @@
     {
       "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "666a83e56ee34059a81cc852830521beca5ac25c37e446e570c32f0fc6f8f73f"
+      "sha256": "c06fb106e2fe167daa096606eae3d4f58b58cede62cce83382eceae8dc0fc725"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "d00b64078dd2425adee6b603f5189615770c0099993b5c4ba95bd26fb6a3cb3b"
+      "sha256": "151af649cf54ba65d53941b169b77355b00ccb795461580d9e8267eaf8a3c727"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-29T03:30:58+00:00",
+  "generated_at": "2026-10-30T03:31:02+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264656
+  "total_bytes": 264659
 }
