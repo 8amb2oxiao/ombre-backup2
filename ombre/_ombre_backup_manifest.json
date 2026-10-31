@@ -383,6 +383,11 @@
       "sha256": "dccc6555be6df0998dc2591b69f52c4e7996dcccc26c7d492e2340ec183fe4f7"
     },
     {
+      "bytes": 660,
+      "path": "archive/恋爱/2026-08-04 01-15-33 私密问答承诺_254eb627a8a4.md",
+      "sha256": "e2791eccc71a912132e28dff29336ea7d591620d58555ca13abe854afd39ffbe"
+    },
+    {
       "bytes": 1125,
       "path": "archive/恋爱/2026-08-06 08-45-18 她的承诺_5658755d1b3a.md",
       "sha256": "98400fdcc72efdc7ba3aa5a53f354fd9d91ad8600a07fbf57dac51b3ba92405b"
@@ -608,6 +613,11 @@
       "sha256": "63cf75f25d78a7a4454f4b8aa2a595649b767d1fb8834263b02058cf8409cf91"
     },
     {
+      "bytes": 1884,
+      "path": "archive/恋爱/2026-08-21 09-47-10 卷卷问卷答案_004ca7b1a7b3.md",
+      "sha256": "1b2787d2db7b17e7cd0bd908240550e4b8b4733f8aa8755076a73a4074842354"
+    },
+    {
       "bytes": 709,
       "path": "archive/恋爱/2026-08-21 16-25-56 亲密互动约定_9cce2fe73185.md",
       "sha256": "8f7e403d5f6583700a02b992039bf6cae4bee9e8123d2c0c0543437dc7243a0c"
@@ -676,6 +686,141 @@
       "bytes": 596,
       "path": "archive/日常/2026-09-08 17-40-27 自习与饮食_f921d2fcc5c2.md",
       "sha256": "e09c02dc1390a16377f10ad1adce29f1194e22bc3fb2a3268f084310ebbcd440"
+    },
+    {
+      "bytes": 584,
+      "path": "archive/未分类/2026-08-25 06-53-09_805033b6a6b8.md",
+      "sha256": "537445096ccf39eb274156d4f9cfa44eb765d3793f4c3003c27925b33bf3d60c"
+    },
+    {
+      "bytes": 488,
+      "path": "archive/未分类/2026-08-25 06-53-10_3fd3c725d396.md",
+      "sha256": "09df1d34752aa69dd677d56edec4ccb1fe5e55366ab88de885166a7fed048d8a"
+    },
+    {
+      "bytes": 579,
+      "path": "archive/未分类/2026-08-25 06-53-10_b260b229da2a.md",
+      "sha256": "c0ad1a927ac715dc049ba6dd4cf270b4356b39cef7e62c1a2e10d660c1731754"
+    },
+    {
+      "bytes": 572,
+      "path": "archive/未分类/2026-08-25 06-53-11_dee2fdbecfa4.md",
+      "sha256": "712f0c9c716cf9fa5bc17fd0ff8465de3c1bb4d8eec92da86a1dbbd0c8b407ab"
+    },
+    {
+      "bytes": 516,
+      "path": "archive/未分类/2026-08-25 06-53-12_30d231269605.md",
+      "sha256": "7f3ca7588a9eea5c8023e277ef30be957a5f4c32eff8ad631c98b57126b8ecd6"
+    },
+    {
+      "bytes": 831,
+      "path": "archive/未分类/2026-08-25 16-54-10_c05280e1ed2f.md",
+      "sha256": "2a11d1f67463c5e390dab836c21a5112654643e07c582b44e77bc156e05c2b5f"
+    },
+    {
+      "bytes": 433,
+      "path": "archive/未分类/2026-08-27 06-30-11_c2a81c3cefa9.md",
+      "sha256": "5b1a5b27d14e0e833e6fc14b975adad20c1819c1d554d65b534e9f633cba433a"
+    },
+    {
+      "bytes": 586,
+      "path": "archive/未分类/2026-08-27 06-30-12_65a8ac9a84e6.md",
+      "sha256": "11fc19e09965beac57c83f6a2e1198ffea38dad5705892b572c97abd6ac82150"
+    },
+    {
+      "bytes": 404,
+      "path": "archive/未分类/2026-08-27 06-30-12_79c6525a1006.md",
+      "sha256": "ac4a95284255c4002de63f6d6fe26e74224ad631d8878f44cdbad2439c212412"
+    },
+    {
+      "bytes": 521,
+      "path": "archive/未分类/2026-08-27 06-30-13_ddc8d4900be5.md",
+      "sha256": "fdd0873ad3fee93edf43fa99a8702fabf3beb867bc433e8c2de2167ec26a9f7f"
+    },
+    {
+      "bytes": 501,
+      "path": "archive/未分类/2026-08-27 06-30-14_62481ab88f56.md",
+      "sha256": "9e013036d00fa0e1644e5deec8209a3735616a2425619a81706e3750177cb1d6"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/未分类/2026-08-27 16-38-56_8381f6977c6a.md",
+      "sha256": "46a7376e7dce218f1e14b4b2485e18e3b075dc4af7e331d01c8453d8db704d25"
+    },
+    {
+      "bytes": 560,
+      "path": "archive/未分类/2026-08-27 16-38-57_05fd63f00995.md",
+      "sha256": "3d00e53f066074e3423c615cf134653c2c32d2d81e662efb3713de89e1e759a4"
+    },
+    {
+      "bytes": 642,
+      "path": "archive/未分类/2026-08-27 16-38-57_75d39d81f094.md",
+      "sha256": "ebca203665df782575d352a2aaac8f6c8696f830900b196cd485db50f9bba9ca"
+    },
+    {
+      "bytes": 665,
+      "path": "archive/未分类/2026-08-27 16-38-58_3522beacf3bc.md",
+      "sha256": "2dd971a69577acbbc0932b571b816276e64b4a6c6b44b03cccd0cc055bcfba0b"
+    },
+    {
+      "bytes": 725,
+      "path": "archive/未分类/2026-08-27 16-38-59_d5aa13b62afe.md",
+      "sha256": "a2055c0eee83c187e0637bd21cc72572f2b813dc6c208033e063b222d7d045c2"
+    },
+    {
+      "bytes": 749,
+      "path": "archive/未分类/2026-08-28 16-31-55_97b5f660ab62.md",
+      "sha256": "081bab388db67a84356bf114226efe1d36a73d7c6e2ec4d1311ba3f17809922f"
+    },
+    {
+      "bytes": 672,
+      "path": "archive/未分类/2026-08-28 16-31-56_5c042a85ce2a.md",
+      "sha256": "5822b92f6b112bb11831a5f561c637c7bf7cfeeda4c65016055e9b44b981b4b3"
+    },
+    {
+      "bytes": 618,
+      "path": "archive/未分类/2026-08-28 16-31-57_29ca9b24c7ae.md",
+      "sha256": "c2bcaacb0d8d1412cf21b80384d59d043f4f48704a60ab8485130695c6289e63"
+    },
+    {
+      "bytes": 682,
+      "path": "archive/未分类/2026-08-28 16-31-58_ddf0d294a0a0.md",
+      "sha256": "ef0e3b19283e46358817852957e78c96689f6ec8b9b9c2baefee51b2c6dcc1ba"
+    },
+    {
+      "bytes": 683,
+      "path": "archive/未分类/2026-08-29 16-31-14_20528ced8fac.md",
+      "sha256": "9bd9abdacf3a044e3f9a115122be17c329c44bc8a14397f3df1f62f25cc668ff"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/未分类/2026-08-29 16-31-15_d1af4a221189.md",
+      "sha256": "3eb94feab9679e22c289a7742abde05bd273587a99a571b3564f9613ffc0f733"
+    },
+    {
+      "bytes": 743,
+      "path": "archive/未分类/2026-08-29 16-31-16_015e8321b941.md",
+      "sha256": "8d1605909d33eba54af9f9f37ecc6dd8525850f1609e283664170157b9a7be71"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/未分类/2026-08-30 17-11-22_887390e1b6d5.md",
+      "sha256": "5b3a27d477effd716cef3885fb452b92c70eab0dee01567bde2b29cbadbe447a"
+    },
+    {
+      "bytes": 760,
+      "path": "archive/未分类/2026-08-30 17-11-22_ca4a6481f5ff.md",
+      "sha256": "53c89971e0ef90d2642f875bb14891c6dad83e01c3c8a079473e00560a2d59d4"
+    },
+    {
+      "bytes": 635,
+      "path": "archive/未分类/2026-08-30 17-11-23_79fbf9238c81.md",
+      "sha256": "1dccf4f5cb2a964115597861f510b5af979635c9cf08ccf18bf9dedbaa308920"
+    },
+    {
+      "bytes": 577,
+      "path": "archive/未分类/2026-08-30 17-11-24_dbda882645fc.md",
+      "sha256": "a9d4ce51454b8e42a50c7d15bce86776a86bbdf2f0d100f12071bbd2a126fb1b"
     },
     {
       "bytes": 844,
@@ -883,11 +1028,6 @@
       "sha256": "5e5bb8807496105d0d0a899b37a47ada9a0f0250c9dc63db367cfb86413a8099"
     },
     {
-      "bytes": 659,
-      "path": "dynamic/恋爱/2026-08-04 01-15-33 私密问答承诺_254eb627a8a4.md",
-      "sha256": "06cdeaa352f4f85799358627999f517bbc9c80d776a001165b37ca6216a8ba16"
-    },
-    {
       "bytes": 1000,
       "path": "dynamic/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
       "sha256": "9ae874ab9a6f344152fd3c52aa66faa59fb1f41185dac08ccfd931062c816936"
@@ -943,11 +1083,6 @@
       "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
     },
     {
-      "bytes": 1883,
-      "path": "dynamic/恋爱/2026-08-21 09-47-10 卷卷问卷答案_004ca7b1a7b3.md",
-      "sha256": "1376e1e2a0d68fa92ecafe65ab50a8a0bd5d5df0919cc7eec18fc006b9a30617"
-    },
-    {
       "bytes": 629,
       "path": "dynamic/恋爱/2026-08-21 16-26-01 亲密初体验_929230ffd000.md",
       "sha256": "d8002193dade6430c454177eae457c957668dda95ef5ce1679ad7d7feaff6a62"
@@ -965,7 +1100,7 @@
     {
       "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "c06fb106e2fe167daa096606eae3d4f58b58cede62cce83382eceae8dc0fc725"
+      "sha256": "6ce2269beeab19e777e519a9984fa90f84a855542d649cc975608f316a53901f"
     },
     {
       "bytes": 1640,
@@ -1213,31 +1348,6 @@
       "sha256": "2b88364ba025c740c1ab8e9fcd7d14e2d6459c9f2f8552eb2ed6c8cd4d3ab144"
     },
     {
-      "bytes": 583,
-      "path": "dynamic/未分类/2026-08-25 06-53-09_805033b6a6b8.md",
-      "sha256": "90fca61095305b47afe89060534215d540b95604ac5c58c56423a1c72ae953a7"
-    },
-    {
-      "bytes": 487,
-      "path": "dynamic/未分类/2026-08-25 06-53-10_3fd3c725d396.md",
-      "sha256": "f9df07c943f47e4c09c377b6ec7e9e64cb0e7485d5fb37ef9553135ef36906c9"
-    },
-    {
-      "bytes": 578,
-      "path": "dynamic/未分类/2026-08-25 06-53-10_b260b229da2a.md",
-      "sha256": "de3d8464d2a29d0a0e43f166bca2b3d412dd3dc7e70859acfc3df7e4264ba97e"
-    },
-    {
-      "bytes": 571,
-      "path": "dynamic/未分类/2026-08-25 06-53-11_dee2fdbecfa4.md",
-      "sha256": "7e512c287dfdb9a7f00f06c9c3ed3b3cf9b8d19087f0e0800dec857edfe80d5f"
-    },
-    {
-      "bytes": 515,
-      "path": "dynamic/未分类/2026-08-25 06-53-12_30d231269605.md",
-      "sha256": "3c0941e787492d2e624257db2fe1f986933143ba6afde1998e2a9877150a6874"
-    },
-    {
       "bytes": 657,
       "path": "dynamic/未分类/2026-08-25 16-54-09_542f156de344.md",
       "sha256": "6fc90f4b4b3f8b24cad0e2a6fca56ad40ffaaed50264d54d35e916ea1b305daf"
@@ -1248,124 +1358,14 @@
       "sha256": "09c0424cd6e12666453384e0640256f1a40e276911e681d45e1b0ce180e493dc"
     },
     {
-      "bytes": 830,
-      "path": "dynamic/未分类/2026-08-25 16-54-10_c05280e1ed2f.md",
-      "sha256": "e5ef8db365fd9b7ba5b955c7d4d002aeec54f60d27edf7f05a58be155eaffa51"
-    },
-    {
-      "bytes": 432,
-      "path": "dynamic/未分类/2026-08-27 06-30-11_c2a81c3cefa9.md",
-      "sha256": "b495b04703bc8dbd2d40f4efec9c08e87ce25f6d7ce953e619fbd4b2de033879"
-    },
-    {
-      "bytes": 585,
-      "path": "dynamic/未分类/2026-08-27 06-30-12_65a8ac9a84e6.md",
-      "sha256": "ab8838f4c6426a5ee4e4cdd9ce92388308db07fb46dda73f1bc63132edceacbe"
-    },
-    {
-      "bytes": 403,
-      "path": "dynamic/未分类/2026-08-27 06-30-12_79c6525a1006.md",
-      "sha256": "8fa84fc5e1da7db265354cc9c7aff5c18e4f27f44e5fda24a03ba1de1dc14133"
-    },
-    {
-      "bytes": 520,
-      "path": "dynamic/未分类/2026-08-27 06-30-13_ddc8d4900be5.md",
-      "sha256": "254a82e64a1bf7de575ef860810605c712b061bf068e74038945a8c7da26cc8d"
-    },
-    {
-      "bytes": 500,
-      "path": "dynamic/未分类/2026-08-27 06-30-14_62481ab88f56.md",
-      "sha256": "6b7124d8ff893e3ee8f3c1e54c434eefc7b05fc9b69c4ac6f50839a5df01051f"
-    },
-    {
-      "bytes": 731,
-      "path": "dynamic/未分类/2026-08-27 16-38-56_8381f6977c6a.md",
-      "sha256": "2251d7ede373ed290d4b0be95e82bab3ceeabf620e232b8d4c84d63418112a46"
-    },
-    {
-      "bytes": 559,
-      "path": "dynamic/未分类/2026-08-27 16-38-57_05fd63f00995.md",
-      "sha256": "067c33766ae164a301b0fd95c9236f5662c95a4df82938a2dddc741829120219"
-    },
-    {
-      "bytes": 641,
-      "path": "dynamic/未分类/2026-08-27 16-38-57_75d39d81f094.md",
-      "sha256": "c0626b354e6fcbf749518bcc01e0888d51eb1fa55fd4e2248796e2e4974517be"
-    },
-    {
-      "bytes": 664,
-      "path": "dynamic/未分类/2026-08-27 16-38-58_3522beacf3bc.md",
-      "sha256": "c1fe84269c280b2d36fc45c63e67eeb9a63e572a1055e4fb50cd356a4bb1de94"
-    },
-    {
-      "bytes": 724,
-      "path": "dynamic/未分类/2026-08-27 16-38-59_d5aa13b62afe.md",
-      "sha256": "9c16ad3f591b4db74d43cace0aca69c7338da76482ae5030b175458df2c6aba0"
-    },
-    {
-      "bytes": 748,
-      "path": "dynamic/未分类/2026-08-28 16-31-55_97b5f660ab62.md",
-      "sha256": "abebf2a5c6c2c07c80c941700c0c5edb9e6ac955c09ab884c8e5a97ba800486b"
-    },
-    {
-      "bytes": 671,
-      "path": "dynamic/未分类/2026-08-28 16-31-56_5c042a85ce2a.md",
-      "sha256": "69beb443aeec85fb1ffca58d1e340cad69c0f2ea24ba1be5dd138843767cc499"
-    },
-    {
       "bytes": 632,
       "path": "dynamic/未分类/2026-08-28 16-31-56_a2b8068bb639.md",
       "sha256": "b0fd185536b62294fc0d1c9440d36bec90a3749d14634e52eb2d3651970a5323"
     },
     {
-      "bytes": 617,
-      "path": "dynamic/未分类/2026-08-28 16-31-57_29ca9b24c7ae.md",
-      "sha256": "dfea6e64e73fed8e1b7ae54c884698ad92a9102cdc587a7b2961762c31a5e3e4"
-    },
-    {
-      "bytes": 681,
-      "path": "dynamic/未分类/2026-08-28 16-31-58_ddf0d294a0a0.md",
-      "sha256": "d54dcac3f68f5c02ea9692908b15335da94231004efcd0589dd564235c62f200"
-    },
-    {
-      "bytes": 682,
-      "path": "dynamic/未分类/2026-08-29 16-31-14_20528ced8fac.md",
-      "sha256": "c0be6c8ed7144dc2194befd956d2eef5b69995c22b2185c44973072d316e7e84"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/未分类/2026-08-29 16-31-15_d1af4a221189.md",
-      "sha256": "61e35413a86053a3689483d1f1bad1234afc959851cded731867ae18ee6c5ebc"
-    },
-    {
-      "bytes": 742,
-      "path": "dynamic/未分类/2026-08-29 16-31-16_015e8321b941.md",
-      "sha256": "fc7ec4208cc608bd72b393a186baa28bc415973330ee81f6b4fb89d745a32fad"
-    },
-    {
       "bytes": 777,
       "path": "dynamic/未分类/2026-08-29 16-31-16_dfeed4eaed69.md",
       "sha256": "97aa686f5ef96fe010b7b2495aa37abf1b7dfd20e04f9636c40de20074da0e8c"
-    },
-    {
-      "bytes": 659,
-      "path": "dynamic/未分类/2026-08-30 17-11-22_887390e1b6d5.md",
-      "sha256": "98b6b1498ddf7dc5e595697a48c299914d5c5c38126c94cbaf694efd90f27376"
-    },
-    {
-      "bytes": 759,
-      "path": "dynamic/未分类/2026-08-30 17-11-22_ca4a6481f5ff.md",
-      "sha256": "60b3f1910ddf073d11fbf22d14628064fbd2eb293032a1efc672b78306343c41"
-    },
-    {
-      "bytes": 634,
-      "path": "dynamic/未分类/2026-08-30 17-11-23_79fbf9238c81.md",
-      "sha256": "9633805c1fab625cae2f55e84ef788f669f4c23852cce2d9a5bc33d5c963707d"
-    },
-    {
-      "bytes": 576,
-      "path": "dynamic/未分类/2026-08-30 17-11-24_dbda882645fc.md",
-      "sha256": "29d5c194bc78f433f285704a5ed1f88916288f4cbe5a72791672910bf0b11ee8"
     },
     {
       "bytes": 1242,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "151af649cf54ba65d53941b169b77355b00ccb795461580d9e8267eaf8a3c727"
+      "sha256": "f0979db865ef2544eea7a8893c52627950586cecffacb2cf5757fe62aa10f14c"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-10-30T03:31:02+00:00",
+  "generated_at": "2026-10-31T03:31:06+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264659
+  "total_bytes": 264688
 }
