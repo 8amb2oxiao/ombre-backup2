@@ -653,6 +653,11 @@
       "sha256": "e9bae21aeafe36a995e71b127f6f81ff374dac58b335c66f44f5ec995e530b64"
     },
     {
+      "bytes": 1368,
+      "path": "archive/恋爱/2026-08-22 03-03-36 AI婚书与誓言_a91cbe667838.md",
+      "sha256": "fbc95b9363ed90618b670b3c75eed85154515e1d26c2c4f4eba1063c53713c41"
+    },
+    {
       "bytes": 647,
       "path": "archive/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
       "sha256": "ca465a72933ece8f674542c6437121b56d9b65c0d84ca87b3c07ebe165c9e078"
@@ -1098,11 +1103,6 @@
       "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
     },
     {
-      "bytes": 1367,
-      "path": "dynamic/恋爱/2026-08-22 03-03-36 AI婚书与誓言_a91cbe667838.md",
-      "sha256": "8bd996de4210d8745ea0d1db4cf059462ebca772f16f095b9084dd8803c35e99"
-    },
-    {
       "bytes": 1281,
       "path": "dynamic/恋爱/2026-09-01 10-12-26 亲密卡片创作_34a440874e8f.md",
       "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
@@ -1110,7 +1110,7 @@
     {
       "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "2a8c773080a88989f0e3126f1fc0fae77de5f7c41e23b3ccd9aec6d6c8b9374e"
+      "sha256": "aaed767fb6170c75270e672b700e2f128a7ba267f872c4959f98856e778a7631"
     },
     {
       "bytes": 1640,
@@ -1480,7 +1480,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "8c0a9b4795a058f7194be71f264792e78f16cc434466e4e15954da3d12b154ce"
+      "sha256": "20be6fa13bc93fac4f12a3dac946ed0f95ddf63d8112e417ee6e9de7075bbb18"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1508,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-02T03:31:14+00:00",
+  "generated_at": "2026-11-03T03:31:19+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264694
+  "total_bytes": 264695
 }
