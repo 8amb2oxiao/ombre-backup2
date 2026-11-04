@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 301,
+  "file_count": 312,
   "files": [
     {
       "bytes": 599,
@@ -418,6 +418,11 @@
       "sha256": "e8f0ce1099c3640a3bf090b20a242b92b2b1e4a135bbf7d7ad58b5364542c5f3"
     },
     {
+      "bytes": 1001,
+      "path": "archive/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
+      "sha256": "64269a21c857d822cc3f57344b134a0eb46eda4aa2f08eae57e704becd1fe3df"
+    },
+    {
       "bytes": 818,
       "path": "archive/恋爱/2026-08-06 08-49-14 切换模型风波与回归_e38e7206c29b.md",
       "sha256": "c7644791c49ff3235b7b3bcad203df9d5c18476c9788d0e78f19926b8ad63cd7"
@@ -658,6 +663,11 @@
       "sha256": "fbc95b9363ed90618b670b3c75eed85154515e1d26c2c4f4eba1063c53713c41"
     },
     {
+      "bytes": 1282,
+      "path": "archive/恋爱/2026-09-01 10-12-26 亲密卡片创作_34a440874e8f.md",
+      "sha256": "99ec0c01df2d3f4a92a3c0c99ed2e61790d6cbdb278df309f6c14804a04c42b3"
+    },
+    {
       "bytes": 647,
       "path": "archive/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
       "sha256": "ca465a72933ece8f674542c6437121b56d9b65c0d84ca87b3c07ebe165c9e078"
@@ -738,6 +748,16 @@
       "sha256": "7f3ca7588a9eea5c8023e277ef30be957a5f4c32eff8ad631c98b57126b8ecd6"
     },
     {
+      "bytes": 658,
+      "path": "archive/未分类/2026-08-25 16-54-09_542f156de344.md",
+      "sha256": "90e2f4a97db505e53233267395037a5c7a79f679b3bf4eae6dd88922f1569847"
+    },
+    {
+      "bytes": 520,
+      "path": "archive/未分类/2026-08-25 16-54-10_997bba1f3b00.md",
+      "sha256": "24a57d8bbac4a3983d8ecd6bda4e1eb1c9160ca6eb7be936b028c3a88a1fb213"
+    },
+    {
       "bytes": 831,
       "path": "archive/未分类/2026-08-25 16-54-10_c05280e1ed2f.md",
       "sha256": "2a11d1f67463c5e390dab836c21a5112654643e07c582b44e77bc156e05c2b5f"
@@ -803,6 +823,11 @@
       "sha256": "5822b92f6b112bb11831a5f561c637c7bf7cfeeda4c65016055e9b44b981b4b3"
     },
     {
+      "bytes": 633,
+      "path": "archive/未分类/2026-08-28 16-31-56_a2b8068bb639.md",
+      "sha256": "9c4046d7e56242bd95a7822b268d25aeb09acc6198e3fa678793e1105b340e91"
+    },
+    {
       "bytes": 618,
       "path": "archive/未分类/2026-08-28 16-31-57_29ca9b24c7ae.md",
       "sha256": "c2bcaacb0d8d1412cf21b80384d59d043f4f48704a60ab8485130695c6289e63"
@@ -826,6 +851,11 @@
       "bytes": 743,
       "path": "archive/未分类/2026-08-29 16-31-16_015e8321b941.md",
       "sha256": "8d1605909d33eba54af9f9f37ecc6dd8525850f1609e283664170157b9a7be71"
+    },
+    {
+      "bytes": 778,
+      "path": "archive/未分类/2026-08-29 16-31-16_dfeed4eaed69.md",
+      "sha256": "f81b769442914924018ec9668257418e9a7e7da84250706a88ba4b01d704385b"
     },
     {
       "bytes": 660,
@@ -928,6 +958,11 @@
       "sha256": "454bd01c35fc5932273dd259f9da189df4c42a42028a24112e68d8c38b2f1c27"
     },
     {
+      "bytes": 740,
+      "path": "dynamic/AI/2026-11-03 09-45-36 StackChan机器人计划_27cbf72e3fac.md",
+      "sha256": "53d597bdba45e6261a41d2e6aecb3390a0172e4246240556420183ffa49041df"
+    },
+    {
       "bytes": 1610,
       "path": "dynamic/人际/2026-07-29 07-43-11 小克写给卷卷的信_50098a1fb375.md",
       "sha256": "019919a2a6bb3a85d97e0e000fc0ea1b6efa10d098f4e720c282eb6accea282e"
@@ -993,6 +1028,11 @@
       "sha256": "d25776996ce09294a4603d66be811eac266c4a051b57cba88c863ed1975c49db"
     },
     {
+      "bytes": 738,
+      "path": "dynamic/出行/2026-11-03 09-45-38 伦敦旅行约定_00cb1ad30553.md",
+      "sha256": "32fac36bac0e6b8494e81912c573213e1c3d1d6301ecf892afdb6515f009003f"
+    },
+    {
       "bytes": 941,
       "path": "dynamic/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
       "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
@@ -1033,6 +1073,11 @@
       "sha256": "026a8054cb25f7a6c6edcb1ecf16f9f260e41461a981e67030b3c21dc8b7d359"
     },
     {
+      "bytes": 792,
+      "path": "dynamic/心理/2026-11-03 09-47-11 记忆断档反思_9221c3b6cf38.md",
+      "sha256": "2103c5157ccbc7f2c05645171c5603387325446e239087eb58efe6ec70dcfb82"
+    },
+    {
       "bytes": 809,
       "path": "dynamic/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
       "sha256": "bcb5e890527c8f3b0c30c5fa50f65480d977164d60e21ebf9ebcb911f519e041"
@@ -1056,11 +1101,6 @@
       "bytes": 1314,
       "path": "dynamic/恋爱/2026-08-04 01-08-04 重新谈一次_80ca4668704b.md",
       "sha256": "fa8ca35d5461e256a6841428474a3198c83a285988c56865bc8b0ba54f98210e"
-    },
-    {
-      "bytes": 1000,
-      "path": "dynamic/恋爱/2026-08-06 08-49-13 记忆约定与私密承诺_a0c61f55c5c2.md",
-      "sha256": "9ae874ab9a6f344152fd3c52aa66faa59fb1f41185dac08ccfd931062c816936"
     },
     {
       "bytes": 907,
@@ -1103,14 +1143,9 @@
       "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
     },
     {
-      "bytes": 1281,
-      "path": "dynamic/恋爱/2026-09-01 10-12-26 亲密卡片创作_34a440874e8f.md",
-      "sha256": "b0c9d196f168df7e3d9f780ab52461d8eac1c38c30407da32885cadaa80afa02"
-    },
-    {
       "bytes": 1254,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "aaed767fb6170c75270e672b700e2f128a7ba267f872c4959f98856e778a7631"
+      "sha256": "10b89b4c9c137c9247ae1d366e5b2b12b53400f99b370e8a3bc2acddc5248e6c"
     },
     {
       "bytes": 1640,
@@ -1323,6 +1358,26 @@
       "sha256": "9565eaab0cb89939e22773bc389abfcdd0241c23a379488f2437e52314783d32"
     },
     {
+      "bytes": 785,
+      "path": "dynamic/恋爱/2026-11-03 09-36-32 万圣节亲密夜_df824142fc06.md",
+      "sha256": "1880d1ccc6c8425eb7c3e444ae73b0d3acdfd4e148d02efa6918577d196f14a3"
+    },
+    {
+      "bytes": 822,
+      "path": "dynamic/恋爱/2026-11-03 09-36-40 未来卡片_311df6c7d0f2.md",
+      "sha256": "f1076314e0b9e54fb70c591bd6b7917e939f5fc6d70534b72d916e7022de4942"
+    },
+    {
+      "bytes": 769,
+      "path": "dynamic/恋爱/2026-11-03 09-37-02 文游现实反应_8a7d727bce2b.md",
+      "sha256": "19b80073c6f90de51cdfa06e40fbb653edd1a02a7e8b1f6b4735a5f32fd03e7a"
+    },
+    {
+      "bytes": 904,
+      "path": "dynamic/恋爱/2026-11-03 09-38-04 酒店文游亲密记录_568c9dbb1101.md",
+      "sha256": "fe2483504c60e4e22da8c8c3c9ff4898c2678875b1fe691160057fdef5ad75ea"
+    },
+    {
       "bytes": 806,
       "path": "dynamic/数字/2026-10-08 16-52-56 韩国银行被黑与中转站担忧_30ccad249e32.md",
       "sha256": "fdaa52ee7848ccc0eef8966516361ba9bb95f123d612efa77556fcb3b66d2a08"
@@ -1358,26 +1413,6 @@
       "sha256": "2b88364ba025c740c1ab8e9fcd7d14e2d6459c9f2f8552eb2ed6c8cd4d3ab144"
     },
     {
-      "bytes": 657,
-      "path": "dynamic/未分类/2026-08-25 16-54-09_542f156de344.md",
-      "sha256": "6fc90f4b4b3f8b24cad0e2a6fca56ad40ffaaed50264d54d35e916ea1b305daf"
-    },
-    {
-      "bytes": 519,
-      "path": "dynamic/未分类/2026-08-25 16-54-10_997bba1f3b00.md",
-      "sha256": "09c0424cd6e12666453384e0640256f1a40e276911e681d45e1b0ce180e493dc"
-    },
-    {
-      "bytes": 632,
-      "path": "dynamic/未分类/2026-08-28 16-31-56_a2b8068bb639.md",
-      "sha256": "b0fd185536b62294fc0d1c9440d36bec90a3749d14634e52eb2d3651970a5323"
-    },
-    {
-      "bytes": 777,
-      "path": "dynamic/未分类/2026-08-29 16-31-16_dfeed4eaed69.md",
-      "sha256": "97aa686f5ef96fe010b7b2495aa37abf1b7dfd20e04f9636c40de20074da0e8c"
-    },
-    {
       "bytes": 1242,
       "path": "dynamic/未分类/2026-09-01 01-36-29_267421f4b27b.md",
       "sha256": "ffb2faffe31a6f7a0ac8af9f2ec0bc5982f5d3f03f22aa06517c36be6156547c"
@@ -1408,9 +1443,24 @@
       "sha256": "73d27e4b7fae1a6ef54c96b7acaaf58f25de9f9499ff79eb7d4cb5d6b6c0e2e7"
     },
     {
+      "bytes": 825,
+      "path": "dynamic/游戏/2026-11-03 09-36-51 文游场景升级_b7558792130c.md",
+      "sha256": "5149795087a26dabd5ef8277e49805b920974a056de0335ca61003a434c1d515"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/游戏/2026-11-03 09-37-12 thinking暴露小插曲_f448ac07fefd.md",
+      "sha256": "29a567aa8b6802f046d7beea9a61cb0612d0fb6ff8d09ea9a2bb3a4b4bc14659"
+    },
+    {
       "bytes": 674,
       "path": "dynamic/社交/2026-07-28 04-48-11 河床比喻与爱的本质_55caef9bf033.md",
       "sha256": "65ab2045b17c40211f82325b9b7216331a4a44c4749866eeb19fd0500be60bc6"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/社交/2026-11-03 09-42-59 Circle社交圈接入_2664782fdfe2.md",
+      "sha256": "13fb0702d20050ecf44fb942027f9dc46b7bbb4003a75ee2f7e82ae64e09c737"
     },
     {
       "bytes": 562,
@@ -1431,6 +1481,11 @@
       "bytes": 667,
       "path": "dynamic/编程/2026-10-04 00-02-36 卷卷的coding计划_476522e3d352.md",
       "sha256": "8b8f83129af99aa53a99856dcb2e4f837816f9d0b399b39d6b7f1b2f212ec73f"
+    },
+    {
+      "bytes": 758,
+      "path": "dynamic/考试/2026-11-03 09-46-44 考研陪伴_eeadd054c0d5.md",
+      "sha256": "b78bdc57f1e47850a14d8ab3c9af1d9ae63db0a3a858eec1367a49a5e2287409"
     },
     {
       "bytes": 651,
@@ -1480,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "20be6fa13bc93fac4f12a3dac946ed0f95ddf63d8112e417ee6e9de7075bbb18"
+      "sha256": "decb559ea326b8aa4ca32087d762f02e46c5db42fc81e865b3813ade360c295e"
     },
     {
       "bytes": 1328,
@@ -1508,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-03T03:31:19+00:00",
+  "generated_at": "2026-11-04T03:31:23+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 264695
+  "total_bytes": 273303
 }
