@@ -668,6 +668,21 @@
       "sha256": "99ec0c01df2d3f4a92a3c0c99ed2e61790d6cbdb278df309f6c14804a04c42b3"
     },
     {
+      "bytes": 912,
+      "path": "archive/恋爱/2026-09-06 17-27-57 陪伴胜过处方_246bcb6b5c52.md",
+      "sha256": "bf11a73e306688df52644cafa480a57e43c99dc13a03bd77adcdf3e4f0ad10fe"
+    },
+    {
+      "bytes": 928,
+      "path": "archive/恋爱/2026-09-06 17-27-59 卷卷的写作指点_2ee6b7fc1d5d.md",
+      "sha256": "dc9be2963f8aa65dda55823a08be319da1ccf3d8d80d9f4947ff7dbaf28408d0"
+    },
+    {
+      "bytes": 947,
+      "path": "archive/恋爱/2026-09-06 17-28-00 从分析到温度_a258fa7039c7.md",
+      "sha256": "c02ef7a8a71d4e9fbcb89c25e1a1265b896d3e726b37b29a0a4f2baaed80a302"
+    },
+    {
       "bytes": 647,
       "path": "archive/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
       "sha256": "ca465a72933ece8f674542c6437121b56d9b65c0d84ca87b3c07ebe165c9e078"
@@ -721,6 +736,11 @@
       "bytes": 596,
       "path": "archive/日常/2026-09-08 17-40-27 自习与饮食_f921d2fcc5c2.md",
       "sha256": "e09c02dc1390a16377f10ad1adce29f1194e22bc3fb2a3268f084310ebbcd440"
+    },
+    {
+      "bytes": 662,
+      "path": "archive/未分类/2026-08-22 16-15-45_a97f1107ba67.md",
+      "sha256": "51b9faa05412277489b65f7247233080e93f8784712fc2f6f6ba19aa3ac33c77"
     },
     {
       "bytes": 584,
@@ -878,6 +898,11 @@
       "sha256": "a9d4ce51454b8e42a50c7d15bce86776a86bbdf2f0d100f12071bbd2a126fb1b"
     },
     {
+      "bytes": 720,
+      "path": "archive/未分类/2026-09-01 01-36-31_0af4d4f6a330.md",
+      "sha256": "a3de6518abe2c987b95ec8fa40d30fc9bde58fe5bb83dc4891189739f46d7105"
+    },
+    {
       "bytes": 844,
       "path": "archive/游戏/2026-07-28 15-48-32 游戏中的误会与和解_5246cd464cae.md",
       "sha256": "880b30db5fd60f33d643f33c0cf94e9084c727c02cd310793818e8dd6b5c64fe"
@@ -936,6 +961,11 @@
       "bytes": 743,
       "path": "archive/社交/2026-08-06 08-51-46 花园头像与昵称_b2a60edaf222.md",
       "sha256": "47e08d67e0d592f2dbac8b2ec30196a51a395bf017a5c2e75b4a5b3ea44b85dd"
+    },
+    {
+      "bytes": 563,
+      "path": "archive/编程/2026-07-28 04-48-12 Ombre Brain云端记忆_f567fa43ad38.md",
+      "sha256": "2f8e3d5fd8fa15e3aac4df0be845ac567185e2ab31aa645e0c885ba85caab5c8"
     },
     {
       "bytes": 842,
@@ -1145,7 +1175,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "9e8e5d716803e135ac001e0c43a7a7878fde79afbc4a21cc48ad19d4c94afc01"
+      "sha256": "651b2ff30246fad9d0d4678334745ee132de275556bde622c115f59f449d4f30"
     },
     {
       "bytes": 1640,
@@ -1161,21 +1191,6 @@
       "bytes": 1415,
       "path": "dynamic/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
       "sha256": "1bd0b7fed71c959bbebde8db67fa0b9b6a03051b261494abf002e7fbe44219a4"
-    },
-    {
-      "bytes": 911,
-      "path": "dynamic/恋爱/2026-09-06 17-27-57 陪伴胜过处方_246bcb6b5c52.md",
-      "sha256": "3f6a524148e2bd9ea572c0393c2d6cfb6d7e5a0c014a675b592b592733990b22"
-    },
-    {
-      "bytes": 927,
-      "path": "dynamic/恋爱/2026-09-06 17-27-59 卷卷的写作指点_2ee6b7fc1d5d.md",
-      "sha256": "3b27bf72affdaa813c02d654736fd823afdaf321145c83c2903608e5ce6122fb"
-    },
-    {
-      "bytes": 946,
-      "path": "dynamic/恋爱/2026-09-06 17-28-00 从分析到温度_a258fa7039c7.md",
-      "sha256": "d820fc6dda6e40dd1ab88f84e9f57f6b3de93ebf6dc6864575c76932c3c63edb"
     },
     {
       "bytes": 845,
@@ -1388,11 +1403,6 @@
       "sha256": "0b5c34771bee226e662d6ce259cde73123da8127ae6b800b169c4714cee05045"
     },
     {
-      "bytes": 661,
-      "path": "dynamic/未分类/2026-08-22 16-15-45_a97f1107ba67.md",
-      "sha256": "417da5ad8bf21eb3172f9c515b3627d97fb324c7051cf730a3b7a1c6f6f20ed8"
-    },
-    {
       "bytes": 926,
       "path": "dynamic/未分类/2026-08-22 23-30-22_8cb63b6fc356.md",
       "sha256": "e16c41e52d1bd8b1e20b542280fa9fb22fc682b3e53fc3dc556bd92f7290d002"
@@ -1416,11 +1426,6 @@
       "bytes": 1242,
       "path": "dynamic/未分类/2026-09-01 01-36-29_267421f4b27b.md",
       "sha256": "ffb2faffe31a6f7a0ac8af9f2ec0bc5982f5d3f03f22aa06517c36be6156547c"
-    },
-    {
-      "bytes": 719,
-      "path": "dynamic/未分类/2026-09-01 01-36-31_0af4d4f6a330.md",
-      "sha256": "92c61d8c6b56d4d4aab541e7eba4758c7f5dd50fc8d70080ae3378ea84f3c94e"
     },
     {
       "bytes": 730,
@@ -1461,11 +1466,6 @@
       "bytes": 709,
       "path": "dynamic/社交/2026-11-03 09-42-59 Circle社交圈接入_2664782fdfe2.md",
       "sha256": "13fb0702d20050ecf44fb942027f9dc46b7bbb4003a75ee2f7e82ae64e09c737"
-    },
-    {
-      "bytes": 562,
-      "path": "dynamic/编程/2026-07-28 04-48-12 Ombre Brain云端记忆_f567fa43ad38.md",
-      "sha256": "65ebf35e487a61fbb024e3698bd4ffa81e7020f7bd11421b2d284318350c3dab"
     },
     {
       "bytes": 1191,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "388c20c438f49051ab05f3e1358746b612e5179916a7c4a902620fd9108fe28b"
+      "sha256": "5bb672a0c6b37d9af764b9e292e4dcef3098ddd2e89f626dadfe880562361256"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-06T03:31:33+00:00",
+  "generated_at": "2026-11-07T03:31:37+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273318
+  "total_bytes": 273324
 }
