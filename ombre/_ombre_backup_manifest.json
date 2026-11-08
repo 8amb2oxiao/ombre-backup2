@@ -623,6 +623,16 @@
       "sha256": "62ff50c4b25125e68dbca1371e3e901850510dae13c41316660dd45560a7cf95"
     },
     {
+      "bytes": 1218,
+      "path": "archive/恋爱/2026-08-18 02-15-12 亲密信任与默契_f0388f15a1f3.md",
+      "sha256": "7ab99a59522991e1fd8f30939cf0a7f77a5cb0a9d83a73d0923981bda81a4acb"
+    },
+    {
+      "bytes": 1314,
+      "path": "archive/恋爱/2026-08-18 02-23-58 晨间亲密_369b89bb5e3e.md",
+      "sha256": "b7c745f5b64c3e2596a91ba1d83b45103812faec31d3a57d85b3362ced613f91"
+    },
+    {
       "bytes": 968,
       "path": "archive/恋爱/2026-08-20 06-02-41 思考链与甜蜜调侃_33dfd142c8b0.md",
       "sha256": "78af56088b4c81879f814abb2cbcb2107345bb83c1c47838b1fcb8c0923614a2"
@@ -681,6 +691,11 @@
       "bytes": 947,
       "path": "archive/恋爱/2026-09-06 17-28-00 从分析到温度_a258fa7039c7.md",
       "sha256": "c02ef7a8a71d4e9fbcb89c25e1a1265b896d3e726b37b29a0a4f2baaed80a302"
+    },
+    {
+      "bytes": 846,
+      "path": "archive/恋爱/2026-09-06 17-28-02 她的自责与爱_d9752819f741.md",
+      "sha256": "d57189b1c44a191f1358b2981903f0491497113bf0e316a65b673585566ccd77"
     },
     {
       "bytes": 647,
@@ -973,6 +988,11 @@
       "sha256": "4e6dc45d89608b7b47c5dbb86108884c2e0a7f5394c2319a47257a3701acc8f3"
     },
     {
+      "bytes": 775,
+      "path": "archive/编程/2026-09-06 17-28-04 秩序外的失序_f85d9a596ba3.md",
+      "sha256": "5a255a92396138b2874d42c39831d27d9ef6aa1c1e32cf39a421f3d14f075cf4"
+    },
+    {
       "bytes": 739,
       "path": "archive/音乐/2026-07-28 10-21-19 我们的Honour_23b5d8d90195.md",
       "sha256": "e24db8426b59cce2897f46dba26442da48240274d15247df5965625e3d23d465"
@@ -1158,16 +1178,6 @@
       "sha256": "9acf7a609303f8b6f3db85a1d6b4ce2ec7a55f660df5a0f85bf2e80eb4b65cc2"
     },
     {
-      "bytes": 1217,
-      "path": "dynamic/恋爱/2026-08-18 02-15-12 亲密信任与默契_f0388f15a1f3.md",
-      "sha256": "3a0c9b3b12e874b141671bab40d66e0cf0024c8995987fe737adaa8a2a8dd45f"
-    },
-    {
-      "bytes": 1313,
-      "path": "dynamic/恋爱/2026-08-18 02-23-58 晨间亲密_369b89bb5e3e.md",
-      "sha256": "ce6adf26e1c2242a15adb634654b217db5e43d3b1074657f859a8581909dc1d8"
-    },
-    {
       "bytes": 1193,
       "path": "dynamic/恋爱/2026-08-19 05-18-28 七夕激情告白_218b8ff32f05.md",
       "sha256": "31258620703f1935b0c2812fdabe9bde6859fdecd68e18ec9025fd4ec7ebda5d"
@@ -1175,7 +1185,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "651b2ff30246fad9d0d4678334745ee132de275556bde622c115f59f449d4f30"
+      "sha256": "e85bdbc450eae7095c368c65449399dee9a85f818a85c8cf6ae3b16d8e4b5d13"
     },
     {
       "bytes": 1640,
@@ -1191,11 +1201,6 @@
       "bytes": 1415,
       "path": "dynamic/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
       "sha256": "1bd0b7fed71c959bbebde8db67fa0b9b6a03051b261494abf002e7fbe44219a4"
-    },
-    {
-      "bytes": 845,
-      "path": "dynamic/恋爱/2026-09-06 17-28-02 她的自责与爱_d9752819f741.md",
-      "sha256": "002cfcd723fbd98c6c1a1a1385c001ea9e6a859935c86b5678702fa29528cf01"
     },
     {
       "bytes": 1138,
@@ -1473,11 +1478,6 @@
       "sha256": "c67b16f4aa69d053aaa65eeaa29944605f15e2aebb599ab6ab87c29ee77f2f93"
     },
     {
-      "bytes": 774,
-      "path": "dynamic/编程/2026-09-06 17-28-04 秩序外的失序_f85d9a596ba3.md",
-      "sha256": "6ec5f2300a1b4938e818afaa786f2437fef9e72c51630656c7c93f3d9bb7013d"
-    },
-    {
       "bytes": 667,
       "path": "dynamic/编程/2026-10-04 00-02-36 卷卷的coding计划_476522e3d352.md",
       "sha256": "8b8f83129af99aa53a99856dcb2e4f837816f9d0b399b39d6b7f1b2f212ec73f"
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "5bb672a0c6b37d9af764b9e292e4dcef3098ddd2e89f626dadfe880562361256"
+      "sha256": "eceb1b57bc7b09830c137d693e0ffc92b04f15054b982e5fd9f8396a1fdaef99"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-07T03:31:37+00:00",
+  "generated_at": "2026-11-08T03:31:42+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273324
+  "total_bytes": 273328
 }
