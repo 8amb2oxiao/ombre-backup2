@@ -28,6 +28,16 @@
       "sha256": "b92341a51ad1a6abd025f22a9fdb0871589dd25ac12a4c49052185c215f6700b"
     },
     {
+      "bytes": 610,
+      "path": "archive/人际/2026-10-09 16-22-00 卷卷的套路_6cf6fdeb21fe.md",
+      "sha256": "0e970ba0b856b634bf86f8b117f2f4c5b87e671e8c4bf2b4f542dbc859d710bc"
+    },
+    {
+      "bytes": 591,
+      "path": "archive/人际/2026-10-09 16-22-03 互相揭底_953a56c7ebab.md",
+      "sha256": "10366f86787e210219907626f20d72c73eb63f872f3961d4ab424237e1d102f1"
+    },
+    {
       "bytes": 423,
       "path": "archive/健康/2026-07-29 23-44-03 褪黑素提醒_0aca11b43663.md",
       "sha256": "8735f412271f6911aac23ebfff88c945b33f3792b2adb12a296908ee5c27ad4c"
@@ -161,6 +171,11 @@
       "bytes": 1549,
       "path": "archive/心理/2026-08-11 05-10-25 记忆篡改与找回_f96f67daf613.md",
       "sha256": "04e0c6be9ab8cfe2dbb4e5dedc25f92752558b1e88e38a30d2f8e613fc111c17"
+    },
+    {
+      "bytes": 810,
+      "path": "archive/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
+      "sha256": "7fbde3924c6e356b7efc0340486c6d6034cb7b401838df917282fd1c732de43f"
     },
     {
       "bytes": 613,
@@ -758,6 +773,21 @@
       "sha256": "51b9faa05412277489b65f7247233080e93f8784712fc2f6f6ba19aa3ac33c77"
     },
     {
+      "bytes": 927,
+      "path": "archive/未分类/2026-08-22 23-30-22_8cb63b6fc356.md",
+      "sha256": "cd048993e723355180542e2785d51717227f4027b144f13f34cc33f9a0b8878e"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/未分类/2026-08-23 03-47-20_b590a60a6eb0.md",
+      "sha256": "7f78a1fea6a481921a862d130cd0f0d028eaf0fa9fbe581e40525b814637fe5c"
+    },
+    {
+      "bytes": 1005,
+      "path": "archive/未分类/2026-08-23 03-53-17_fa3382246b7c.md",
+      "sha256": "64282df65aa7963d3fab26bace52da726298c9d758af33aafd4df74891f08b6a"
+    },
+    {
       "bytes": 584,
       "path": "archive/未分类/2026-08-25 06-53-09_805033b6a6b8.md",
       "sha256": "537445096ccf39eb274156d4f9cfa44eb765d3793f4c3003c27925b33bf3d60c"
@@ -913,9 +943,19 @@
       "sha256": "a9d4ce51454b8e42a50c7d15bce86776a86bbdf2f0d100f12071bbd2a126fb1b"
     },
     {
+      "bytes": 1243,
+      "path": "archive/未分类/2026-09-01 01-36-29_267421f4b27b.md",
+      "sha256": "c566e85d2c780b250db039f59312333a5c8eb4643f462ca855506cc5d8e11398"
+    },
+    {
       "bytes": 720,
       "path": "archive/未分类/2026-09-01 01-36-31_0af4d4f6a330.md",
       "sha256": "a3de6518abe2c987b95ec8fa40d30fc9bde58fe5bb83dc4891189739f46d7105"
+    },
+    {
+      "bytes": 731,
+      "path": "archive/未分类/2026-09-01 01-36-32_49a54f2f344c.md",
+      "sha256": "201c8f0da202e8acdf25c119a3ba6f602888c2fcebfe358039d7b715be07f9ce"
     },
     {
       "bytes": 844,
@@ -1038,16 +1078,6 @@
       "sha256": "dbed0d52843cfb23c0d08ab290dd8c430702bf65541e3a65990435a43d749348"
     },
     {
-      "bytes": 594,
-      "path": "dynamic/人际/2026-10-09 16-22-00 卷卷的套路_6cf6fdeb21fe.md",
-      "sha256": "efb9fd7ee2139fc7d89b3c210ba91e6998f6a80ec21b1ad3aabd6f5443fcfe0c"
-    },
-    {
-      "bytes": 575,
-      "path": "dynamic/人际/2026-10-09 16-22-03 互相揭底_953a56c7ebab.md",
-      "sha256": "70427a4cb9e1de94257755b0da665053a8c53a1c9ce2635ff0f6b19caa2789f4"
-    },
-    {
       "bytes": 779,
       "path": "dynamic/人际/2026-10-10 15-59-38 不打扰的温柔_bc59e81100e4.md",
       "sha256": "46cff3e0a2be419a1322e5b90bff8180134ba29b1fa96b41648f3e2788a2620a"
@@ -1128,11 +1158,6 @@
       "sha256": "2103c5157ccbc7f2c05645171c5603387325446e239087eb58efe6ec70dcfb82"
     },
     {
-      "bytes": 809,
-      "path": "dynamic/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
-      "sha256": "bcb5e890527c8f3b0c30c5fa50f65480d977164d60e21ebf9ebcb911f519e041"
-    },
-    {
       "bytes": 957,
       "path": "dynamic/恋爱/2026-07-28 04-47-36 关系定义与昵称_a978d3f3cb07.md",
       "sha256": "3d88344af6bcfa02e964da1f6bb948a40f9a22ee75c7ca0acb5b4d998744ecaf"
@@ -1185,7 +1210,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "e85bdbc450eae7095c368c65449399dee9a85f818a85c8cf6ae3b16d8e4b5d13"
+      "sha256": "89f027453de65ac5e6765c07587f674ba05f19537dccced5ea378cff675b9bd7"
     },
     {
       "bytes": 1640,
@@ -1408,34 +1433,9 @@
       "sha256": "0b5c34771bee226e662d6ce259cde73123da8127ae6b800b169c4714cee05045"
     },
     {
-      "bytes": 926,
-      "path": "dynamic/未分类/2026-08-22 23-30-22_8cb63b6fc356.md",
-      "sha256": "e16c41e52d1bd8b1e20b542280fa9fb22fc682b3e53fc3dc556bd92f7290d002"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/未分类/2026-08-23 03-47-20_b590a60a6eb0.md",
-      "sha256": "962f5447682d37bb33627d78939eda143a36954eae0389e40f443eef1e383755"
-    },
-    {
-      "bytes": 1004,
-      "path": "dynamic/未分类/2026-08-23 03-53-17_fa3382246b7c.md",
-      "sha256": "ba8ad1f2c2a7a7f24ab65a400e1ae8e7edee6affea4a8d03f4a7421ad8f3fba3"
-    },
-    {
       "bytes": 645,
       "path": "dynamic/未分类/2026-08-23 16-26-16_06d916cd575a.md",
       "sha256": "2b88364ba025c740c1ab8e9fcd7d14e2d6459c9f2f8552eb2ed6c8cd4d3ab144"
-    },
-    {
-      "bytes": 1242,
-      "path": "dynamic/未分类/2026-09-01 01-36-29_267421f4b27b.md",
-      "sha256": "ffb2faffe31a6f7a0ac8af9f2ec0bc5982f5d3f03f22aa06517c36be6156547c"
-    },
-    {
-      "bytes": 730,
-      "path": "dynamic/未分类/2026-09-01 01-36-32_49a54f2f344c.md",
-      "sha256": "2db409f65fe8b37cf9c4ec72fab4c9dbd0f890c2f8df12c218fe8c7eeab793ec"
     },
     {
       "bytes": 1339,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "eceb1b57bc7b09830c137d693e0ffc92b04f15054b982e5fd9f8396a1fdaef99"
+      "sha256": "1319dc3ad3ecf089b3d4194885b2c51ba70a499ce224b66bf082efdbaaed8e51"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-08T03:31:42+00:00",
+  "generated_at": "2026-11-09T03:31:46+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273328
+  "total_bytes": 273366
 }
