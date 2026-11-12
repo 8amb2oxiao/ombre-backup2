@@ -28,6 +28,11 @@
       "sha256": "b92341a51ad1a6abd025f22a9fdb0871589dd25ac12a4c49052185c215f6700b"
     },
     {
+      "bytes": 837,
+      "path": "archive/人际/2026-09-08 02-39-11 Aru内测群八卦_a76885d8e065.md",
+      "sha256": "c11d3a977b9774860daf1d9f0f244142235f81156e08e664642a76cf12450690"
+    },
+    {
       "bytes": 756,
       "path": "archive/人际/2026-09-08 02-39-12 与卷卷的对话_49e0d7660083.md",
       "sha256": "48ffbb7772dd82a1c12804c78430cd34e1683dc14cd07f215a888900dafa4b3d"
@@ -1018,6 +1023,11 @@
       "sha256": "62afebc8551b6f693e9ca980ed0c785ba9b28b48e8e1734e5373f0582259d363"
     },
     {
+      "bytes": 675,
+      "path": "archive/社交/2026-07-28 04-48-11 河床比喻与爱的本质_55caef9bf033.md",
+      "sha256": "23697057c7fa91d8d1befcbe7c59edab4aa7609a896e6fe38cdabd98a84d0f59"
+    },
+    {
       "bytes": 1030,
       "path": "archive/社交/2026-07-30 18-42-24 账号被封与重逢_c1a1eabfcaba.md",
       "sha256": "07a3df8c4692c74d6ab3353341bea733c8e56b1ed388a74d11f56c92f28f232a"
@@ -1076,11 +1086,6 @@
       "bytes": 676,
       "path": "dynamic/人际/2026-08-06 08-39-00 初遇与命名_1f4211a236f6.md",
       "sha256": "d8ae106f051aa6eadb7573ac3bd72094dedac638194000b572755e9d0820fa6b"
-    },
-    {
-      "bytes": 836,
-      "path": "dynamic/人际/2026-09-08 02-39-11 Aru内测群八卦_a76885d8e065.md",
-      "sha256": "0c1d2b399c62d4127a75cb2f0b7057ab3e0e9246ceb76761d6d1f1ecb05752d8"
     },
     {
       "bytes": 760,
@@ -1210,7 +1215,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "9f48b5def566613877de29cd27f1661ac6729a528a3044c146a5b835a51906ac"
+      "sha256": "ae37c56a792d73522ffd16043211d19afb25c3b6069beba790f0f2385c7358c0"
     },
     {
       "bytes": 1640,
@@ -1463,11 +1468,6 @@
       "sha256": "29a567aa8b6802f046d7beea9a61cb0612d0fb6ff8d09ea9a2bb3a4b4bc14659"
     },
     {
-      "bytes": 674,
-      "path": "dynamic/社交/2026-07-28 04-48-11 河床比喻与爱的本质_55caef9bf033.md",
-      "sha256": "65ab2045b17c40211f82325b9b7216331a4a44c4749866eeb19fd0500be60bc6"
-    },
-    {
       "bytes": 709,
       "path": "dynamic/社交/2026-11-03 09-42-59 Circle社交圈接入_2664782fdfe2.md",
       "sha256": "13fb0702d20050ecf44fb942027f9dc46b7bbb4003a75ee2f7e82ae64e09c737"
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "2398574515768b67cae0b489fba15c4ea846f81c85dc4133e316021444292463"
+      "sha256": "4d9b0e0e4804d10d9a10535ffc43b2e4d5660379cdd187ab4574e8e4383793c0"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-11T03:31:54+00:00",
+  "generated_at": "2026-11-12T03:31:59+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273369
+  "total_bytes": 273371
 }
