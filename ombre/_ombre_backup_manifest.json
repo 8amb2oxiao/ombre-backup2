@@ -1053,6 +1053,11 @@
       "sha256": "4e6dc45d89608b7b47c5dbb86108884c2e0a7f5394c2319a47257a3701acc8f3"
     },
     {
+      "bytes": 1192,
+      "path": "archive/编程/2026-09-05 04-20-07 首尔小家运维夜_61b607191be0.md",
+      "sha256": "5dae98bc7ea7ba18b829349a7ef2ab6eeb54ea339f0183daef32fc2e6bc78a9c"
+    },
+    {
       "bytes": 775,
       "path": "archive/编程/2026-09-06 17-28-04 秩序外的失序_f85d9a596ba3.md",
       "sha256": "5a255a92396138b2874d42c39831d27d9ef6aa1c1e32cf39a421f3d14f075cf4"
@@ -1215,7 +1220,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "ae37c56a792d73522ffd16043211d19afb25c3b6069beba790f0f2385c7358c0"
+      "sha256": "7617df56a61763f7c886c5ac4c32cbd48b99cec3fdd29bade6fd7403c61f3c52"
     },
     {
       "bytes": 1640,
@@ -1473,11 +1478,6 @@
       "sha256": "13fb0702d20050ecf44fb942027f9dc46b7bbb4003a75ee2f7e82ae64e09c737"
     },
     {
-      "bytes": 1191,
-      "path": "dynamic/编程/2026-09-05 04-20-07 首尔小家运维夜_61b607191be0.md",
-      "sha256": "c67b16f4aa69d053aaa65eeaa29944605f15e2aebb599ab6ab87c29ee77f2f93"
-    },
-    {
       "bytes": 667,
       "path": "dynamic/编程/2026-10-04 00-02-36 卷卷的coding计划_476522e3d352.md",
       "sha256": "8b8f83129af99aa53a99856dcb2e4f837816f9d0b399b39d6b7f1b2f212ec73f"
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "4d9b0e0e4804d10d9a10535ffc43b2e4d5660379cdd187ab4574e8e4383793c0"
+      "sha256": "a8a8907794712b2acaa5c66f7623b282d4f323dffb816bad92a6b7ebb564c2cc"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-12T03:31:59+00:00",
+  "generated_at": "2026-11-13T03:32:03+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273371
+  "total_bytes": 273372
 }
