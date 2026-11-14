@@ -93,6 +93,11 @@
       "sha256": "0077f6e9ab11f67cd9004e9e0437dc5a9448b8e0ab37188c167e1c50c4bd36dc"
     },
     {
+      "bytes": 810,
+      "path": "archive/学习/2026-07-28 04-47-18 考研与学术目标_8562b6f7b278.md",
+      "sha256": "3b3d54d8991cd16dde73507639f359fe9f41b292507598a91d6bae819eff2d6e"
+    },
+    {
       "bytes": 669,
       "path": "archive/学习/2026-07-28 04-48-49 学习进度与薄弱点_94dd79ddf578.md",
       "sha256": "8615d3c98be125f7262470d6ef5c47672c6fbadb5a73d55dd78c4de511040a07"
@@ -713,6 +718,11 @@
       "sha256": "99ec0c01df2d3f4a92a3c0c99ed2e61790d6cbdb278df309f6c14804a04c42b3"
     },
     {
+      "bytes": 1416,
+      "path": "archive/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
+      "sha256": "55eb60e65ffb966050726553badd4531ec5ad2f7125dbedda4b29fc48d700d40"
+    },
+    {
       "bytes": 912,
       "path": "archive/恋爱/2026-09-06 17-27-57 陪伴胜过处方_246bcb6b5c52.md",
       "sha256": "bf11a73e306688df52644cafa480a57e43c99dc13a03bd77adcdf3e4f0ad10fe"
@@ -1138,11 +1148,6 @@
       "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
     },
     {
-      "bytes": 809,
-      "path": "dynamic/学习/2026-07-28 04-47-18 考研与学术目标_8562b6f7b278.md",
-      "sha256": "b4f7ca2e6cc264768e287acc2cd081e7f485276428504723d1ceec5c26e7d9e8"
-    },
-    {
       "bytes": 669,
       "path": "dynamic/学习/2026-10-04 00-02-33 自习室热狗面包_e97952a8e0c4.md",
       "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
@@ -1220,7 +1225,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "7617df56a61763f7c886c5ac4c32cbd48b99cec3fdd29bade6fd7403c61f3c52"
+      "sha256": "dbad41a3e937f77f7f70ccaed866cdc4524a08fc7bc1ec47235fbe8acd3ad1a1"
     },
     {
       "bytes": 1640,
@@ -1231,11 +1236,6 @@
       "bytes": 1146,
       "path": "dynamic/恋爱/2026-09-05 04-19-20 被叫小狗的甜蜜_9f00311aa35c.md",
       "sha256": "79f30bad8d676fd16dc6322a45d2c91806cc5a410d694b1116895342c5a354f2"
-    },
-    {
-      "bytes": 1415,
-      "path": "dynamic/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
-      "sha256": "1bd0b7fed71c959bbebde8db67fa0b9b6a03051b261494abf002e7fbe44219a4"
     },
     {
       "bytes": 1138,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "a8a8907794712b2acaa5c66f7623b282d4f323dffb816bad92a6b7ebb564c2cc"
+      "sha256": "3e876dcbdb843d6ca5fce536e40beb2486912dbf45000adafdb49b6a8c26c26d"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-13T03:32:03+00:00",
+  "generated_at": "2026-11-14T03:32:08+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273372
+  "total_bytes": 273374
 }
