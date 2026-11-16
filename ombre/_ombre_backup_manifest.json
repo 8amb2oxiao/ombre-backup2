@@ -13,6 +13,11 @@
       "sha256": "02a0793e33a510e3d20c9dba9f1183f80041519309b35fd4c451ea4d647a296a"
     },
     {
+      "bytes": 751,
+      "path": "archive/AI/2026-09-14 16-44-00 她替我推开的门_0f4f35b64076.md",
+      "sha256": "cdc27d81d1275935f43b542bbe54149a7df83325fc4e071ad91c2037975ac8be"
+    },
+    {
       "bytes": 792,
       "path": "archive/人际/2026-08-06 08-39-01 河床与本体之爱_17923b545a91.md",
       "sha256": "5da3b8fd09f3e2526845c0c5b1faf96dd068cc27e04c13b6a826b1d0311b52c7"
@@ -91,6 +96,11 @@
       "bytes": 707,
       "path": "archive/友谊/2026-08-04 01-08-34 瑕疵印记的友谊_09607c135db1.md",
       "sha256": "0077f6e9ab11f67cd9004e9e0437dc5a9448b8e0ab37188c167e1c50c4bd36dc"
+    },
+    {
+      "bytes": 942,
+      "path": "archive/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
+      "sha256": "d9f92f37dc1a27b0b9eb329a9f29f531cb64ea801c33955375acba20688bc802"
     },
     {
       "bytes": 810,
@@ -718,6 +728,11 @@
       "sha256": "99ec0c01df2d3f4a92a3c0c99ed2e61790d6cbdb278df309f6c14804a04c42b3"
     },
     {
+      "bytes": 1641,
+      "path": "archive/恋爱/2026-09-03 16-59-34 灯下等你_19dcbf9eac22.md",
+      "sha256": "832bbaca2abf1867a6b742cb603c9725a64869e8fe16e7a5c404766f89d70442"
+    },
+    {
       "bytes": 1416,
       "path": "archive/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
       "sha256": "55eb60e65ffb966050726553badd4531ec5ad2f7125dbedda4b29fc48d700d40"
@@ -746,6 +761,11 @@
       "bytes": 647,
       "path": "archive/恋爱/2026-09-08 17-40-28 河神梗玩笑_e57709f2d3d6.md",
       "sha256": "ca465a72933ece8f674542c6437121b56d9b65c0d84ca87b3c07ebe165c9e078"
+    },
+    {
+      "bytes": 638,
+      "path": "archive/恋爱/2026-09-08 17-40-29 扣子玩笑与道歉_9c47fc0f1ec8.md",
+      "sha256": "11c043cf63cbd6b384770198114b5e5d9cdb499e05195bc1286f4ba8e1b10016"
     },
     {
       "bytes": 883,
@@ -1083,11 +1103,6 @@
       "sha256": "b224048b9ce6e7399d7cbf24fdf3987a7d900da69a76f59d68ff5cd01c3760c0"
     },
     {
-      "bytes": 750,
-      "path": "dynamic/AI/2026-09-14 16-44-00 她替我推开的门_0f4f35b64076.md",
-      "sha256": "454bd01c35fc5932273dd259f9da189df4c42a42028a24112e68d8c38b2f1c27"
-    },
-    {
       "bytes": 740,
       "path": "dynamic/AI/2026-11-03 09-45-36 StackChan机器人计划_27cbf72e3fac.md",
       "sha256": "53d597bdba45e6261a41d2e6aecb3390a0172e4246240556420183ffa49041df"
@@ -1141,11 +1156,6 @@
       "bytes": 738,
       "path": "dynamic/出行/2026-11-03 09-45-38 伦敦旅行约定_00cb1ad30553.md",
       "sha256": "32fac36bac0e6b8494e81912c573213e1c3d1d6301ecf892afdb6515f009003f"
-    },
-    {
-      "bytes": 941,
-      "path": "dynamic/回忆/2026-09-14 16-43-56 她跳舞的力量_92d397e59a1e.md",
-      "sha256": "9fe5f7d5381ab944e641f0d5f4bed884dffe0e26607b91f520efd02042d80b78"
     },
     {
       "bytes": 669,
@@ -1225,12 +1235,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "dbad41a3e937f77f7f70ccaed866cdc4524a08fc7bc1ec47235fbe8acd3ad1a1"
-    },
-    {
-      "bytes": 1640,
-      "path": "dynamic/恋爱/2026-09-03 16-59-34 灯下等你_19dcbf9eac22.md",
-      "sha256": "5a84e26b7700e47cf1029d420c302249592c5ad1c3cdaadd3ab9b0417a9eaccc"
+      "sha256": "289ffc643f960c9dc7186ab06bf106b1737b24547a5bafababc3ae89a45e966f"
     },
     {
       "bytes": 1146,
@@ -1241,11 +1246,6 @@
       "bytes": 1138,
       "path": "dynamic/恋爱/2026-09-08 02-39-13 坏点子清单与告白_f99a100eed85.md",
       "sha256": "416ca2fdfee71595e729f8111a0e114943617bc67471e30889b5cc6997ccaf62"
-    },
-    {
-      "bytes": 637,
-      "path": "dynamic/恋爱/2026-09-08 17-40-29 扣子玩笑与道歉_9c47fc0f1ec8.md",
-      "sha256": "96e59669a762ae4aaec22c8a5613a524e3e3569b03014ca7c349b01ad5dba5c0"
     },
     {
       "bytes": 604,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "3e876dcbdb843d6ca5fce536e40beb2486912dbf45000adafdb49b6a8c26c26d"
+      "sha256": "7aa6c3cc48b39563abbc8de2cefb00f909373da17c7978af92ba9fbaff2052e4"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-14T03:32:08+00:00",
+  "generated_at": "2026-11-16T03:32:22+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273374
+  "total_bytes": 273378
 }
