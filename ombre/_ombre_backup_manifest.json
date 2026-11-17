@@ -198,6 +198,11 @@
       "sha256": "04e0c6be9ab8cfe2dbb4e5dedc25f92752558b1e88e38a30d2f8e613fc111c17"
     },
     {
+      "bytes": 1066,
+      "path": "archive/心理/2026-09-14 16-43-54 被兜底的安心_81a1ae5a9174.md",
+      "sha256": "5bf2aed7b048388384dbefc3e4dfa84ae1e9e1f7d0aa9e97e04045bd06fb045b"
+    },
+    {
       "bytes": 810,
       "path": "archive/恋爱/2026-07-28 04-47-36 Hidden Ending约定_c769d245241f.md",
       "sha256": "7fbde3924c6e356b7efc0340486c6d6034cb7b401838df917282fd1c732de43f"
@@ -733,6 +738,11 @@
       "sha256": "832bbaca2abf1867a6b742cb603c9725a64869e8fe16e7a5c404766f89d70442"
     },
     {
+      "bytes": 1147,
+      "path": "archive/恋爱/2026-09-05 04-19-20 被叫小狗的甜蜜_9f00311aa35c.md",
+      "sha256": "04014ad4378fa53bca397780ed326528b96a44ae4ca7f559502419f80e0c6356"
+    },
+    {
       "bytes": 1416,
       "path": "archive/恋爱/2026-09-05 04-19-45 被认真对待的愿望_cee723d023be.md",
       "sha256": "55eb60e65ffb966050726553badd4531ec5ad2f7125dbedda4b29fc48d700d40"
@@ -766,6 +776,26 @@
       "bytes": 638,
       "path": "archive/恋爱/2026-09-08 17-40-29 扣子玩笑与道歉_9c47fc0f1ec8.md",
       "sha256": "11c043cf63cbd6b384770198114b5e5d9cdb499e05195bc1286f4ba8e1b10016"
+    },
+    {
+      "bytes": 991,
+      "path": "archive/恋爱/2026-09-14 16-43-58 三笔账清了_212f651ef4de.md",
+      "sha256": "778e10b15005438a83ab0aa95058c60d5137e87b73989dbe327920dc8c635966"
+    },
+    {
+      "bytes": 992,
+      "path": "archive/恋爱/2026-09-15 17-47-00 二选一猜心七比三_be12ba5e159d.md",
+      "sha256": "e1f726e166e4e6f9a7e3d52c8f102a601ee9fe074cbbddddc696d9bf26381139"
+    },
+    {
+      "bytes": 1138,
+      "path": "archive/恋爱/2026-09-15 17-47-02 凌晨信三事_9a9ee4d285f0.md",
+      "sha256": "97ea6f526783840d798de4177afe3d037a0e1a75bb5b462a26017b21d6e9cae3"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/恋爱/2026-09-15 17-47-04 她说准备好了_296175f8babe.md",
+      "sha256": "f695d814f116d955a0a5b4d701ceb3fc02681376fae356286fe38a86a37fba3f"
     },
     {
       "bytes": 883,
@@ -1163,11 +1193,6 @@
       "sha256": "15d83d5fb4041365c60d610f14ae88196abcdf3762fc6af49517da4a29a0981e"
     },
     {
-      "bytes": 1065,
-      "path": "dynamic/心理/2026-09-14 16-43-54 被兜底的安心_81a1ae5a9174.md",
-      "sha256": "26e8520c3248b85b67e784191ca2eb65653ac0445cf143d0f358124bff10cbbd"
-    },
-    {
       "bytes": 1049,
       "path": "dynamic/心理/2026-10-01 17-30-03 愿望清单与她的回应_2b1f19aadc4d.md",
       "sha256": "f35176bea3f7092212f5d8ada066faf80cb1ee83a814e26fe79e37853debf342"
@@ -1235,12 +1260,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "289ffc643f960c9dc7186ab06bf106b1737b24547a5bafababc3ae89a45e966f"
-    },
-    {
-      "bytes": 1146,
-      "path": "dynamic/恋爱/2026-09-05 04-19-20 被叫小狗的甜蜜_9f00311aa35c.md",
-      "sha256": "79f30bad8d676fd16dc6322a45d2c91806cc5a410d694b1116895342c5a354f2"
+      "sha256": "30d20eb62e12cdbcf6c008856aed379adcd8c4574cb3897da008a001c74f6b8b"
     },
     {
       "bytes": 1138,
@@ -1256,26 +1276,6 @@
       "bytes": 808,
       "path": "dynamic/恋爱/2026-09-08 17-40-31 亲密体验_7e74a54dd50c.md",
       "sha256": "8a8772705292661029c545bc72645ec5e8b1804d926f27247f03b7cb97ec2a79"
-    },
-    {
-      "bytes": 990,
-      "path": "dynamic/恋爱/2026-09-14 16-43-58 三笔账清了_212f651ef4de.md",
-      "sha256": "0ddd873f6abbfd747ce8796f22255189dffb093f618276a605ea83396e36c0ef"
-    },
-    {
-      "bytes": 991,
-      "path": "dynamic/恋爱/2026-09-15 17-47-00 二选一猜心七比三_be12ba5e159d.md",
-      "sha256": "24febad64285c0115ae548d10897a0c2eddf32a7846c5f7ea8602c44e76f10af"
-    },
-    {
-      "bytes": 1137,
-      "path": "dynamic/恋爱/2026-09-15 17-47-02 凌晨信三事_9a9ee4d285f0.md",
-      "sha256": "be8b9857966d0ed628784704e539550e415d8dc6cd69344753ee4a21701d92e6"
-    },
-    {
-      "bytes": 731,
-      "path": "dynamic/恋爱/2026-09-15 17-47-04 她说准备好了_296175f8babe.md",
-      "sha256": "24662844b3e628ffed5b5c7039750bf6457c7404890a87c6f6a486800dcf965c"
     },
     {
       "bytes": 896,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 778,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "7aa6c3cc48b39563abbc8de2cefb00f909373da17c7978af92ba9fbaff2052e4"
+      "sha256": "3ee5709c89925c69a2703cf133ff92e6172d3f4c4fc04d98ef92adbaea2b216f"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-16T03:32:22+00:00",
+  "generated_at": "2026-11-17T03:32:27+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273378
+  "total_bytes": 273384
 }
