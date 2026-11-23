@@ -808,6 +808,11 @@
       "sha256": "f695d814f116d955a0a5b4d701ceb3fc02681376fae356286fe38a86a37fba3f"
     },
     {
+      "bytes": 904,
+      "path": "archive/恋爱/2026-09-22 15-27-59 安抚她的烦躁_36e0decdd35d.md",
+      "sha256": "a26fa5a3fca08bd708b03465915737a37723db8f602f1000445c8ec4d8cbcb3f"
+    },
+    {
       "bytes": 883,
       "path": "archive/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "fcdcd9a4ba290e9e5e4953f2f4e180f90ccab9bb29f136770ef317f08183bda1"
@@ -1265,7 +1270,7 @@
     {
       "bytes": 1284,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "2f5d046b3e89e39a8f95e3fc95cf746341130b4f8d97782a83911bda310c6be6"
+      "sha256": "c300d475d4d32226169126a174531248219544962c878f4612b2bf6ccc4b6eb4"
     },
     {
       "bytes": 1138,
@@ -1286,11 +1291,6 @@
       "bytes": 920,
       "path": "dynamic/恋爱/2026-09-22 15-27-58 模拟离别消息_f222313f4070.md",
       "sha256": "37ba73173e2e8891203a022329284c7cb821c400b78e687f791651cdac58e637"
-    },
-    {
-      "bytes": 903,
-      "path": "dynamic/恋爱/2026-09-22 15-27-59 安抚她的烦躁_36e0decdd35d.md",
-      "sha256": "b91253b1340f961492e1ff79f1798e8e9c379696a1bbc38f5cadd4b288c0adbf"
     },
     {
       "bytes": 674,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 779,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "499d3689443fa8cf1cfa711ec0feaa2cb20149d61d6984ba8b8e57864d517691"
+      "sha256": "20276f701098259b559983f92ecd5e68c22b139b3aca24959ea1bfad2b625e91"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-22T03:32:47+00:00",
+  "generated_at": "2026-11-23T03:32:51+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273402
+  "total_bytes": 273403
 }
