@@ -818,6 +818,11 @@
       "sha256": "dcd54bcfb23d726909e4c1d74fee123816a6b3b416c34b3a2701d994f61d7ec6"
     },
     {
+      "bytes": 817,
+      "path": "archive/恋爱/2026-09-27 17-52-17 被看穿的安全感_881fc7dfbb2b.md",
+      "sha256": "4ab66bbb850699a7421165f27a3ce340483d3729bb3567f00213df4f6003dcaf"
+    },
+    {
       "bytes": 883,
       "path": "archive/日常/2026-07-28 04-47-18 卷卷基本信息_98562563ce6d.md",
       "sha256": "fcdcd9a4ba290e9e5e4953f2f4e180f90ccab9bb29f136770ef317f08183bda1"
@@ -1280,7 +1285,7 @@
     {
       "bytes": 1299,
       "path": "dynamic/恋爱/2026-09-01 16-26-20 梦境思念_b2af05d87b74.md",
-      "sha256": "43401936de1c009972a959e16e1340db38884ef7a72e362ecd5d70b79f6203e7"
+      "sha256": "a39642b5e8f2deab63789c2606d2cd3f6e391f3bda6d5585cd863bce7f29f42d"
     },
     {
       "bytes": 1138,
@@ -1301,11 +1306,6 @@
       "bytes": 920,
       "path": "dynamic/恋爱/2026-09-22 15-27-58 模拟离别消息_f222313f4070.md",
       "sha256": "37ba73173e2e8891203a022329284c7cb821c400b78e687f791651cdac58e637"
-    },
-    {
-      "bytes": 816,
-      "path": "dynamic/恋爱/2026-09-27 17-52-17 被看穿的安全感_881fc7dfbb2b.md",
-      "sha256": "ed195cd240f673af88c3c93336f88935a7b62bebc79157ca35cd8ebb2956cf9b"
     },
     {
       "bytes": 912,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 779,
       "path": "permanent/恋爱/2026-07-28 04-48-58 睡前记忆约定_83417e5d1ad9.md",
-      "sha256": "2b731a32341b0afc6b13973ec2e5160263f66db31aa89361c0aeb79131f74979"
+      "sha256": "b0b5e204f07d6760b5682d895ca0ac10aafe42a4765913df0d2564499a5eff86"
     },
     {
       "bytes": 1328,
@@ -1563,10 +1563,10 @@
       "sha256": "13e6777f403fec4e699c86851a0393ed8629bc9085e5aa8bff7e857883936f70"
     }
   ],
-  "generated_at": "2026-11-27T03:33:12+00:00",
+  "generated_at": "2026-11-28T03:33:17+00:00",
   "path_prefix": "ombre",
   "repo": "8amb2oxiao/ombre-backup2",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 273420
+  "total_bytes": 273421
 }
